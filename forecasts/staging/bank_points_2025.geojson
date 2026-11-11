@@ -1,0 +1,2856 @@
+{
+ "type": "FeatureCollection",
+ "name": "bank_points_2025",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.16803858890313,
+     23.24907140224434
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 1,
+    "side": "L",
+    "predicted_displacement_m": 10.828,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.16784307270262,
+     23.247967993759467
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 1,
+    "side": "R",
+    "predicted_displacement_m": 14.869,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1710129663986,
+     23.248764139739833
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 2,
+    "side": "L",
+    "predicted_displacement_m": 0.67,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17074852586427,
+     23.24688551485817
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 2,
+    "side": "R",
+    "predicted_displacement_m": -3.079,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17447929309925,
+     23.24856928175391
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 3,
+    "side": "L",
+    "predicted_displacement_m": 2.174,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17427409462981,
+     23.246902620941924
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 3,
+    "side": "R",
+    "predicted_displacement_m": 2.115,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17786124406594,
+     23.24861032482814
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 4,
+    "side": "L",
+    "predicted_displacement_m": -0.039,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17772469063543,
+     23.24671977675852
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 4,
+    "side": "R",
+    "predicted_displacement_m": -0.77,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18133234229929,
+     23.2484264151096
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 5,
+    "side": "L",
+    "predicted_displacement_m": 2.705,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18105380951795,
+     23.24649141429128
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 5,
+    "side": "R",
+    "predicted_displacement_m": 1.176,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18467809619341,
+     23.247934143198833
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 6,
+    "side": "L",
+    "predicted_displacement_m": 1.513,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18427552384253,
+     23.246014373474573
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 6,
+    "side": "R",
+    "predicted_displacement_m": 0.433,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18793438861026,
+     23.24717656033607
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 7,
+    "side": "L",
+    "predicted_displacement_m": 1.122,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18743688399361,
+     23.245508439174163
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 7,
+    "side": "R",
+    "predicted_displacement_m": 2.876,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19112436003073,
+     23.246149891763014
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 8,
+    "side": "L",
+    "predicted_displacement_m": 1.088,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19038994755232,
+     23.244509792779887
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 8,
+    "side": "R",
+    "predicted_displacement_m": -0.805,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19422237800183,
+     23.244994812758108
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 9,
+    "side": "L",
+    "predicted_displacement_m": 19.375,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19331899401004,
+     23.243443186890865
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 9,
+    "side": "R",
+    "predicted_displacement_m": 3.721,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19715952702225,
+     23.24320431367839
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 10,
+    "side": "L",
+    "predicted_displacement_m": 28.888,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19610332310275,
+     23.2419153442307
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 10,
+    "side": "R",
+    "predicted_displacement_m": -2.505,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2006890951891,
+     23.241872308790644
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 11,
+    "side": "L",
+    "predicted_displacement_m": -17.797,
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1985878183556,
+     23.239978429550955
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 11,
+    "side": "R",
+    "predicted_displacement_m": -10.746,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20177968222434,
+     23.238754315786856
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 12,
+    "side": "L",
+    "predicted_displacement_m": 2.652,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20040281668908,
+     23.237625033695206
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 12,
+    "side": "R",
+    "predicted_displacement_m": 2.891,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20372198681125,
+     23.23626167429196
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 13,
+    "side": "L",
+    "predicted_displacement_m": 19.955,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20216650010607,
+     23.23506074656007
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 13,
+    "side": "R",
+    "predicted_displacement_m": -4.785,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20590226723652,
+     23.23387804715263
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 14,
+    "side": "L",
+    "predicted_displacement_m": -8.485,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20444854994568,
+     23.232616294626787
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 14,
+    "side": "R",
+    "predicted_displacement_m": -7.75,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20851094064932,
+     23.231806964630895
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 15,
+    "side": "L",
+    "predicted_displacement_m": -3.405,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20714587852123,
+     23.23041414084034
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 15,
+    "side": "R",
+    "predicted_displacement_m": 5.64,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21100237906609,
+     23.229684223669008
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 16,
+    "side": "L",
+    "predicted_displacement_m": -3.388,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20976992341502,
+     23.228305180008512
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 16,
+    "side": "R",
+    "predicted_displacement_m": 3.868,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21373748261817,
+     23.22786057737392
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 17,
+    "side": "L",
+    "predicted_displacement_m": 0.004,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21250807468577,
+     23.226484981810874
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 17,
+    "side": "R",
+    "predicted_displacement_m": -0.016,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21634387220679,
+     23.225872647057127
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 18,
+    "side": "L",
+    "predicted_displacement_m": -6.345,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21489959385808,
+     23.22430675415673
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 18,
+    "side": "R",
+    "predicted_displacement_m": 8.175,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21904984043823,
+     23.223702631940142
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 19,
+    "side": "L",
+    "predicted_displacement_m": -2.44,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21747257586067,
+     23.222211087127135
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 19,
+    "side": "R",
+    "predicted_displacement_m": 4.646,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22173423406691,
+     23.221392467556633
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 20,
+    "side": "L",
+    "predicted_displacement_m": -2.212,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21997529673396,
+     23.22011730116607
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 20,
+    "side": "R",
+    "predicted_displacement_m": 0.242,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22381042958199,
+     23.218718096742197
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 21,
+    "side": "L",
+    "predicted_displacement_m": -5.352,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2218787520669,
+     23.217828420800483
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 21,
+    "side": "R",
+    "predicted_displacement_m": -6.063,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22517094299124,
+     23.2155713137224
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 22,
+    "side": "L",
+    "predicted_displacement_m": 7.837,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22340900936481,
+     23.21542981632352
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 22,
+    "side": "R",
+    "predicted_displacement_m": -7.111,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22503576212752,
+     23.21218268612178
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 23,
+    "side": "L",
+    "predicted_displacement_m": 17.941,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22316374446828,
+     23.212792763941266
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 23,
+    "side": "R",
+    "predicted_displacement_m": -6.826,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22277696885837,
+     23.209548726183048
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 24,
+    "side": "L",
+    "predicted_displacement_m": 25.623,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22130316923354,
+     23.21060916695105
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 24,
+    "side": "R",
+    "predicted_displacement_m": -9.828,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21974477702831,
+     23.20784710286252
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 25,
+    "side": "L",
+    "predicted_displacement_m": 8.601,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21857898919055,
+     23.208985811322204
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 25,
+    "side": "R",
+    "predicted_displacement_m": -0.95,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21732830708706,
+     23.205934374564023
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 26,
+    "side": "L",
+    "predicted_displacement_m": -7.247,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2155478273901,
+     23.207157402765244
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 26,
+    "side": "R",
+    "predicted_displacement_m": 6.92,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21530945185869,
+     23.203648402050305
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 27,
+    "side": "L",
+    "predicted_displacement_m": -8.151,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21333731746188,
+     23.20448814202429
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 27,
+    "side": "R",
+    "predicted_displacement_m": -2.754,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21526703025751,
+     23.200842604963327
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 28,
+    "side": "L",
+    "predicted_displacement_m": 12.803,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21366562596033,
+     23.201211218774137
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 28,
+    "side": "R",
+    "predicted_displacement_m": 0.891,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21519473665344,
+     23.197817822120523
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 29,
+    "side": "L",
+    "predicted_displacement_m": -1.486,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21233934739614,
+     23.198227937863063
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 29,
+    "side": "R",
+    "predicted_displacement_m": -7.077,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21476042112137,
+     23.19464506724924
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 30,
+    "side": "L",
+    "predicted_displacement_m": 7.585,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2119277160709,
+     23.195303753330254
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 30,
+    "side": "R",
+    "predicted_displacement_m": 11.815,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21381338589791,
+     23.191703261066763
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 31,
+    "side": "L",
+    "predicted_displacement_m": -6.237,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21090102977129,
+     23.19253786010449
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 31,
+    "side": "R",
+    "predicted_displacement_m": 2.562,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2127484009065,
+     23.188783764897273
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 32,
+    "side": "L",
+    "predicted_displacement_m": -1.286,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20982559421961,
+     23.189772778329985
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 32,
+    "side": "R",
+    "predicted_displacement_m": -1.655,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21164023735636,
+     23.186045889644603
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 33,
+    "side": "L",
+    "predicted_displacement_m": -0.544,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2086505858714,
+     23.186904283214258
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 33,
+    "side": "R",
+    "predicted_displacement_m": 5.169,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21081283608852,
+     23.183542136509264
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 34,
+    "side": "L",
+    "predicted_displacement_m": -0.587,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20763405175464,
+     23.183789098375794
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 34,
+    "side": "R",
+    "predicted_displacement_m": -4.372,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20969940958436,
+     23.180991079754698
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 35,
+    "side": "L",
+    "predicted_displacement_m": -0.053,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20768998995672,
+     23.180476686948296
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 35,
+    "side": "R",
+    "predicted_displacement_m": -3.13,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21080619656132,
+     23.17855210450653
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 36,
+    "side": "L",
+    "predicted_displacement_m": 4.484,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20948443710967,
+     23.1775930226686
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 36,
+    "side": "R",
+    "predicted_displacement_m": -0.885,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21354901665833,
+     23.177419985655284
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 37,
+    "side": "L",
+    "predicted_displacement_m": -6.61,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21244979699124,
+     23.175591379471424
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 37,
+    "side": "R",
+    "predicted_displacement_m": -1.671,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21630795069262,
+     23.176451586675842
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 38,
+    "side": "L",
+    "predicted_displacement_m": -0.85,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2157080171502,
+     23.174301786868007
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 38,
+    "side": "R",
+    "predicted_displacement_m": -2.258,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21938387573994,
+     23.175665170029927
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 39,
+    "side": "L",
+    "predicted_displacement_m": -3.983,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2192859957979,
+     23.173802593858365
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 39,
+    "side": "R",
+    "predicted_displacement_m": 0.142,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22272838649762,
+     23.17576548649542
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 40,
+    "side": "L",
+    "predicted_displacement_m": 0.604,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22299577468256,
+     23.174404238003035
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 40,
+    "side": "R",
+    "predicted_displacement_m": 0.753,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22570531436061,
+     23.176630586872612
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 41,
+    "side": "L",
+    "predicted_displacement_m": 0.667,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2262138815457,
+     23.175445597566807
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 41,
+    "side": "R",
+    "predicted_displacement_m": -0.624,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22840396763313,
+     23.178030649565454
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 42,
+    "side": "L",
+    "predicted_displacement_m": 0.567,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22921945323185,
+     23.176954210333342
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 42,
+    "side": "R",
+    "predicted_displacement_m": 0.46,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2307984575152,
+     23.18001766555365
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 43,
+    "side": "L",
+    "predicted_displacement_m": 1.375,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23202861841038,
+     23.17891532042491
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 43,
+    "side": "R",
+    "predicted_displacement_m": 3.846,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23278994839116,
+     23.182382676005478
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 44,
+    "side": "L",
+    "predicted_displacement_m": 2.497,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23430659250177,
+     23.181374561838474
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 44,
+    "side": "R",
+    "predicted_displacement_m": 1.525,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23441220909821,
+     23.18489712945677
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 45,
+    "side": "L",
+    "predicted_displacement_m": -1.026,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23602550196703,
+     23.1841169253296
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 45,
+    "side": "R",
+    "predicted_displacement_m": 3.487,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23571759646049,
+     23.187597766097127
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 46,
+    "side": "L",
+    "predicted_displacement_m": -9.235,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23740842953349,
+     23.18692173478414
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 46,
+    "side": "R",
+    "predicted_displacement_m": 0.668,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2367595477536,
+     23.190430322424863
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 47,
+    "side": "L",
+    "predicted_displacement_m": -1.674,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2385154900787,
+     23.18976125431088
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 47,
+    "side": "R",
+    "predicted_displacement_m": -0.032,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23756794421944,
+     23.19340633199597
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 48,
+    "side": "L",
+    "predicted_displacement_m": -0.661,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23991525538642,
+     23.19242313011986
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 48,
+    "side": "R",
+    "predicted_displacement_m": -1.18,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23887839764821,
+     23.19632692206619
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 49,
+    "side": "L",
+    "predicted_displacement_m": -5.3,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24109326071193,
+     23.195069409316133
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 49,
+    "side": "R",
+    "predicted_displacement_m": -6.51,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24092004001359,
+     23.199232894343215
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 50,
+    "side": "L",
+    "predicted_displacement_m": 6.083,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24266346230651,
+     23.197324663171717
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 50,
+    "side": "R",
+    "predicted_displacement_m": -13.302,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24402813184044,
+     23.201175362944205
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 51,
+    "side": "L",
+    "predicted_displacement_m": 14.529,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24444588746015,
+     23.19924892581723
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 51,
+    "side": "R",
+    "predicted_displacement_m": -10.216,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24777414261327,
+     23.200485811537423
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 52,
+    "side": "L",
+    "predicted_displacement_m": 23.082,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24713794606994,
+     23.19925620826373
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 52,
+    "side": "R",
+    "predicted_displacement_m": -6.305,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25034508623939,
+     23.197936598378046
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 53,
+    "side": "L",
+    "predicted_displacement_m": 6.652,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24882940544806,
+     23.197127748283734
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 53,
+    "side": "R",
+    "predicted_displacement_m": -13.527,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25109051435345,
+     23.194494759366695
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 54,
+    "side": "L",
+    "predicted_displacement_m": 7.828,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24959014992032,
+     23.194528457742265
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 54,
+    "side": "R",
+    "predicted_displacement_m": -4.234,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25028844631869,
+     23.191258739161377
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 55,
+    "side": "L",
+    "predicted_displacement_m": 9.817,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24906195499398,
+     23.191762411790986
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 55,
+    "side": "R",
+    "predicted_displacement_m": -4.785,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24778194436455,
+     23.188907016513504
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 56,
+    "side": "L",
+    "predicted_displacement_m": 3.473,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24665652808974,
+     23.189734509138574
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 56,
+    "side": "R",
+    "predicted_displacement_m": 2.587,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24532601547143,
+     23.186711332513767
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 57,
+    "side": "L",
+    "predicted_displacement_m": 1.561,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24385516059817,
+     23.188020498248942
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 57,
+    "side": "R",
+    "predicted_displacement_m": -3.978,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24299784148275,
+     23.184487435914466
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 58,
+    "side": "L",
+    "predicted_displacement_m": -2.499,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24128779836286,
+     23.185586674939557
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 58,
+    "side": "R",
+    "predicted_displacement_m": 4.309,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24120401378815,
+     23.182071961231554
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 59,
+    "side": "L",
+    "predicted_displacement_m": -7.139,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23972260194492,
+     23.182750176714407
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 59,
+    "side": "R",
+    "predicted_displacement_m": 12.553,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24047950990683,
+     23.179221667455483
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 60,
+    "side": "L",
+    "predicted_displacement_m": -1.102,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23871771993544,
+     23.179794834537685
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 60,
+    "side": "R",
+    "predicted_displacement_m": 0.303,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23996850705888,
+     23.17632533706687
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 61,
+    "side": "L",
+    "predicted_displacement_m": 0.556,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23761177410537,
+     23.176841880057033
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 61,
+    "side": "R",
+    "predicted_displacement_m": -0.231,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23908722601787,
+     23.173466930864848
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 62,
+    "side": "L",
+    "predicted_displacement_m": -5.89,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23673536499899,
+     23.173919476958815
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 62,
+    "side": "R",
+    "predicted_displacement_m": 5.844,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23830097997741,
+     23.170580602219285
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 63,
+    "side": "L",
+    "predicted_displacement_m": -2.367,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23620738563685,
+     23.17078054757042
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 63,
+    "side": "R",
+    "predicted_displacement_m": 6.434,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23807553571925,
+     23.16755297968235
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 64,
+    "side": "L",
+    "predicted_displacement_m": -1.81,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2362989347637,
+     23.167521792959725
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 64,
+    "side": "R",
+    "predicted_displacement_m": 3.866,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23846652872423,
+     23.164534720735507
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 65,
+    "side": "L",
+    "predicted_displacement_m": 1.91,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23667449813037,
+     23.164310321875206
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 65,
+    "side": "R",
+    "predicted_displacement_m": 2.164,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23908921600993,
+     23.16164763903099
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 66,
+    "side": "L",
+    "predicted_displacement_m": -0.395,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23693379383701,
+     23.16110257548122
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 66,
+    "side": "R",
+    "predicted_displacement_m": 12.724,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24002799124736,
+     23.158855489292804
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 67,
+    "side": "L",
+    "predicted_displacement_m": -0.083,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23828167614973,
+     23.158241045322264
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 67,
+    "side": "R",
+    "predicted_displacement_m": 0.286,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24134588902439,
+     23.156186309977585
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 68,
+    "side": "L",
+    "predicted_displacement_m": 10.215,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23976567868574,
+     23.155500833837685
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 68,
+    "side": "R",
+    "predicted_displacement_m": 4.377,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24281670204249,
+     23.153584923986283
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 69,
+    "side": "L",
+    "predicted_displacement_m": 5.211,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24103320806114,
+     23.15262237272769
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 69,
+    "side": "R",
+    "predicted_displacement_m": 0.214,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24472345739508,
+     23.151189409544394
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 70,
+    "side": "L",
+    "predicted_displacement_m": 17.453,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24276069902294,
+     23.150026201219347
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 70,
+    "side": "R",
+    "predicted_displacement_m": 10.157,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24654516436023,
+     23.14867702768271
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 71,
+    "side": "L",
+    "predicted_displacement_m": 19.871,
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24466884827737,
+     23.147403760850832
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 71,
+    "side": "R",
+    "predicted_displacement_m": 7.575,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25048851879302,
+     23.147356904451506
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 72,
+    "side": "L",
+    "predicted_displacement_m": -38.574,
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24673640825702,
+     23.14505031642179
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 72,
+    "side": "R",
+    "predicted_displacement_m": 2.091,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25113537994146,
+     23.144017800257014
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 73,
+    "side": "L",
+    "predicted_displacement_m": -3.628,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24850849233809,
+     23.142717757186507
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 73,
+    "side": "R",
+    "predicted_displacement_m": 5.714,
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25200399220063,
+     23.141017031988493
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 74,
+    "side": "L",
+    "predicted_displacement_m": -11.534,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings', 'border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24923827486192,
+     23.13980176932783
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 74,
+    "side": "R",
+    "predicted_displacement_m": -36.856,
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings', 'border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25305575427184,
+     23.137964282574238
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 75,
+    "side": "L",
+    "predicted_displacement_m": 0.909,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25073348384934,
+     23.13730743479841
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 75,
+    "side": "R",
+    "predicted_displacement_m": -1.626,
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']"
+   }
+  }
+ ]
+}

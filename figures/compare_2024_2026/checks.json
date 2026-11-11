@@ -1,0 +1,166 @@
+{
+  "checks": [
+    {
+      "check": "inputs_present",
+      "result": "PASS",
+      "detail": "28 required inputs present; manifest written before drawing",
+      "pass": true
+    },
+    {
+      "check": "frozen_inputs",
+      "result": "PASS",
+      "detail": "9 frozen/source hashes match frozen manifest",
+      "pass": true
+    },
+    {
+      "check": "mask_grid",
+      "result": "PASS",
+      "detail": "EPSG:32646, 30 m, shape [478, 355], no rotation",
+      "pass": true
+    },
+    {
+      "check": "metric_reproduction",
+      "result": "PASS",
+      "detail": "16 metric checks within 0.01 m; n_good=398",
+      "pass": true
+    },
+    {
+      "check": "overview_text",
+      "result": "PASS",
+      "detail": "3 overview text boxes use metrics.json MAEs/n; closer/farther/ties from predictions.csv",
+      "pass": true
+    },
+    {
+      "check": "changed_places",
+      "result": "PASS",
+      "detail": "3 years x 6 unique sections selected by maximum absolute observed displacement",
+      "pass": true
+    },
+    {
+      "check": "closer_groups",
+      "result": "PASS",
+      "detail": "398 valid pairs partitioned into closer/farther/tie groups",
+      "pass": true
+    },
+    {
+      "check": "connector_visibility",
+      "result": "NOTE",
+      "detail": "all 398 valid connectors drawn; true-scale overview 3.39 m/px; subpixel true/5x: 182/58",
+      "pass": true
+    },
+    {
+      "check": "figure_text_audit",
+      "result": "PASS",
+      "detail": "3 overview boxes and 18 changed-place tiles audited",
+      "pass": true
+    },
+    {
+      "check": "boundary_display",
+      "result": "PASS",
+      "detail": "displayed mask boundary max 0.00 m; observed points max 2.04e-09 m; source chord max 88.97 m is not drawn",
+      "pass": true
+    },
+    {
+      "check": "image_dimensions",
+      "result": "PASS",
+      "detail": "36 PNGs; minimum long side 2400 px; error-profile minimum width 2400 px",
+      "pass": true
+    },
+    {
+      "check": "frozen_unchanged",
+      "result": "PASS",
+      "detail": "21 frozen/model/metrics files unchanged",
+      "pass": true
+    },
+    {
+      "check": "api_health",
+      "result": "PASS",
+      "detail": "HTTP 200; status=ok; frozen=True",
+      "pass": true
+    },
+    {
+      "check": "spatial_holdout",
+      "result": "NOTE",
+      "detail": "0/5 blocks model beats zero; post hoc, low power, no bootstrap",
+      "pass": true
+    },
+    {
+      "check": "source_chord_note",
+      "result": "NOTE",
+      "detail": "supplied observed bankline chords reach 88.97 m from boundary; display uses unsimplified mask boundary",
+      "pass": true
+    },
+    {
+      "check": "input_missing",
+      "result": "EXPECTED-FAIL",
+      "detail": "FileNotFoundError: /media/saad/HDD/rivererosionaccretion/figures/compare_2024_2026/__definitely_missing__.tif",
+      "pass": true
+    },
+    {
+      "check": "frozen_hash",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Frozen input hash mismatch: d2c14782a764f64b3f905e923c27d1a80a3d2177b3d7bd94e8467b8c91a0f224 != 0000000000000000000000000000000000000000000000000000000000000000",
+      "pass": true
+    },
+    {
+      "check": "metric_plus_0.02",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Metric reproduction failed: 9.168572143199128 vs 9.148572143199129",
+      "pass": true
+    },
+    {
+      "check": "good_n_397",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: n_good_pairs mismatch: 397 != 398",
+      "pass": true
+    },
+    {
+      "check": "boundary_shift_31m",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Boundary check failed: 31.000 m > 30.0 m",
+      "pass": true
+    },
+    {
+      "check": "crs_4326",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: CRS mismatch: EPSG:4326",
+      "pass": true
+    },
+    {
+      "check": "image_100x100",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Image dimensions fail: 100x100",
+      "pass": true
+    },
+    {
+      "check": "holdout_leak",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Held-out transects in training rows: [1]",
+      "pass": true
+    },
+    {
+      "check": "overview_mae_plus_0.02",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Overview metric mismatch: 6.626315916911563 vs 6.606315916911563",
+      "pass": true
+    },
+    {
+      "check": "changed_places_duplicate",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Changed places selection has duplicate sections",
+      "pass": true
+    },
+    {
+      "check": "closer_group_mismatch",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Closer group counts do not sum to n_valid",
+      "pass": true
+    },
+    {
+      "check": "connector_count_397",
+      "result": "EXPECTED-FAIL",
+      "detail": "RuntimeError: Connector count mismatch: 397 != 398",
+      "pass": true
+    }
+  ]
+}

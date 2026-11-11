@@ -1,0 +1,58 @@
+{
+  "corridor_buffer_m": 400,
+  "map": {
+    "max_native_zoom": 18,
+    "max_zoom": 19,
+    "zoom_snap": 0.25,
+    "fallback_tile_error_limit": 3
+  },
+  "basemap": {
+    "satellite_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    "satellite_attribution": "Tiles © Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
+    "street_url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "street_attribution": "© OpenStreetMap contributors",
+    "fallback_overlay": "basemap/sentinel2_overlay.png",
+    "fallback_meta": "basemap/basemap.json",
+    "fallback_message": "Satellite photo needs internet. Measured layers still work."
+  },
+  "zones": {
+    "years": [1989, 2026],
+    "skip_years": [1997],
+    "block_years": 3,
+    "bootstrap_replicates": 1000,
+    "bootstrap_seed": 42,
+    "confidence": 0.9,
+    "stretch_transects": 3,
+    "recent_years": 10,
+    "band_width_m": 30,
+    "thresholds_m": {
+      "strong_lower": 150,
+      "moderate_lower": 30,
+      "land_gained_upper": -30
+    },
+    "relative_share": 0.2,
+    "relative_min_spearman": 0.3,
+    "tier_order": ["strong", "moderate", "land_gained", "no_clear"],
+    "tier_labels": {
+      "strong": "Strong past movement (potential erosion zone)",
+      "moderate": "Moderate past movement",
+      "land_gained": "Land gained",
+      "no_clear": "No clear movement"
+    },
+    "tier_colors": {
+      "strong": {"fill": "#a61b1b", "fill_opacity": 0.65, "outline": "#6f0f0f"},
+      "moderate": {"fill": "#c98512", "fill_opacity": 0.5, "outline": "#7d5208"},
+      "land_gained": {"fill": "#2478bf", "fill_opacity": 0.5, "outline": "#154f80"},
+      "no_clear": {"fill": "#c9ced2", "fill_opacity": 0.25, "outline": "#7b848a"}
+    },
+    "outline_styles": {
+      "strong": "solid",
+      "moderate": "dashed",
+      "land_gained": "dot",
+      "no_clear": "hairline"
+    },
+    "clear_layer_label": "Clear movement",
+    "relative_layer_label": "Most movement among stretches here",
+    "relative_note": "relative ranking, not proven to continue"
+  }
+}

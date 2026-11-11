@@ -1,0 +1,13 @@
+
+> river-bank-forecast-ui@1.0.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 82 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.76 kB │ gzip:  0.46 kB
+dist/assets/index-D67i5Ef3.css   27.98 kB │ gzip:  9.62 kB
+dist/assets/index-BbwUKo_6.js   321.25 kB │ gzip: 97.91 kB
+✓ built in 3.40s

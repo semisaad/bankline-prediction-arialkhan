@@ -1,0 +1,34 @@
+{
+  "selected": {
+    "difference_mae_m": 0.0,
+    "ci90_low_m": 0.0,
+    "ci90_high_m": 0.0,
+    "n_bootstrap": 10000,
+    "n_transects": 65,
+    "seed": 42
+  },
+  "median": {
+    "difference_mae_m": 0.0,
+    "ci90_low_m": 0.0,
+    "ci90_high_m": 0.0,
+    "n_bootstrap": 10000,
+    "n_transects": 65,
+    "seed": 42
+  },
+  "persistence": {
+    "difference_mae_m": 6.054983601358009,
+    "ci90_low_m": 3.8054926050490123,
+    "ci90_high_m": 8.204673234498127,
+    "n_bootstrap": 10000,
+    "n_transects": 65,
+    "seed": 42
+  },
+  "trend": {
+    "difference_mae_m": 3.562995371543968,
+    "ci90_low_m": 2.598647883982595,
+    "ci90_high_m": 4.53280695561419,
+    "n_bootstrap": 10000,
+    "n_transects": 65,
+    "seed": 42
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "status": "frozen",
+  "created_utc": "2026-10-21T06:11:09.272738+00:00",
+  "origin_year": 2024,
+  "forecast_years": [
+    2025,
+    2026
+  ],
+  "training_cutoff_year": 2024,
+  "selected_model": "zero",
+  "selected_kind": "zero_fallback",
+  "selected_label": "Zero change",
+  "features": [
+    "last_rate_m_per_yr",
+    "last2_mean_rate_m_per_yr",
+    "last3_mean_rate_m_per_yr",
+    "acceleration_m_per_yr2",
+    "last_displacement_m",
+    "last_interval_years",
+    "last_interval_good",
+    "width_m",
+    "width_change_last_m",
+    "abs_curvature_1_m",
+    "sinuosity",
+    "is_left_bank",
+    "horizon_years",
+    "elapsed_years",
+    "last_rate_missing",
+    "last2_missing",
+    "last3_missing",
+    "width_missing",
+    "curvature_missing",
+    "sinuosity_missing"
+  ],
+  "n_transects": 75,
+  "n_segments_per_year": 150,
+  "by_year": {
+    "2025": {
+      "n": 150,
+      "counts": {
+        "erosion": 0,
+        "accretion": 0,
+        "low_movement": 150
+      },
+      "share_predicted_move": 0.0,
+      "mean_m": 0.0,
+      "median_m": 0.0,
+      "mean_abs_m": 0.0,
+      "by_reach": {
+        "middle": {
+          "n": 50,
+          "mean_m": 0.0,
+          "share_predicted_move": 0.0
+        },
+        "north": {
+          "n": 50,
+          "mean_m": 0.0,
+          "share_predicted_move": 0.0
+        },
+        "south": {
+          "n": 50,
+          "mean_m": 0.0,
+          "share_predicted_move": 0.0
+        }
+      }
+    },
+    "2026": {
+      "n": 150,
+      "counts": {
+        "erosion": 0,
+        "accretion": 0,
+        "low_movement": 150
+      },
+      "share_predicted_move": 0.0,
+      "mean_m": 0.0,
+      "median_m": 0.0,
+      "mean_abs_m": 0.0,
+      "by_reach": {
+        "middle": {
+          "n": 50,
+          "mean_m": 0.0,
+          "share_predicted_move": 0.0
+        },
+        "north": {
+          "n": 50,
+          "mean_m": 0.0,
+          "share_predicted_move": 0.0
+        },
+        "south": {
+          "n": 50,
+          "mean_m": 0.0,
+          "share_predicted_move": 0.0
+        }
+      }
+    }
+  },
+  "forecast_supported": false,
+  "second_look": true,
+  "test_years_seen_before_experiment": [
+    2025,
+    2026
+  ],
+  "note": "Second look: 2024 is a training year and 2025-2026 were already seen in the v1 test. Predictions are conditional on the observed 2024 banks and fixed transects. forecast_supported remains false.",
+  "frozen_utc": "2026-10-21T06:11:23.079154+00:00"
+}

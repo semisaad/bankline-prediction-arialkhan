@@ -1,0 +1,899 @@
+{
+  "pass": 2,
+  "kind": "overlay and edge audit",
+  "created_utc": "2026-10-20T17:11:07.713600+00:00",
+  "years": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "pairs": [
+    {
+      "from_year": 1989,
+      "to_year": 1990,
+      "elapsed_years": 1,
+      "area_from_px": 8896,
+      "area_to_px": 7879,
+      "area_change_fraction": -0.11432104316546762,
+      "intersection_px": 7179,
+      "union_px": 9596,
+      "iou": 0.7481242184243435,
+      "lost_px": 1717,
+      "gained_px": 700,
+      "centroid_shift_m": 120.16812557770396,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 1990,
+      "to_year": 1991,
+      "elapsed_years": 1,
+      "area_from_px": 7879,
+      "area_to_px": 7332,
+      "area_change_fraction": -0.06942505394085544,
+      "intersection_px": 6166,
+      "union_px": 9045,
+      "iou": 0.6817025981205086,
+      "lost_px": 1713,
+      "gained_px": 1166,
+      "centroid_shift_m": 167.32681304404142,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.6817025981205086
+      }
+    },
+    {
+      "from_year": 1991,
+      "to_year": 1992,
+      "elapsed_years": 1,
+      "area_from_px": 7332,
+      "area_to_px": 9236,
+      "area_change_fraction": 0.259683578832515,
+      "intersection_px": 6270,
+      "union_px": 10298,
+      "iou": 0.6088560885608856,
+      "lost_px": 1062,
+      "gained_px": 2966,
+      "centroid_shift_m": 489.5859464920253,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.6088560885608856
+      }
+    },
+    {
+      "from_year": 1992,
+      "to_year": 1993,
+      "elapsed_years": 1,
+      "area_from_px": 9236,
+      "area_to_px": 7382,
+      "area_change_fraction": -0.2007362494586401,
+      "intersection_px": 6861,
+      "union_px": 9757,
+      "iou": 0.7031874551603977,
+      "lost_px": 2375,
+      "gained_px": 521,
+      "centroid_shift_m": 457.3029436230215,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.7031874551603977
+      }
+    },
+    {
+      "from_year": 1993,
+      "to_year": 1994,
+      "elapsed_years": 1,
+      "area_from_px": 7382,
+      "area_to_px": 7734,
+      "area_change_fraction": 0.047683554592251425,
+      "intersection_px": 6597,
+      "union_px": 8519,
+      "iou": 0.7743866651015378,
+      "lost_px": 785,
+      "gained_px": 1137,
+      "centroid_shift_m": 101.34997964151931,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 1994,
+      "to_year": 1995,
+      "elapsed_years": 1,
+      "area_from_px": 7734,
+      "area_to_px": 7268,
+      "area_change_fraction": -0.06025342642875614,
+      "intersection_px": 6741,
+      "union_px": 8261,
+      "iou": 0.816002905217286,
+      "lost_px": 993,
+      "gained_px": 527,
+      "centroid_shift_m": 134.77953271936124,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 1995,
+      "to_year": 1996,
+      "elapsed_years": 1,
+      "area_from_px": 7268,
+      "area_to_px": 8876,
+      "area_change_fraction": 0.2212438084755091,
+      "intersection_px": 6481,
+      "union_px": 9663,
+      "iou": 0.6707026803270206,
+      "lost_px": 787,
+      "gained_px": 2395,
+      "centroid_shift_m": 171.26928742758378,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.6707026803270206
+      }
+    },
+    {
+      "from_year": 1996,
+      "to_year": 1998,
+      "elapsed_years": 2,
+      "area_from_px": 8876,
+      "area_to_px": 8581,
+      "area_change_fraction": -0.03323569175304191,
+      "intersection_px": 6827,
+      "union_px": 10630,
+      "iou": 0.642238946378175,
+      "lost_px": 2049,
+      "gained_px": 1754,
+      "centroid_shift_m": 182.2511568721922,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": -1,
+        "dx_px": 0,
+        "iou": 0.646576117713639
+      }
+    },
+    {
+      "from_year": 1998,
+      "to_year": 1999,
+      "elapsed_years": 1,
+      "area_from_px": 8581,
+      "area_to_px": 8989,
+      "area_change_fraction": 0.0475469059550169,
+      "intersection_px": 8064,
+      "union_px": 9506,
+      "iou": 0.8483063328424153,
+      "lost_px": 517,
+      "gained_px": 925,
+      "centroid_shift_m": 80.11293831034773,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 1999,
+      "to_year": 2000,
+      "elapsed_years": 1,
+      "area_from_px": 8989,
+      "area_to_px": 9078,
+      "area_change_fraction": 0.009900990099009901,
+      "intersection_px": 8126,
+      "union_px": 9941,
+      "iou": 0.8174227944874761,
+      "lost_px": 863,
+      "gained_px": 952,
+      "centroid_shift_m": 291.43864925657925,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8174227944874761
+      }
+    },
+    {
+      "from_year": 2000,
+      "to_year": 2001,
+      "elapsed_years": 1,
+      "area_from_px": 9078,
+      "area_to_px": 9310,
+      "area_change_fraction": 0.02555628993170302,
+      "intersection_px": 8231,
+      "union_px": 10157,
+      "iou": 0.8103770798464114,
+      "lost_px": 847,
+      "gained_px": 1079,
+      "centroid_shift_m": 90.90704643960444,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2001,
+      "to_year": 2002,
+      "elapsed_years": 1,
+      "area_from_px": 9310,
+      "area_to_px": 8451,
+      "area_change_fraction": -0.09226638023630505,
+      "intersection_px": 8101,
+      "union_px": 9660,
+      "iou": 0.8386128364389234,
+      "lost_px": 1209,
+      "gained_px": 350,
+      "centroid_shift_m": 331.9933087496129,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8386128364389234
+      }
+    },
+    {
+      "from_year": 2002,
+      "to_year": 2003,
+      "elapsed_years": 1,
+      "area_from_px": 8451,
+      "area_to_px": 8676,
+      "area_change_fraction": 0.026624068157614485,
+      "intersection_px": 8226,
+      "union_px": 8901,
+      "iou": 0.9241658240647118,
+      "lost_px": 225,
+      "gained_px": 450,
+      "centroid_shift_m": 21.440315152928452,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2003,
+      "to_year": 2004,
+      "elapsed_years": 1,
+      "area_from_px": 8676,
+      "area_to_px": 9074,
+      "area_change_fraction": 0.045873674504379895,
+      "intersection_px": 8152,
+      "union_px": 9598,
+      "iou": 0.849343613252761,
+      "lost_px": 524,
+      "gained_px": 922,
+      "centroid_shift_m": 133.62657989598887,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2004,
+      "to_year": 2005,
+      "elapsed_years": 1,
+      "area_from_px": 9074,
+      "area_to_px": 8729,
+      "area_change_fraction": -0.03802071853647785,
+      "intersection_px": 8202,
+      "union_px": 9601,
+      "iou": 0.8542860118737632,
+      "lost_px": 872,
+      "gained_px": 527,
+      "centroid_shift_m": 173.38980606348923,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8542860118737632
+      }
+    },
+    {
+      "from_year": 2005,
+      "to_year": 2006,
+      "elapsed_years": 1,
+      "area_from_px": 8729,
+      "area_to_px": 8580,
+      "area_change_fraction": -0.017069538320540725,
+      "intersection_px": 8243,
+      "union_px": 9066,
+      "iou": 0.9092212662695787,
+      "lost_px": 486,
+      "gained_px": 337,
+      "centroid_shift_m": 6.9068783681011015,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2006,
+      "to_year": 2007,
+      "elapsed_years": 1,
+      "area_from_px": 8580,
+      "area_to_px": 8182,
+      "area_change_fraction": -0.04638694638694639,
+      "intersection_px": 7946,
+      "union_px": 8816,
+      "iou": 0.9013157894736842,
+      "lost_px": 634,
+      "gained_px": 236,
+      "centroid_shift_m": 52.016044785243444,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2007,
+      "to_year": 2008,
+      "elapsed_years": 1,
+      "area_from_px": 8182,
+      "area_to_px": 8747,
+      "area_change_fraction": 0.06905402102175508,
+      "intersection_px": 7565,
+      "union_px": 9364,
+      "iou": 0.8078812473302007,
+      "lost_px": 617,
+      "gained_px": 1182,
+      "centroid_shift_m": 102.46061142442409,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2008,
+      "to_year": 2009,
+      "elapsed_years": 1,
+      "area_from_px": 8747,
+      "area_to_px": 8165,
+      "area_change_fraction": -0.06653709843374872,
+      "intersection_px": 7671,
+      "union_px": 9241,
+      "iou": 0.830104966994914,
+      "lost_px": 1076,
+      "gained_px": 494,
+      "centroid_shift_m": 75.76822050506432,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2009,
+      "to_year": 2010,
+      "elapsed_years": 1,
+      "area_from_px": 8165,
+      "area_to_px": 8661,
+      "area_change_fraction": 0.06074709124311084,
+      "intersection_px": 7697,
+      "union_px": 9129,
+      "iou": 0.8431372549019608,
+      "lost_px": 468,
+      "gained_px": 964,
+      "centroid_shift_m": 304.90047472903336,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8431372549019608
+      }
+    },
+    {
+      "from_year": 2010,
+      "to_year": 2011,
+      "elapsed_years": 1,
+      "area_from_px": 8661,
+      "area_to_px": 8148,
+      "area_change_fraction": -0.059231035677173534,
+      "intersection_px": 7633,
+      "union_px": 9176,
+      "iou": 0.8318439407149084,
+      "lost_px": 1028,
+      "gained_px": 515,
+      "centroid_shift_m": 259.9132104767605,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8318439407149084
+      }
+    },
+    {
+      "from_year": 2011,
+      "to_year": 2012,
+      "elapsed_years": 1,
+      "area_from_px": 8148,
+      "area_to_px": 8523,
+      "area_change_fraction": 0.04602356406480118,
+      "intersection_px": 7642,
+      "union_px": 9029,
+      "iou": 0.8463838741831875,
+      "lost_px": 506,
+      "gained_px": 881,
+      "centroid_shift_m": 65.37287925833728,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2012,
+      "to_year": 2013,
+      "elapsed_years": 1,
+      "area_from_px": 8523,
+      "area_to_px": 6854,
+      "area_change_fraction": -0.19582306699518948,
+      "intersection_px": 6715,
+      "union_px": 8662,
+      "iou": 0.775225121219118,
+      "lost_px": 1808,
+      "gained_px": 139,
+      "centroid_shift_m": 616.4664028776384,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.775225121219118
+      }
+    },
+    {
+      "from_year": 2013,
+      "to_year": 2014,
+      "elapsed_years": 1,
+      "area_from_px": 6854,
+      "area_to_px": 6831,
+      "area_change_fraction": -0.003355704697986577,
+      "intersection_px": 6581,
+      "union_px": 7104,
+      "iou": 0.9263795045045045,
+      "lost_px": 273,
+      "gained_px": 250,
+      "centroid_shift_m": 24.893871766825644,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2014,
+      "to_year": 2015,
+      "elapsed_years": 1,
+      "area_from_px": 6831,
+      "area_to_px": 6359,
+      "area_change_fraction": -0.06909676474893867,
+      "intersection_px": 6206,
+      "union_px": 6984,
+      "iou": 0.888602520045819,
+      "lost_px": 625,
+      "gained_px": 153,
+      "centroid_shift_m": 120.94397896601167,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2015,
+      "to_year": 2016,
+      "elapsed_years": 1,
+      "area_from_px": 6359,
+      "area_to_px": 6332,
+      "area_change_fraction": -0.00424595062116685,
+      "intersection_px": 6046,
+      "union_px": 6645,
+      "iou": 0.909857035364936,
+      "lost_px": 313,
+      "gained_px": 286,
+      "centroid_shift_m": 96.03098643644752,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2016,
+      "to_year": 2017,
+      "elapsed_years": 1,
+      "area_from_px": 6332,
+      "area_to_px": 6335,
+      "area_change_fraction": 0.00047378395451674036,
+      "intersection_px": 6016,
+      "union_px": 6651,
+      "iou": 0.9045256352428206,
+      "lost_px": 316,
+      "gained_px": 319,
+      "centroid_shift_m": 32.17546056432759,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2017,
+      "to_year": 2018,
+      "elapsed_years": 1,
+      "area_from_px": 6335,
+      "area_to_px": 6816,
+      "area_change_fraction": 0.07592738752959748,
+      "intersection_px": 6066,
+      "union_px": 7085,
+      "iou": 0.8561750176429076,
+      "lost_px": 269,
+      "gained_px": 750,
+      "centroid_shift_m": 12.75427112987974,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2018,
+      "to_year": 2019,
+      "elapsed_years": 1,
+      "area_from_px": 6816,
+      "area_to_px": 6241,
+      "area_change_fraction": -0.08436032863849766,
+      "intersection_px": 6091,
+      "union_px": 6966,
+      "iou": 0.8743898937697387,
+      "lost_px": 725,
+      "gained_px": 150,
+      "centroid_shift_m": 81.22221984675474,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2019,
+      "to_year": 2020,
+      "elapsed_years": 1,
+      "area_from_px": 6241,
+      "area_to_px": 6167,
+      "area_change_fraction": -0.011857074186829034,
+      "intersection_px": 5875,
+      "union_px": 6533,
+      "iou": 0.8992805755395683,
+      "lost_px": 366,
+      "gained_px": 292,
+      "centroid_shift_m": 35.41517388865004,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2020,
+      "to_year": 2021,
+      "elapsed_years": 1,
+      "area_from_px": 6167,
+      "area_to_px": 6079,
+      "area_change_fraction": -0.014269498946002919,
+      "intersection_px": 5736,
+      "union_px": 6510,
+      "iou": 0.8811059907834101,
+      "lost_px": 431,
+      "gained_px": 343,
+      "centroid_shift_m": 28.241464434697917,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2021,
+      "to_year": 2022,
+      "elapsed_years": 1,
+      "area_from_px": 6079,
+      "area_to_px": 6285,
+      "area_change_fraction": 0.03388715249218621,
+      "intersection_px": 5920,
+      "union_px": 6444,
+      "iou": 0.9186840471756673,
+      "lost_px": 159,
+      "gained_px": 365,
+      "centroid_shift_m": 61.89236388789189,
+      "flags": [],
+      "best_iou_shift": null
+    },
+    {
+      "from_year": 2022,
+      "to_year": 2023,
+      "elapsed_years": 1,
+      "area_from_px": 6285,
+      "area_to_px": 6110,
+      "area_change_fraction": -0.02784407319013524,
+      "intersection_px": 5979,
+      "union_px": 6416,
+      "iou": 0.9318890274314214,
+      "lost_px": 306,
+      "gained_px": 131,
+      "centroid_shift_m": 30.50142822640085,
+      "flags": [],
+      "best_iou_shift": null
+    }
+  ],
+  "flagged_pairs": [
+    {
+      "from_year": 1990,
+      "to_year": 1991,
+      "elapsed_years": 1,
+      "area_from_px": 7879,
+      "area_to_px": 7332,
+      "area_change_fraction": -0.06942505394085544,
+      "intersection_px": 6166,
+      "union_px": 9045,
+      "iou": 0.6817025981205086,
+      "lost_px": 1713,
+      "gained_px": 1166,
+      "centroid_shift_m": 167.32681304404142,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.6817025981205086
+      }
+    },
+    {
+      "from_year": 1991,
+      "to_year": 1992,
+      "elapsed_years": 1,
+      "area_from_px": 7332,
+      "area_to_px": 9236,
+      "area_change_fraction": 0.259683578832515,
+      "intersection_px": 6270,
+      "union_px": 10298,
+      "iou": 0.6088560885608856,
+      "lost_px": 1062,
+      "gained_px": 2966,
+      "centroid_shift_m": 489.5859464920253,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.6088560885608856
+      }
+    },
+    {
+      "from_year": 1992,
+      "to_year": 1993,
+      "elapsed_years": 1,
+      "area_from_px": 9236,
+      "area_to_px": 7382,
+      "area_change_fraction": -0.2007362494586401,
+      "intersection_px": 6861,
+      "union_px": 9757,
+      "iou": 0.7031874551603977,
+      "lost_px": 2375,
+      "gained_px": 521,
+      "centroid_shift_m": 457.3029436230215,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.7031874551603977
+      }
+    },
+    {
+      "from_year": 1995,
+      "to_year": 1996,
+      "elapsed_years": 1,
+      "area_from_px": 7268,
+      "area_to_px": 8876,
+      "area_change_fraction": 0.2212438084755091,
+      "intersection_px": 6481,
+      "union_px": 9663,
+      "iou": 0.6707026803270206,
+      "lost_px": 787,
+      "gained_px": 2395,
+      "centroid_shift_m": 171.26928742758378,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.6707026803270206
+      }
+    },
+    {
+      "from_year": 1996,
+      "to_year": 1998,
+      "elapsed_years": 2,
+      "area_from_px": 8876,
+      "area_to_px": 8581,
+      "area_change_fraction": -0.03323569175304191,
+      "intersection_px": 6827,
+      "union_px": 10630,
+      "iou": 0.642238946378175,
+      "lost_px": 2049,
+      "gained_px": 1754,
+      "centroid_shift_m": 182.2511568721922,
+      "flags": [
+        "centroid_shift_over_150m",
+        "iou_below_0_7"
+      ],
+      "best_iou_shift": {
+        "dy_px": -1,
+        "dx_px": 0,
+        "iou": 0.646576117713639
+      }
+    },
+    {
+      "from_year": 1999,
+      "to_year": 2000,
+      "elapsed_years": 1,
+      "area_from_px": 8989,
+      "area_to_px": 9078,
+      "area_change_fraction": 0.009900990099009901,
+      "intersection_px": 8126,
+      "union_px": 9941,
+      "iou": 0.8174227944874761,
+      "lost_px": 863,
+      "gained_px": 952,
+      "centroid_shift_m": 291.43864925657925,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8174227944874761
+      }
+    },
+    {
+      "from_year": 2001,
+      "to_year": 2002,
+      "elapsed_years": 1,
+      "area_from_px": 9310,
+      "area_to_px": 8451,
+      "area_change_fraction": -0.09226638023630505,
+      "intersection_px": 8101,
+      "union_px": 9660,
+      "iou": 0.8386128364389234,
+      "lost_px": 1209,
+      "gained_px": 350,
+      "centroid_shift_m": 331.9933087496129,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8386128364389234
+      }
+    },
+    {
+      "from_year": 2004,
+      "to_year": 2005,
+      "elapsed_years": 1,
+      "area_from_px": 9074,
+      "area_to_px": 8729,
+      "area_change_fraction": -0.03802071853647785,
+      "intersection_px": 8202,
+      "union_px": 9601,
+      "iou": 0.8542860118737632,
+      "lost_px": 872,
+      "gained_px": 527,
+      "centroid_shift_m": 173.38980606348923,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8542860118737632
+      }
+    },
+    {
+      "from_year": 2009,
+      "to_year": 2010,
+      "elapsed_years": 1,
+      "area_from_px": 8165,
+      "area_to_px": 8661,
+      "area_change_fraction": 0.06074709124311084,
+      "intersection_px": 7697,
+      "union_px": 9129,
+      "iou": 0.8431372549019608,
+      "lost_px": 468,
+      "gained_px": 964,
+      "centroid_shift_m": 304.90047472903336,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8431372549019608
+      }
+    },
+    {
+      "from_year": 2010,
+      "to_year": 2011,
+      "elapsed_years": 1,
+      "area_from_px": 8661,
+      "area_to_px": 8148,
+      "area_change_fraction": -0.059231035677173534,
+      "intersection_px": 7633,
+      "union_px": 9176,
+      "iou": 0.8318439407149084,
+      "lost_px": 1028,
+      "gained_px": 515,
+      "centroid_shift_m": 259.9132104767605,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.8318439407149084
+      }
+    },
+    {
+      "from_year": 2012,
+      "to_year": 2013,
+      "elapsed_years": 1,
+      "area_from_px": 8523,
+      "area_to_px": 6854,
+      "area_change_fraction": -0.19582306699518948,
+      "intersection_px": 6715,
+      "union_px": 8662,
+      "iou": 0.775225121219118,
+      "lost_px": 1808,
+      "gained_px": 139,
+      "centroid_shift_m": 616.4664028776384,
+      "flags": [
+        "centroid_shift_over_150m"
+      ],
+      "best_iou_shift": {
+        "dy_px": 0,
+        "dx_px": 0,
+        "iou": 0.775225121219118
+      }
+    }
+  ],
+  "visuals": {
+    "contact_sheet": "/media/saad/HDD/rivererosionaccretion/processed/qa/river_contact_sheet.png",
+    "pair_overlays": [
+      "/media/saad/HDD/rivererosionaccretion/processed/qa/pair_overlay_1989_2023.png",
+      "/media/saad/HDD/rivererosionaccretion/processed/qa/pair_overlay_2000_2023.png",
+      "/media/saad/HDD/rivererosionaccretion/processed/qa/pair_overlay_2010_2023.png",
+      "/media/saad/HDD/rivererosionaccretion/processed/qa/pair_overlay_1989_1999.png"
+    ]
+  },
+  "note": "All historical rasters share the same grid. No transformation was applied, so a pre/post-transformation comparison is not applicable; the original and harmonized arrays are compared pixel-for-pixel in pass 3."
+}

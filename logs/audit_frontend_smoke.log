@@ -1,0 +1,5 @@
+
+> river-bank-forecast-ui@1.0.0 test
+> node tests/smoke.mjs
+
+smoke ok: http://localhost:5173 (desktop years 2024-2026, mobile 390 px)

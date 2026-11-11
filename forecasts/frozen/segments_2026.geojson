@@ -1,0 +1,5556 @@
+{
+ "type": "FeatureCollection",
+ "name": "segments_2026",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.16802150353077,
+      23.248974980325364
+     ],
+     [
+      90.16803235188488,
+      23.249036203416555
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 1,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 6.875,
+    "predicted_rate_m_per_yr": 2.291,
+    "ensemble_std_m": 21.418,
+    "p10_m": -18.286,
+    "p90_m": 34.369,
+    "abs_displacement_m": 6.875,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.1678665355676,
+      23.24810040863584
+     ],
+     [
+      90.16785668427778,
+      23.248044811980897
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 1,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 6.243,
+    "predicted_rate_m_per_yr": 2.081,
+    "ensemble_std_m": 14.845,
+    "p10_m": -12.589,
+    "p90_m": 23.807,
+    "abs_displacement_m": 6.243,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.171012122617,
+      23.248758145440302
+     ],
+     [
+      90.17101169834092,
+      23.248755131345188
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 2,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -0.337,
+    "predicted_rate_m_per_yr": -0.112,
+    "ensemble_std_m": 8.354,
+    "p10_m": -10.204,
+    "p90_m": 9.55,
+    "abs_displacement_m": 0.337,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.17074464753858,
+      23.246857962419867
+     ],
+     [
+      90.17074249888208,
+      23.246842697910846
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 2,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 1.706,
+    "predicted_rate_m_per_yr": 0.568,
+    "ensemble_std_m": 18.641,
+    "p10_m": -20.069,
+    "p90_m": 28.85,
+    "abs_displacement_m": 1.706,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.1744768931152,
+      23.2485497887593
+     ],
+     [
+      90.17447998595371,
+      23.248574909210873
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 3,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 2.802,
+    "predicted_rate_m_per_yr": 0.934,
+    "ensemble_std_m": 9.266,
+    "p10_m": -4.816,
+    "p90_m": 11.574,
+    "abs_displacement_m": 2.802,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.1742764289219,
+      23.246921580630662
+     ],
+     [
+      90.17426933903161,
+      23.246863994806038
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 3,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 6.423,
+    "predicted_rate_m_per_yr": 2.14,
+    "ensemble_std_m": 14.757,
+    "p10_m": -10.535,
+    "p90_m": 26.876,
+    "abs_displacement_m": 6.423,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.17786126944134,
+      23.24861067614325
+     ],
+     [
+      90.1778604380908,
+      23.248599166337552
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 4,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -1.278,
+    "predicted_rate_m_per_yr": -0.426,
+    "ensemble_std_m": 7.674,
+    "p10_m": -11.267,
+    "p90_m": 7.573,
+    "abs_displacement_m": 1.278,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.17772418971265,
+      23.24671284158715
+     ],
+     [
+      90.17772440442504,
+      23.24671581423532
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 4,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -0.33,
+    "predicted_rate_m_per_yr": -0.11,
+    "ensemble_std_m": 11.934,
+    "p10_m": -17.301,
+    "p90_m": 13.151,
+    "abs_displacement_m": 0.33,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.18132885911746,
+      23.24840221723688
+     ],
+     [
+      90.18133702498235,
+      23.248458945980893
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 5,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 6.342,
+    "predicted_rate_m_per_yr": 2.113,
+    "ensemble_std_m": 11.827,
+    "p10_m": -3.832,
+    "p90_m": 21.631,
+    "abs_displacement_m": 6.342,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.1810553233732,
+      23.24650193131881
+     ],
+     [
+      90.18104450599142,
+      23.24642678097962
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 5,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 8.401,
+    "predicted_rate_m_per_yr": 2.8,
+    "ensemble_std_m": 13.019,
+    "p10_m": -3.317,
+    "p90_m": 27.284,
+    "abs_displacement_m": 8.401,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.18467528537153,
+      23.247920739214248
+     ],
+     [
+      90.1846834326454,
+      23.24795959116671
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 6,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 4.386,
+    "predicted_rate_m_per_yr": 1.462,
+    "ensemble_std_m": 12.247,
+    "p10_m": -8.679,
+    "p90_m": 21.257,
+    "abs_displacement_m": 4.386,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.184276327434,
+      23.246018205647854
+     ],
+     [
+      90.18427198669272,
+      23.245997505485082
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 6,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 2.337,
+    "predicted_rate_m_per_yr": 0.779,
+    "ensemble_std_m": 11.138,
+    "p10_m": -7.962,
+    "p90_m": 15.708,
+    "abs_displacement_m": 2.337,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.18793147834934,
+      23.24716680240184
+     ],
+     [
+      90.18794396672796,
+      23.247208675194656
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 7,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 4.813,
+    "predicted_rate_m_per_yr": 1.604,
+    "ensemble_std_m": 8.902,
+    "p10_m": -0.521,
+    "p90_m": 17.416,
+    "abs_displacement_m": 4.813,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.18744434692871,
+      23.24553346247617
+     ],
+     [
+      90.18743578103218,
+      23.245504740931917
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 7,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 3.301,
+    "predicted_rate_m_per_yr": 1.1,
+    "ensemble_std_m": 16.509,
+    "p10_m": -16.147,
+    "p90_m": 22.981,
+    "abs_displacement_m": 3.301,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.19112029776723,
+      23.246140819970524
+     ],
+     [
+      90.19113172716561,
+      23.246166343947085
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 8,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 3.061,
+    "predicted_rate_m_per_yr": 1.02,
+    "ensemble_std_m": 13.441,
+    "p10_m": -9.755,
+    "p90_m": 19.83,
+    "abs_displacement_m": 3.061,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.19038694187525,
+      23.244503080386917
+     ],
+     [
+      90.19039326362676,
+      23.244517198363383
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 8,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -1.693,
+    "predicted_rate_m_per_yr": -0.564,
+    "ensemble_std_m": 8.955,
+    "p10_m": -13.744,
+    "p90_m": 6.258,
+    "abs_displacement_m": 1.693,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.19413273497665,
+      23.244840846174792
+     ],
+     [
+      90.19420084959093,
+      23.2449578366198
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 9,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 14.722,
+    "predicted_rate_m_per_yr": 4.906,
+    "ensemble_std_m": 18.662,
+    "p10_m": -4.17,
+    "p90_m": 41.171,
+    "abs_displacement_m": 14.722,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.1933362109685,
+      23.243472758579074
+     ],
+     [
+      90.1933203898163,
+      23.243445584315268
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 9,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 3.419,
+    "predicted_rate_m_per_yr": 1.14,
+    "ensemble_std_m": 18.501,
+    "p10_m": -18.721,
+    "p90_m": 26.413,
+    "abs_displacement_m": 3.419,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.1969892266475,
+      23.242996484607172
+     ],
+     [
+      90.19717034416402,
+      23.24321751454264
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 10,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 30.723,
+    "predicted_rate_m_per_yr": 10.239,
+    "ensemble_std_m": 21.434,
+    "p10_m": 0.522,
+    "p90_m": 57.182,
+    "abs_displacement_m": 30.723,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.19608855397033,
+      23.24189732007807
+     ],
+     [
+      90.1960883234369,
+      23.241897038736525
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 10,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 0.039,
+    "predicted_rate_m_per_yr": 0.013,
+    "ensemble_std_m": 25.542,
+    "p10_m": -35.22,
+    "p90_m": 31.864,
+    "abs_displacement_m": 0.039,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2008135099218,
+      23.241984441297188
+     ],
+     [
+      90.20060730301094,
+      23.241798590992644
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 11,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -29.496,
+    "predicted_rate_m_per_yr": -9.83,
+    "ensemble_std_m": 32.874,
+    "p10_m": -69.515,
+    "p90_m": 12.74,
+    "abs_displacement_m": 29.496,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.19851269628133,
+      23.239910720665122
+     ],
+     [
+      90.19862121226127,
+      23.24000852805142
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 11,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -15.523,
+    "predicted_rate_m_per_yr": -5.173,
+    "ensemble_std_m": 27.22,
+    "p10_m": -50.137,
+    "p90_m": 18.774,
+    "abs_displacement_m": 15.523,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20176031432976,
+      23.238738430766453
+     ],
+     [
+      90.2017675267437,
+      23.2387443461929
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 12,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 0.988,
+    "predicted_rate_m_per_yr": 0.329,
+    "ensemble_std_m": 11.155,
+    "p10_m": -10.616,
+    "p90_m": 15.406,
+    "abs_displacement_m": 0.988,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20042393295999,
+      23.23764235312852
+     ],
+     [
+      90.20039375121436,
+      23.23761759824744
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 12,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 4.133,
+    "predicted_rate_m_per_yr": 1.377,
+    "ensemble_std_m": 26.805,
+    "p10_m": -29.412,
+    "p90_m": 38.083,
+    "abs_displacement_m": 4.133,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20357244466172,
+      23.236146220421467
+     ],
+     [
+      90.20367335691242,
+      23.23622412966139
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 13,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 13.466,
+    "predicted_rate_m_per_yr": 4.488,
+    "ensemble_std_m": 16.899,
+    "p10_m": -4.045,
+    "p90_m": 35.163,
+    "abs_displacement_m": 13.466,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2021306389948,
+      23.23503305925053
+     ],
+     [
+      90.20212774556227,
+      23.235030825315526
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 13,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 0.386,
+    "predicted_rate_m_per_yr": 0.129,
+    "ensemble_std_m": 23.112,
+    "p10_m": -29.731,
+    "p90_m": 29.874,
+    "abs_displacement_m": 0.386,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20596265997298,
+      23.233930464214627
+     ],
+     [
+      90.20583399811134,
+      23.233818793812596
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 14,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -18.076,
+    "predicted_rate_m_per_yr": -6.024,
+    "ensemble_std_m": 21.087,
+    "p10_m": -44.19,
+    "p90_m": 9.369,
+    "abs_displacement_m": 18.076,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2043933848873,
+      23.232568413479566
+     ],
+     [
+      90.20440283291353,
+      23.23257661400622
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 14,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -1.327,
+    "predicted_rate_m_per_yr": -0.442,
+    "ensemble_std_m": 22.546,
+    "p10_m": -33.264,
+    "p90_m": 25.089,
+    "abs_displacement_m": 1.327,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2085332586465,
+      23.231829736199817
+     ],
+     [
+      90.20850532655723,
+      23.23180123644123
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 15,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -4.261,
+    "predicted_rate_m_per_yr": -1.42,
+    "ensemble_std_m": 13.479,
+    "p10_m": -19.373,
+    "p90_m": 13.861,
+    "abs_displacement_m": 4.261,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20718285164159,
+      23.230451866394517
+     ],
+     [
+      90.2071319279933,
+      23.230399906400294
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 15,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 7.769,
+    "predicted_rate_m_per_yr": 2.589,
+    "ensemble_std_m": 12.772,
+    "p10_m": -2.621,
+    "p90_m": 29.103,
+    "abs_displacement_m": 7.769,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21102344484764,
+      23.22970779470359
+     ],
+     [
+      90.21105233119283,
+      23.229740116347454
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 16,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 4.645,
+    "predicted_rate_m_per_yr": 1.548,
+    "ensemble_std_m": 21.066,
+    "p10_m": -20.771,
+    "p90_m": 32.872,
+    "abs_displacement_m": 4.645,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20979397640369,
+      23.2283320941918
+     ],
+     [
+      90.20974643499478,
+      23.228278897538242
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 16,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 7.646,
+    "predicted_rate_m_per_yr": 2.548,
+    "ensemble_std_m": 12.218,
+    "p10_m": -2.621,
+    "p90_m": 25.287,
+    "abs_displacement_m": 7.646,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21373745897243,
+      23.227860550916834
+     ],
+     [
+      90.21375364695537,
+      23.227878663562137
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 17,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 2.603,
+    "predicted_rate_m_per_yr": 0.868,
+    "ensemble_std_m": 15.203,
+    "p10_m": -15.723,
+    "p90_m": 24.202,
+    "abs_displacement_m": 2.603,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21250797505826,
+      23.226484870335348
+     ],
+     [
+      90.21249994827306,
+      23.226475888978097
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 17,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 1.291,
+    "predicted_rate_m_per_yr": 0.43,
+    "ensemble_std_m": 8.599,
+    "p10_m": -6.022,
+    "p90_m": 8.593,
+    "abs_displacement_m": 1.291,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21638406352166,
+      23.225916221994378
+     ],
+     [
+      90.21628450989503,
+      23.225808287091446
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 18,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -15.716,
+    "predicted_rate_m_per_yr": -5.238,
+    "ensemble_std_m": 14.487,
+    "p10_m": -36.317,
+    "p90_m": 1.399,
+    "abs_displacement_m": 15.716,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21495137731456,
+      23.224362898806795
+     ],
+     [
+      90.21492492678215,
+      23.224334220622634
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 18,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 4.176,
+    "predicted_rate_m_per_yr": 1.392,
+    "ensemble_std_m": 17.673,
+    "p10_m": -18.904,
+    "p90_m": 28.637,
+    "abs_displacement_m": 4.176,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21906649279458,
+      23.223718379044588
+     ],
+     [
+      90.21901399959145,
+      23.22366873944861
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 19,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -7.692,
+    "predicted_rate_m_per_yr": -2.563,
+    "ensemble_std_m": 14.275,
+    "p10_m": -28.279,
+    "p90_m": 6.446,
+    "abs_displacement_m": 7.692,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21750428034935,
+      23.222241069020015
+     ],
+     [
+      90.21748130560523,
+      23.22221934256149
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 19,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 3.366,
+    "predicted_rate_m_per_yr": 1.122,
+    "ensemble_std_m": 14.527,
+    "p10_m": -15.483,
+    "p90_m": 21.221,
+    "abs_displacement_m": 3.366,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22175123035662,
+      23.2214047890535
+     ],
+     [
+      90.22171654015648,
+      23.221379640313987
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 20,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -4.515,
+    "predicted_rate_m_per_yr": -1.505,
+    "ensemble_std_m": 12.409,
+    "p10_m": -24.668,
+    "p90_m": 8.586,
+    "abs_displacement_m": 4.515,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2199771591393,
+      23.22011865136503
+     ],
+     [
+      90.21999028500551,
+      23.22012816730015
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 20,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -1.709,
+    "predicted_rate_m_per_yr": -0.569,
+    "ensemble_std_m": 13.729,
+    "p10_m": -20.932,
+    "p90_m": 15.8,
+    "abs_displacement_m": 1.709,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22385720196115,
+      23.218739638351792
+     ],
+     [
+      90.22376994977425,
+      23.21869945323964
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 21,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": -9.984,
+    "predicted_rate_m_per_yr": -3.327,
+    "ensemble_std_m": 23.817,
+    "p10_m": -44.893,
+    "p90_m": 15.968,
+    "abs_displacement_m": 9.984,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22182576903892,
+      23.21780401783779
+     ],
+     [
+      90.2219325991416,
+      23.21785322170016
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 21,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -12.225,
+    "predicted_rate_m_per_yr": -4.074,
+    "ensemble_std_m": 21.082,
+    "p10_m": -36.441,
+    "p90_m": 13.907,
+    "abs_displacement_m": 12.225,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22509471662717,
+      23.215565192545977
+     ],
+     [
+      90.22515951822513,
+      23.21557039628617
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 22,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 6.662,
+    "predicted_rate_m_per_yr": 2.22,
+    "ensemble_std_m": 22.415,
+    "p10_m": -22.517,
+    "p90_m": 33.439,
+    "abs_displacement_m": 6.662,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22333984390622,
+      23.21542426137663
+     ],
+     [
+      90.2234245707434,
+      23.21543106611411
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 22,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -8.71,
+    "predicted_rate_m_per_yr": -2.903,
+    "ensemble_std_m": 17.209,
+    "p10_m": -29.23,
+    "p90_m": 14.448,
+    "abs_displacement_m": 8.71,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2248705631414,
+      23.21223652450781
+     ],
+     [
+      90.22502824588841,
+      23.212185135670637
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 23,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 17.125,
+    "predicted_rate_m_per_yr": 5.707,
+    "ensemble_std_m": 17.968,
+    "p10_m": -4.055,
+    "p90_m": 41.373,
+    "abs_displacement_m": 17.125,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22310089035938,
+      23.21281324716727
+     ],
+     [
+      90.22313500839945,
+      23.212802128605823
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 23,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -3.705,
+    "predicted_rate_m_per_yr": -1.235,
+    "ensemble_std_m": 19.557,
+    "p10_m": -30.069,
+    "p90_m": 20.106,
+    "abs_displacement_m": 3.705,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22257956763188,
+      23.20969076386997
+     ],
+     [
+      90.22279200384212,
+      23.209537907916744
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 24,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 27.575,
+    "predicted_rate_m_per_yr": 9.189,
+    "ensemble_std_m": 25.888,
+    "p10_m": 0.338,
+    "p90_m": 51.964,
+    "abs_displacement_m": 27.575,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22122745148874,
+      23.21066364714421
+     ],
+     [
+      90.22131457424074,
+      23.21060096084876
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 24,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": -11.308,
+    "predicted_rate_m_per_yr": -3.769,
+    "ensemble_std_m": 12.997,
+    "p10_m": -28.129,
+    "p90_m": 2.927,
+    "abs_displacement_m": 11.308,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2196870622167,
+      23.207903477761448
+     ],
+     [
+      90.21981401188373,
+      23.207779475272705
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 25,
+    "side": "L",
+    "reach": "north",
+    "predicted_displacement_m": 18.918,
+    "predicted_rate_m_per_yr": 6.305,
+    "ensemble_std_m": 16.492,
+    "p10_m": -0.153,
+    "p90_m": 38.371,
+    "abs_displacement_m": 18.918,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21857261574311,
+      23.208992036641778
+     ],
+     [
+      90.21855541223573,
+      23.209008840311053
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 25,
+    "side": "R",
+    "reach": "north",
+    "predicted_displacement_m": 2.564,
+    "predicted_rate_m_per_yr": 0.854,
+    "ensemble_std_m": 22.365,
+    "p10_m": -27.979,
+    "p90_m": 33.419,
+    "abs_displacement_m": 2.564,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21738509729695,
+      23.205895364094086
+     ],
+     [
+      90.21728561207915,
+      23.205963702693126
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 26,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -12.696,
+    "predicted_rate_m_per_yr": -4.231,
+    "ensemble_std_m": 19.045,
+    "p10_m": -39.161,
+    "p90_m": 10.886,
+    "abs_displacement_m": 12.696,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21560204984334,
+      23.207120157519444
+     ],
+     [
+      90.21557453713442,
+      23.2071390559246
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 26,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 3.511,
+    "predicted_rate_m_per_yr": 1.17,
+    "ensemble_std_m": 14.274,
+    "p10_m": -15.078,
+    "p90_m": 23.724,
+    "abs_displacement_m": 3.511,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21538172874435,
+      23.203617625664435
+     ],
+     [
+      90.21523932950015,
+      23.20367826096481
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 27,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -16.059,
+    "predicted_rate_m_per_yr": -5.352,
+    "ensemble_std_m": 15.706,
+    "p10_m": -36.288,
+    "p90_m": 1.878,
+    "abs_displacement_m": 16.059,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21331289357984,
+      23.204498541546226
+     ],
+     [
+      90.21335031282469,
+      23.204482608685364
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 27,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -4.22,
+    "predicted_rate_m_per_yr": -1.406,
+    "ensemble_std_m": 15.244,
+    "p10_m": -28.246,
+    "p90_m": 13.294,
+    "abs_displacement_m": 4.22,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21514574792423,
+      23.200870522584292
+     ],
+     [
+      90.21529935540383,
+      23.200835164115432
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 28,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 16.215,
+    "predicted_rate_m_per_yr": 5.404,
+    "ensemble_std_m": 19.209,
+    "p10_m": -4.446,
+    "p90_m": 44.832,
+    "abs_displacement_m": 16.215,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21367406727443,
+      23.20120927578827
+     ],
+     [
+      90.2136650739102,
+      23.201211345842676
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 28,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 0.949,
+    "predicted_rate_m_per_yr": 0.316,
+    "ensemble_std_m": 8.533,
+    "p10_m": -3.564,
+    "p90_m": 7.585,
+    "abs_displacement_m": 0.949,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21520907250839,
+      23.197815762941296
+     ],
+     [
+      90.21512282215241,
+      23.19782815178317
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 29,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -8.941,
+    "predicted_rate_m_per_yr": -2.98,
+    "ensemble_std_m": 20.087,
+    "p10_m": -33.618,
+    "p90_m": 17.282,
+    "abs_displacement_m": 8.941,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21227107635823,
+      23.19823774286394
+     ],
+     [
+      90.21241894027368,
+      23.198216506793855
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 29,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -15.328,
+    "predicted_rate_m_per_yr": -5.108,
+    "ensemble_std_m": 21.298,
+    "p10_m": -44.937,
+    "p90_m": 6.429,
+    "abs_displacement_m": 15.328,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21468860830504,
+      23.194661766541213
+     ],
+     [
+      90.21464426278345,
+      23.194672078592596
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 30,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -4.684,
+    "predicted_rate_m_per_yr": -1.561,
+    "ensemble_std_m": 20.49,
+    "p10_m": -30.443,
+    "p90_m": 22.257,
+    "abs_displacement_m": 4.684,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21203957417885,
+      23.195277744195593
+     ],
+     [
+      90.2119634216509,
+      23.195295451114742
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 30,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 8.044,
+    "predicted_rate_m_per_yr": 2.681,
+    "ensemble_std_m": 14.778,
+    "p10_m": -7.628,
+    "p90_m": 28.79,
+    "abs_displacement_m": 8.044,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21387154275911,
+      23.191686594276327
+     ],
+     [
+      90.21385197881447,
+      23.19169220098085
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 31,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -2.098,
+    "predicted_rate_m_per_yr": -0.699,
+    "ensemble_std_m": 17.665,
+    "p10_m": -26.109,
+    "p90_m": 16.421,
+    "abs_displacement_m": 2.098,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21092491380931,
+      23.192531015883517
+     ],
+     [
+      90.21090075804149,
+      23.192537937971483
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 31,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 2.591,
+    "predicted_rate_m_per_yr": 0.863,
+    "ensemble_std_m": 12.299,
+    "p10_m": -11.367,
+    "p90_m": 16.661,
+    "abs_displacement_m": 2.591,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21276018496226,
+      23.188779777287664
+     ],
+     [
+      90.21276139015636,
+      23.188779369461663
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 32,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 0.131,
+    "predicted_rate_m_per_yr": 0.044,
+    "ensemble_std_m": 18.098,
+    "p10_m": -22.819,
+    "p90_m": 22.688,
+    "abs_displacement_m": 0.131,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2098104258765,
+      23.189777910777014
+     ],
+     [
+      90.20981534386387,
+      23.189776246698983
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 32,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -0.536,
+    "predicted_rate_m_per_yr": -0.179,
+    "ensemble_std_m": 12.567,
+    "p10_m": -14.565,
+    "p90_m": 12.865,
+    "abs_displacement_m": 0.536,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2116453121641,
+      23.186044432498097
+     ],
+     [
+      90.21164060333946,
+      23.186045784558655
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 33,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -0.505,
+    "predicted_rate_m_per_yr": -0.168,
+    "ensemble_std_m": 12.913,
+    "p10_m": -17.384,
+    "p90_m": 16.37,
+    "abs_displacement_m": 0.505,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20869876805469,
+      23.186890449622762
+     ],
+     [
+      90.20869951509795,
+      23.186890235138954
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 33,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -0.08,
+    "predicted_rate_m_per_yr": -0.027,
+    "ensemble_std_m": 16.409,
+    "p10_m": -20.981,
+    "p90_m": 20.381,
+    "abs_displacement_m": 0.08,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21081854532612,
+      23.183541692895606
+     ],
+     [
+      90.21077371202587,
+      23.18354517648365
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 34,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -4.609,
+    "predicted_rate_m_per_yr": -1.536,
+    "ensemble_std_m": 17.449,
+    "p10_m": -27.48,
+    "p90_m": 17.187,
+    "abs_displacement_m": 4.609,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20759152587627,
+      23.18379240179348
+     ],
+     [
+      90.20767110633543,
+      23.183786219959856
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 34,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -8.181,
+    "predicted_rate_m_per_yr": -2.727,
+    "ensemble_std_m": 29.278,
+    "p10_m": -45.587,
+    "p90_m": 27.7,
+    "abs_displacement_m": 8.181,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20969990865113,
+      23.180991207507578
+     ],
+     [
+      90.20969062043605,
+      23.180988829877013
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 35,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -0.987,
+    "predicted_rate_m_per_yr": -0.329,
+    "ensemble_std_m": 12.305,
+    "p10_m": -18.574,
+    "p90_m": 11.748,
+    "abs_displacement_m": 0.987,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20766054596376,
+      23.180469149344344
+     ],
+     [
+      90.20770125658066,
+      23.180479571180097
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 35,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -4.328,
+    "predicted_rate_m_per_yr": -1.442,
+    "ensemble_std_m": 12.677,
+    "p10_m": -23.786,
+    "p90_m": 8.952,
+    "abs_displacement_m": 4.328,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21077176724688,
+      23.17852712254997
+     ],
+     [
+      90.21081464943447,
+      23.17855823792014
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 36,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 5.585,
+    "predicted_rate_m_per_yr": 1.861,
+    "ensemble_std_m": 11.405,
+    "p10_m": -7.184,
+    "p90_m": 20.64,
+    "abs_displacement_m": 5.585,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.20947764511979,
+      23.17758809427248
+     ],
+     [
+      90.20950052599993,
+      23.177604697068702
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 36,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -2.98,
+    "predicted_rate_m_per_yr": -0.993,
+    "ensemble_std_m": 11.596,
+    "p10_m": -18.117,
+    "p90_m": 11.334,
+    "abs_displacement_m": 2.98,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21358035954415,
+      23.17747212533507
+     ],
+     [
+      90.21356154851271,
+      23.17744083271565
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 37,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -3.967,
+    "predicted_rate_m_per_yr": -1.322,
+    "ensemble_std_m": 18.754,
+    "p10_m": -32.374,
+    "p90_m": 16.504,
+    "abs_displacement_m": 3.967,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2124418762207,
+      23.175578202690993
+     ],
+     [
+      90.21244959985717,
+      23.17559105152456
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 37,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -1.629,
+    "predicted_rate_m_per_yr": -0.543,
+    "ensemble_std_m": 11.031,
+    "p10_m": -13.61,
+    "p90_m": 8.31,
+    "abs_displacement_m": 1.629,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21631002235237,
+      23.176459010156098
+     ],
+     [
+      90.21629471384779,
+      23.176404154423196
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 38,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -6.278,
+    "predicted_rate_m_per_yr": -2.092,
+    "ensemble_std_m": 14.01,
+    "p10_m": -23.842,
+    "p90_m": 8.655,
+    "abs_displacement_m": 6.278,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21570251213241,
+      23.17428205994342
+     ],
+     [
+      90.21571630952789,
+      23.174331502132475
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 38,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -5.658,
+    "predicted_rate_m_per_yr": -1.886,
+    "ensemble_std_m": 12.849,
+    "p10_m": -24.122,
+    "p90_m": 4.408,
+    "abs_displacement_m": 5.658,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2193857623041,
+      23.175701069856977
+     ],
+     [
+      90.2193841974889,
+      23.175671292658812
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 39,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -3.304,
+    "predicted_rate_m_per_yr": -1.101,
+    "ensemble_std_m": 22.351,
+    "p10_m": -33.142,
+    "p90_m": 26.343,
+    "abs_displacement_m": 3.304,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.21928606328567,
+      23.173803878094578
+     ],
+     [
+      90.21928625588346,
+      23.173807543071472
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 39,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -0.407,
+    "predicted_rate_m_per_yr": -0.136,
+    "ensemble_std_m": 14.454,
+    "p10_m": -19.606,
+    "p90_m": 17.079,
+    "abs_displacement_m": 0.407,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22272943974826,
+      23.175760124565393
+     ],
+     [
+      90.22272434934429,
+      23.175786038989823
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 40,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 2.919,
+    "predicted_rate_m_per_yr": 0.973,
+    "ensemble_std_m": 9.414,
+    "p10_m": -4.139,
+    "p90_m": 13.574,
+    "abs_displacement_m": 2.919,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22299446199025,
+      23.17441092088705
+     ],
+     [
+      90.2229942234708,
+      23.17441213518356
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 40,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -0.137,
+    "predicted_rate_m_per_yr": -0.046,
+    "ensemble_std_m": 9.281,
+    "p10_m": -10.023,
+    "p90_m": 11.103,
+    "abs_displacement_m": 0.137,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22570771390858,
+      23.176624995855647
+     ],
+     [
+      90.22570272149935,
+      23.176636628314547
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 41,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 1.387,
+    "predicted_rate_m_per_yr": 0.462,
+    "ensemble_std_m": 6.15,
+    "p10_m": -1.448,
+    "p90_m": 7.11,
+    "abs_displacement_m": 1.387,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22621612955498,
+      23.17544035952497
+     ],
+     [
+      90.22622016015144,
+      23.17543096791085
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 41,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 1.12,
+    "predicted_rate_m_per_yr": 0.373,
+    "ensemble_std_m": 9.646,
+    "p10_m": -5.536,
+    "p90_m": 9.632,
+    "abs_displacement_m": 1.12,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22840714472898,
+      23.178026455851416
+     ],
+     [
+      90.2284028146772,
+      23.178032171448113
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 42,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 0.773,
+    "predicted_rate_m_per_yr": 0.258,
+    "ensemble_std_m": 4.903,
+    "p10_m": -1.448,
+    "p90_m": 5.553,
+    "abs_displacement_m": 0.773,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.22921687822372,
+      23.176957609375545
+     ],
+     [
+      90.22922504024308,
+      23.176946835409392
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 42,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 1.458,
+    "predicted_rate_m_per_yr": 0.486,
+    "ensemble_std_m": 6.187,
+    "p10_m": -1.388,
+    "p90_m": 7.543,
+    "abs_displacement_m": 1.458,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23080809648587,
+      23.180009028203735
+     ],
+     [
+      90.23079671181972,
+      23.180019229847336
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 43,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 1.624,
+    "predicted_rate_m_per_yr": 0.541,
+    "ensemble_std_m": 7.679,
+    "p10_m": -2.149,
+    "p90_m": 10.361,
+    "abs_displacement_m": 1.624,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23200166537887,
+      23.178939473310308
+     ],
+     [
+      90.23202886245056,
+      23.178915101737978
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 43,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 3.88,
+    "predicted_rate_m_per_yr": 1.293,
+    "ensemble_std_m": 9.45,
+    "p10_m": -3.027,
+    "p90_m": 17.014,
+    "abs_displacement_m": 3.88,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23280973449906,
+      23.1823695243719
+     ],
+     [
+      90.23275045471108,
+      23.182408927054656
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 44,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 7.48,
+    "predicted_rate_m_per_yr": 2.493,
+    "ensemble_std_m": 8.975,
+    "p10_m": 0.0,
+    "p90_m": 20.741,
+    "abs_displacement_m": 7.48,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23429450376126,
+      23.181382597355622
+     ],
+     [
+      90.2343039112879,
+      23.181376344070642
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 44,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 1.187,
+    "predicted_rate_m_per_yr": 0.396,
+    "ensemble_std_m": 6.749,
+    "p10_m": -4.866,
+    "p90_m": 10.249,
+    "abs_displacement_m": 1.187,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23440333831205,
+      23.18490141938104
+     ],
+     [
+      90.23440558342116,
+      23.184900333643284
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 45,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -0.26,
+    "predicted_rate_m_per_yr": -0.087,
+    "ensemble_std_m": 9.584,
+    "p10_m": -11.294,
+    "p90_m": 11.875,
+    "abs_displacement_m": 0.26,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23599534239048,
+      23.184131511040516
+     ],
+     [
+      90.23605660578191,
+      23.1841018829583
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 45,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 7.083,
+    "predicted_rate_m_per_yr": 2.36,
+    "ensemble_std_m": 12.899,
+    "p10_m": -4.256,
+    "p90_m": 27.015,
+    "abs_displacement_m": 7.083,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23563485573288,
+      23.1876308469459
+     ],
+     [
+      90.2357343428917,
+      23.18759107064252
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 46,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -11.104,
+    "predicted_rate_m_per_yr": -3.7,
+    "ensemble_std_m": 22.729,
+    "p10_m": -41.171,
+    "p90_m": 17.29,
+    "abs_displacement_m": 11.104,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23740244378146,
+      23.186924128062042
+     ],
+     [
+      90.23742724689005,
+      23.186914211055107
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 46,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 2.768,
+    "predicted_rate_m_per_yr": 0.923,
+    "ensemble_std_m": 10.365,
+    "p10_m": -6.777,
+    "p90_m": 16.243,
+    "abs_displacement_m": 2.768,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23674443611962,
+      23.190436080304274
+     ],
+     [
+      90.23673791160157,
+      23.190438566294784
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 47,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 0.723,
+    "predicted_rate_m_per_yr": 0.241,
+    "ensemble_std_m": 8.909,
+    "p10_m": -9.142,
+    "p90_m": 12.494,
+    "abs_displacement_m": 0.723,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2385157755997,
+      23.189761145516364
+     ],
+     [
+      90.23852931608326,
+      23.189755986068807
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 47,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": 1.5,
+    "predicted_rate_m_per_yr": 0.5,
+    "ensemble_std_m": 9.37,
+    "p10_m": -5.662,
+    "p90_m": 12.905,
+    "abs_displacement_m": 1.5,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2375620667147,
+      23.193408793800696
+     ],
+     [
+      90.237600846818,
+      23.193392550670175
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 48,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -4.361,
+    "predicted_rate_m_per_yr": -1.453,
+    "ensemble_std_m": 14.075,
+    "p10_m": -23.872,
+    "p90_m": 12.871,
+    "abs_displacement_m": 4.361,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23992575081422,
+      23.192418733857295
+     ],
+     [
+      90.2399171227035,
+      23.192422347949222
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 48,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -0.97,
+    "predicted_rate_m_per_yr": -0.323,
+    "ensemble_std_m": 11.572,
+    "p10_m": -13.316,
+    "p90_m": 9.369,
+    "abs_displacement_m": 0.97,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23883430768674,
+      23.1963519540385
+     ],
+     [
+      90.2388888114036,
+      23.196321009677632
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 49,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": -6.552,
+    "predicted_rate_m_per_yr": -2.183,
+    "ensemble_std_m": 17.624,
+    "p10_m": -28.299,
+    "p90_m": 17.234,
+    "abs_displacement_m": 6.552,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.241147412754,
+      23.19503866317858
+     ],
+     [
+      90.24105071731329,
+      23.19509356434013
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 49,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -11.624,
+    "predicted_rate_m_per_yr": -3.874,
+    "ensemble_std_m": 14.084,
+    "p10_m": -29.187,
+    "p90_m": 4.81,
+    "abs_displacement_m": 11.624,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24095836017936,
+      23.199190952559643
+     ],
+     [
+      90.24089279095381,
+      23.199262718673218
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 50,
+    "side": "L",
+    "reach": "middle",
+    "predicted_displacement_m": 10.409,
+    "predicted_rate_m_per_yr": 3.469,
+    "ensemble_std_m": 25.182,
+    "p10_m": -18.512,
+    "p90_m": 37.414,
+    "abs_displacement_m": 10.409,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24274724816075,
+      23.19723295488011
+     ],
+     [
+      90.24261971523478,
+      23.197372546709015
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 50,
+    "side": "R",
+    "reach": "middle",
+    "predicted_displacement_m": -20.247,
+    "predicted_rate_m_per_yr": -6.747,
+    "ensemble_std_m": 30.695,
+    "p10_m": -66.85,
+    "p90_m": 18.011,
+    "abs_displacement_m": 20.247,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24405601049737,
+      23.20104680561469
+     ],
+     [
+      90.24402736422954,
+      23.201178902636993
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 51,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 14.929,
+    "predicted_rate_m_per_yr": 4.975,
+    "ensemble_std_m": 21.164,
+    "p10_m": -11.343,
+    "p90_m": 41.275,
+    "abs_displacement_m": 14.929,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24446548974856,
+      23.19915853011648
+     ],
+     [
+      90.24442974693864,
+      23.199323357506
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 51,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -18.628,
+    "predicted_rate_m_per_yr": -6.208,
+    "ensemble_std_m": 27.317,
+    "p10_m": -62.398,
+    "p90_m": 12.392,
+    "abs_displacement_m": 18.628,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24767691626866,
+      23.200297899617848
+     ],
+     [
+      90.24778344505586,
+      23.20050379058619
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 52,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 25.29,
+    "predicted_rate_m_per_yr": 8.428,
+    "ensemble_std_m": 22.361,
+    "p10_m": -4.989,
+    "p90_m": 52.881,
+    "abs_displacement_m": 25.29,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24711138933178,
+      23.199204880477005
+     ],
+     [
+      90.2471664433297,
+      23.19931128656872
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 52,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -13.07,
+    "predicted_rate_m_per_yr": -4.356,
+    "ensemble_std_m": 18.151,
+    "p10_m": -33.801,
+    "p90_m": 3.737,
+    "abs_displacement_m": 13.07,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25028884195649,
+      23.1979065837713
+     ],
+     [
+      90.2503651705903,
+      23.197947316328857
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 53,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 9.028,
+    "predicted_rate_m_per_yr": 3.009,
+    "ensemble_std_m": 16.702,
+    "p10_m": -11.264,
+    "p90_m": 34.632,
+    "abs_displacement_m": 9.028,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24871503547882,
+      23.197066713273482
+     ],
+     [
+      90.24891673660844,
+      23.197174353595358
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 53,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -23.857,
+    "predicted_rate_m_per_yr": -7.95,
+    "ensemble_std_m": 23.159,
+    "p10_m": -51.465,
+    "p90_m": 1.658,
+    "abs_displacement_m": 23.857,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25101411778952,
+      23.194496475590817
+     ],
+     [
+      90.25116276639815,
+      23.194493136213538
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 54,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 15.231,
+    "predicted_rate_m_per_yr": 5.076,
+    "ensemble_std_m": 14.989,
+    "p10_m": 0.0,
+    "p90_m": 35.747,
+    "abs_displacement_m": 15.231,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24954882911877,
+      23.19452938560916
+     ],
+     [
+      90.24961527840811,
+      23.19452789347169
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 54,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -6.809,
+    "predicted_rate_m_per_yr": -2.269,
+    "ensemble_std_m": 24.097,
+    "p10_m": -33.842,
+    "p90_m": 18.745,
+    "abs_displacement_m": 6.809,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25020086502614,
+      23.191294705877766
+     ],
+     [
+      90.25034298537521,
+      23.19123634175366
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 55,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 15.93,
+    "predicted_rate_m_per_yr": 5.309,
+    "ensemble_std_m": 15.305,
+    "p10_m": -0.957,
+    "p90_m": 35.654,
+    "abs_displacement_m": 15.93,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24901926880915,
+      23.191779941108372
+     ],
+     [
+      90.24905616579345,
+      23.19176478915912
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 55,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -4.136,
+    "predicted_rate_m_per_yr": -1.378,
+    "ensemble_std_m": 14.346,
+    "p10_m": -21.624,
+    "p90_m": 11.823,
+    "abs_displacement_m": 4.136,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2477554095171,
+      23.188926527198298
+     ],
+     [
+      90.2478029963166,
+      23.188891537313708
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 56,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 6.229,
+    "predicted_rate_m_per_yr": 2.076,
+    "ensemble_std_m": 12.518,
+    "p10_m": -6.089,
+    "p90_m": 24.759,
+    "abs_displacement_m": 6.229,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24667629032812,
+      23.189719978588133
+     ],
+     [
+      90.24666187628132,
+      23.189730576782615
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 56,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 1.887,
+    "predicted_rate_m_per_yr": 0.629,
+    "ensemble_std_m": 11.817,
+    "p10_m": -9.914,
+    "p90_m": 16.381,
+    "abs_displacement_m": 1.887,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24531503738515,
+      23.186721103949587
+     ],
+     [
+      90.24533253038426,
+      23.18670553368298
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 57,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 2.488,
+    "predicted_rate_m_per_yr": 0.829,
+    "ensemble_std_m": 9.602,
+    "p10_m": -4.49,
+    "p90_m": 14.104,
+    "abs_displacement_m": 2.488,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24382718380508,
+      23.18804539918161
+     ],
+     [
+      90.243849631435,
+      23.188025419518997
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 57,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -3.192,
+    "predicted_rate_m_per_yr": -1.064,
+    "ensemble_std_m": 17.06,
+    "p10_m": -27.858,
+    "p90_m": 17.513,
+    "abs_displacement_m": 3.192,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24301787159817,
+      23.184474560053737
+     ],
+     [
+      90.24298440426722,
+      23.184496073690756
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 58,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -4.176,
+    "predicted_rate_m_per_yr": -1.392,
+    "ensemble_std_m": 12.166,
+    "p10_m": -19.391,
+    "p90_m": 7.959,
+    "abs_displacement_m": 4.176,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24132233475753,
+      23.185564474857635
+     ],
+     [
+      90.24126821852546,
+      23.185599260901586
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 58,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 6.752,
+    "predicted_rate_m_per_yr": 2.25,
+    "ensemble_std_m": 15.327,
+    "p10_m": -9.889,
+    "p90_m": 26.122,
+    "abs_displacement_m": 6.752,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24126646662249,
+      23.182043368786008
+     ],
+     [
+      90.24123639998861,
+      23.18205713403626
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 59,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -3.437,
+    "predicted_rate_m_per_yr": -1.145,
+    "ensemble_std_m": 18.334,
+    "p10_m": -26.354,
+    "p90_m": 15.623,
+    "abs_displacement_m": 3.437,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2398324107267,
+      23.18269990513736
+     ],
+     [
+      90.23972431258524,
+      23.182749393566795
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 59,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 12.357,
+    "predicted_rate_m_per_yr": 4.118,
+    "ensemble_std_m": 17.717,
+    "p10_m": -4.82,
+    "p90_m": 38.24,
+    "abs_displacement_m": 12.357,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24048965373579,
+      23.179218367267044
+     ],
+     [
+      90.24050848235395,
+      23.17921224157122
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 60,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 2.045,
+    "predicted_rate_m_per_yr": 0.681,
+    "ensemble_std_m": 18.609,
+    "p10_m": -21.067,
+    "p90_m": 27.647,
+    "abs_displacement_m": 2.045,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23872050812577,
+      23.17979392746961
+     ],
+     [
+      90.23870325225248,
+      23.179799541235894
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 60,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 1.874,
+    "predicted_rate_m_per_yr": 0.625,
+    "ensemble_std_m": 10.863,
+    "p10_m": -6.644,
+    "p90_m": 14.013,
+    "abs_displacement_m": 1.874,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23996323030912,
+      23.176326493657008
+     ],
+     [
+      90.2399170659725,
+      23.17633661222877
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 61,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -4.861,
+    "predicted_rate_m_per_yr": -1.62,
+    "ensemble_std_m": 18.367,
+    "p10_m": -28.255,
+    "p90_m": 19.81,
+    "abs_displacement_m": 4.861,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23760958379678,
+      23.176842360104818
+     ],
+     [
+      90.23761208457773,
+      23.176841812011112
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 61,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -0.263,
+    "predicted_rate_m_per_yr": -0.088,
+    "ensemble_std_m": 7.322,
+    "p10_m": -8.644,
+    "p90_m": 5.814,
+    "abs_displacement_m": 0.263,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23914350673955,
+      23.173456100825987
+     ],
+     [
+      90.2390402129297,
+      23.173475977525797
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 62,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -10.809,
+    "predicted_rate_m_per_yr": -3.602,
+    "ensemble_std_m": 19.434,
+    "p10_m": -32.27,
+    "p90_m": 16.596,
+    "abs_displacement_m": 10.809,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23679120890604,
+      23.17390873190327
+     ],
+     [
+      90.23672624306852,
+      23.173921232128503
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 62,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 6.798,
+    "predicted_rate_m_per_yr": 2.266,
+    "ensemble_std_m": 12.25,
+    "p10_m": -6.751,
+    "p90_m": 23.805,
+    "abs_displacement_m": 6.798,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23832396162236,
+      23.170578407234608
+     ],
+     [
+      90.23839144892119,
+      23.17057196147983
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 63,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 6.951,
+    "predicted_rate_m_per_yr": 2.317,
+    "ensemble_std_m": 24.207,
+    "p10_m": -26.128,
+    "p90_m": 33.938,
+    "abs_displacement_m": 6.951,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23626985174839,
+      23.170774582261835
+     ],
+     [
+      90.23620617488459,
+      23.170780663193035
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 63,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 6.559,
+    "predicted_rate_m_per_yr": 2.186,
+    "ensemble_std_m": 11.183,
+    "p10_m": -5.0,
+    "p90_m": 21.929,
+    "abs_displacement_m": 6.559,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23809319601045,
+      23.16755328959312
+     ],
+     [
+      90.23808006601995,
+      23.1675530591823
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 64,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -1.345,
+    "predicted_rate_m_per_yr": -0.448,
+    "ensemble_std_m": 7.786,
+    "p10_m": -8.975,
+    "p90_m": 5.723,
+    "abs_displacement_m": 1.345,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23633665796251,
+      23.16752245536686
+     ],
+     [
+      90.23628641764344,
+      23.16752157316115
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 64,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 5.148,
+    "predicted_rate_m_per_yr": 1.716,
+    "ensemble_std_m": 10.493,
+    "p10_m": -0.387,
+    "p90_m": 22.663,
+    "abs_displacement_m": 5.148,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23844805714354,
+      23.164532407822584
+     ],
+     [
+      90.2384752880877,
+      23.16453581753556
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 65,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 2.815,
+    "predicted_rate_m_per_yr": 0.938,
+    "ensemble_std_m": 12.575,
+    "p10_m": -9.563,
+    "p90_m": 22.118,
+    "abs_displacement_m": 2.815,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23669543159892,
+      23.164312943293933
+     ],
+     [
+      90.23666442268295,
+      23.164309060164197
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 65,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 3.206,
+    "predicted_rate_m_per_yr": 1.068,
+    "ensemble_std_m": 8.23,
+    "p10_m": -3.455,
+    "p90_m": 14.715,
+    "abs_displacement_m": 3.206,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23909293221315,
+      23.161648578756555
+     ],
+     [
+      90.23908406898092,
+      23.161646337488783
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 66,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -0.941,
+    "predicted_rate_m_per_yr": -0.314,
+    "ensemble_std_m": 13.766,
+    "p10_m": -17.677,
+    "p90_m": 16.473,
+    "abs_displacement_m": 0.941,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23705357522027,
+      23.16113286668768
+     ],
+     [
+      90.23692800583837,
+      23.16110111176651
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 66,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 13.338,
+    "predicted_rate_m_per_yr": 4.445,
+    "ensemble_std_m": 14.463,
+    "p10_m": -2.349,
+    "p90_m": 33.714,
+    "abs_displacement_m": 13.338,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24002874996911,
+      23.158855756245092
+     ],
+     [
+      90.24005246548285,
+      23.15886410042287
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 67,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 2.6,
+    "predicted_rate_m_per_yr": 0.866,
+    "ensemble_std_m": 7.493,
+    "p10_m": -4.267,
+    "p90_m": 13.253,
+    "abs_displacement_m": 2.6,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2382842837647,
+      23.158241962834097
+     ],
+     [
+      90.2382432630833,
+      23.158227529347055
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 67,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 4.497,
+    "predicted_rate_m_per_yr": 1.499,
+    "ensemble_std_m": 14.817,
+    "p10_m": -11.092,
+    "p90_m": 22.232,
+    "abs_displacement_m": 4.497,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2412556342343,
+      23.156147159132576
+     ],
+     [
+      90.24129459107802,
+      23.156164057893776
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 68,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 4.409,
+    "predicted_rate_m_per_yr": 1.469,
+    "ensemble_std_m": 28.534,
+    "p10_m": -32.222,
+    "p90_m": 43.464,
+    "abs_displacement_m": 4.409,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.23980435407908,
+      23.15551761101807
+     ],
+     [
+      90.2397031944879,
+      23.155473728496457
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 68,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 11.449,
+    "predicted_rate_m_per_yr": 3.816,
+    "ensemble_std_m": 13.655,
+    "p10_m": -0.018,
+    "p90_m": 32.304,
+    "abs_displacement_m": 11.449,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2427727838173,
+      23.15356122172093
+     ],
+     [
+      90.24272712514951,
+      23.153536580133707
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 69,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -5.417,
+    "predicted_rate_m_per_yr": -1.805,
+    "ensemble_std_m": 20.09,
+    "p10_m": -32.298,
+    "p90_m": 19.891,
+    "abs_displacement_m": 5.417,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24103500912534,
+      23.152623344777968
+     ],
+     [
+      90.24102018775056,
+      23.152615345549954
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 69,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 1.758,
+    "predicted_rate_m_per_yr": 0.586,
+    "ensemble_std_m": 11.426,
+    "p10_m": -11.536,
+    "p90_m": 17.447,
+    "abs_displacement_m": 1.758,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24458005505629,
+      23.15110442507847
+     ],
+     [
+      90.24464790075055,
+      23.15114463247113
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 70,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 8.257,
+    "predicted_rate_m_per_yr": 2.752,
+    "ensemble_std_m": 35.734,
+    "p10_m": -38.285,
+    "p90_m": 56.117,
+    "abs_displacement_m": 8.257,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24284415664482,
+      23.15007566237492
+     ],
+     [
+      90.24272621719699,
+      23.150005765544442
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 70,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 14.354,
+    "predicted_rate_m_per_yr": 4.784,
+    "ensemble_std_m": 13.128,
+    "p10_m": 0.0,
+    "p90_m": 32.481,
+    "abs_displacement_m": 14.354,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24638882508359,
+      23.148570937636798
+     ],
+     [
+      90.2464706042444,
+      23.148626432078597
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 71,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": 10.394,
+    "predicted_rate_m_per_yr": 3.464,
+    "ensemble_std_m": 35.151,
+    "p10_m": -35.976,
+    "p90_m": 55.248,
+    "abs_displacement_m": 10.394,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.2447284444027,
+      23.14744420341865
+     ],
+     [
+      90.24462741369595,
+      23.147375642874707
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 71,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 12.841,
+    "predicted_rate_m_per_yr": 4.279,
+    "ensemble_std_m": 15.401,
+    "p10_m": -7.001,
+    "p90_m": 32.54,
+    "abs_displacement_m": 12.841,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25080201025658,
+      23.147549614241285
+     ],
+     [
+      90.25027684349615,
+      23.14722678256591
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 72,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -64.619,
+    "predicted_rate_m_per_yr": -21.535,
+    "ensemble_std_m": 27.698,
+    "p10_m": -90.682,
+    "p90_m": -25.024,
+    "abs_displacement_m": 64.619,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24675340454561,
+      23.145060765152287
+     ],
+     [
+      90.24681394975774,
+      23.145097986228354
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 72,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -7.45,
+    "predicted_rate_m_per_yr": -2.483,
+    "ensemble_std_m": 26.195,
+    "p10_m": -40.264,
+    "p90_m": 29.533,
+    "abs_displacement_m": 7.45,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25116659589177,
+      23.144033248590915
+     ],
+     [
+      90.25111537363057,
+      23.14400789941077
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 73,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -5.953,
+    "predicted_rate_m_per_yr": -1.984,
+    "ensemble_std_m": 18.805,
+    "p10_m": -31.845,
+    "p90_m": 16.875,
+    "abs_displacement_m": 5.953,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24855765415667,
+      23.142742087909486
+     ],
+     [
+      90.24840131756784,
+      23.142664715137556
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 73,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 18.17,
+    "predicted_rate_m_per_yr": 6.055,
+    "ensemble_std_m": 16.286,
+    "p10_m": -0.515,
+    "p90_m": 37.836,
+    "abs_displacement_m": 18.17,
+    "direction": "outward",
+    "forecast_class": "erosion",
+    "forecast_quality": "forecast",
+    "origin_flags": "",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25210565056473,
+      23.141061699619424
+     ],
+     [
+      90.25204527991312,
+      23.141035173392233
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 74,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -6.849,
+    "predicted_rate_m_per_yr": -2.283,
+    "ensemble_std_m": 33.491,
+    "p10_m": -56.845,
+    "p90_m": 33.076,
+    "abs_displacement_m": 6.849,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings', 'border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.24891342328999,
+      23.139659024338986
+     ],
+     [
+      90.2493598092829,
+      23.13985517326048
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 74,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": -50.645,
+    "predicted_rate_m_per_yr": -16.878,
+    "ensemble_std_m": 44.904,
+    "p10_m": -109.865,
+    "p90_m": 10.135,
+    "abs_displacement_m": 50.645,
+    "direction": "inward",
+    "forecast_class": "accretion",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['multiple_crossings', 'border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25304727180317,
+      23.13796188340336
+     ],
+     [
+      90.25301467086318,
+      23.137952662589164
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 75,
+    "side": "L",
+    "reach": "south",
+    "predicted_displacement_m": -3.494,
+    "predicted_rate_m_per_yr": -1.164,
+    "ensemble_std_m": 15.674,
+    "p10_m": -24.929,
+    "p90_m": 14.622,
+    "abs_displacement_m": 3.494,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      90.25071831391843,
+      23.137303143895334
+     ],
+     [
+      90.25068628635862,
+      23.137294084708486
+     ]
+    ]
+   },
+   "properties": {
+    "year": 2026,
+    "origin_year": 2023,
+    "horizon_years": 3,
+    "transect_id": 75,
+    "side": "R",
+    "reach": "south",
+    "predicted_displacement_m": 3.432,
+    "predicted_rate_m_per_yr": 1.144,
+    "ensemble_std_m": 18.029,
+    "p10_m": -18.271,
+    "p90_m": 26.053,
+    "abs_displacement_m": 3.432,
+    "direction": "within_tolerance",
+    "forecast_class": "low_movement",
+    "forecast_quality": "flagged_origin",
+    "origin_flags": "['border_transect']",
+    "model": "random_forest",
+    "low_movement_tolerance_m": 15.0,
+    "implausible_threshold_m": 150.0
+   }
+  }
+ ]
+}

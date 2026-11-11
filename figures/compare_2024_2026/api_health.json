@@ -1,0 +1,153 @@
+{
+  "status_code": 200,
+  "body": {
+    "status": "ok",
+    "service": "river-bank-forecast-api",
+    "project_root": "/media/saad/HDD/rivererosionaccretion",
+    "frozen": true,
+    "origin_year": 2023,
+    "forecast_years": [
+      2024,
+      2025,
+      2026
+    ],
+    "training_cutoff_year": 2023,
+    "model": "random_forest",
+    "model_label": "Random forest",
+    "checks": [
+      {
+        "name": "manifest_frozen",
+        "ok": true,
+        "detail": "frozen=True"
+      },
+      {
+        "name": "ready_hash",
+        "ok": true,
+        "detail": "d113c99da9fed2270dd2dd4892c6812d5aa5b907f0f4b5e4ff42274886f72f98"
+      },
+      {
+        "name": "frozen_file:bank_points_2024.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:bank_points_2025.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:bank_points_2026.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:banklines_2024.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:banklines_2025.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:banklines_2026.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:forecast_summary.json",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:model_metadata_used.json",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:observed_banklines_2023.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:segments_2024.csv",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:segments_2024.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:segments_2025.csv",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:segments_2025.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:segments_2026.csv",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "frozen_file:segments_2026.geojson",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:config_sha256",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:dataset_sha256",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:forecast_features_sha256",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:model_artifact_sha256",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:model_metadata_sha256",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "manifest_code_inputs",
+        "ok": true,
+        "detail": "3 code hashes"
+      },
+      {
+        "name": "input:code:forecast.py",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:code:models.py",
+        "ok": true,
+        "detail": "sha256 matches"
+      },
+      {
+        "name": "input:code:dataset.py",
+        "ok": true,
+        "detail": "sha256 matches"
+      }
+    ],
+    "errors": [],
+    "ready_sha256": "d113c99da9fed2270dd2dd4892c6812d5aa5b907f0f4b5e4ff42274886f72f98"
+  },
+  "pass": true
+}

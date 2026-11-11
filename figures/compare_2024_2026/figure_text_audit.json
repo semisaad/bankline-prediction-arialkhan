@@ -1,0 +1,184 @@
+{
+  "caption": "Close to the actual line is only skill if closer than the 2023 line.",
+  "overview": [
+    {
+      "year": 2024,
+      "text_box": "2024  \u00b7  n=134 valid pairs  \u00b7  forecast MAE 6.61 m  \u00b7  zero MAE 3.88 m  \u00b7  forecast closer 6.7% (9)  \u00b7  farther 93.3% (125)  \u00b7  ties 0 (0.0%)",
+      "caption": "Close to the actual line is only skill if closer than the 2023 line.",
+      "model_mae_m": 6.606315916911563,
+      "zero_mae_m": 3.8789566461495957,
+      "model_closer_n": 9,
+      "exact_tie_n": 0,
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "text_box": "2025  \u00b7  n=134 valid pairs  \u00b7  forecast MAE 10.75 m  \u00b7  zero MAE 7.29 m  \u00b7  forecast closer 12.7% (17)  \u00b7  farther 87.3% (117)  \u00b7  ties 0 (0.0%)",
+      "caption": "Close to the actual line is only skill if closer than the 2023 line.",
+      "model_mae_m": 10.74553809885555,
+      "zero_mae_m": 7.294484952085983,
+      "model_closer_n": 17,
+      "exact_tie_n": 0,
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "text_box": "2026  \u00b7  n=130 valid pairs  \u00b7  forecast MAE 10.12 m  \u00b7  zero MAE 6.29 m  \u00b7  forecast closer 13.1% (17)  \u00b7  farther 86.9% (113)  \u00b7  ties 0 (0.0%)",
+      "caption": "Close to the actual line is only skill if closer than the 2023 line.",
+      "model_mae_m": 10.122948268311232,
+      "zero_mae_m": 6.293853103335657,
+      "model_closer_n": 17,
+      "exact_tie_n": 0,
+      "pass": true
+    }
+  ],
+  "changed_places": [
+    {
+      "year": 2024,
+      "rank": 1,
+      "section_id": 3,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 7.93 m  \u00b7  zero MAE 6.81 m  \u00b7  forecast closer 13.6%",
+      "line2": "Both within 15 m 81.8%  \u00b7  changed n=4  \u00b7  changed RF/zero MAE 30.16/37.48 m",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "rank": 2,
+      "section_id": 4,
+      "line1": "Valid 20/22  \u00b7  forecast MAE 5.03 m  \u00b7  zero MAE 3.31 m  \u00b7  forecast closer 0.0%",
+      "line2": "Both within 15 m 90.0%  \u00b7  changed n=2  \u00b7  changed RF/zero MAE 34.33/33.12 m",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "rank": 3,
+      "section_id": 5,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 9.44 m  \u00b7  zero MAE 6.91 m  \u00b7  forecast closer 13.6%",
+      "line2": "Both within 15 m 77.3%  \u00b7  changed n=5  \u00b7  changed RF/zero MAE 28.57/27.68 m",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "rank": 4,
+      "section_id": 2,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 6.91 m  \u00b7  zero MAE 4.21 m  \u00b7  forecast closer 4.5%",
+      "line2": "Both within 15 m 86.4%  \u00b7  changed n=3  \u00b7  changed RF/zero MAE 31.16/30.85 m",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "rank": 5,
+      "section_id": 1,
+      "line1": "Valid 18/24  \u00b7  forecast MAE 5.76 m  \u00b7  zero MAE 1.68 m  \u00b7  forecast closer 5.6%",
+      "line2": "Both within 15 m 94.4%  \u00b7  changed n=1  \u00b7  changed RF/zero MAE 29.64/30.23 m",
+      "pass": true
+    },
+    {
+      "year": 2024,
+      "rank": 6,
+      "section_id": 6,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 3.68 m  \u00b7  zero MAE 1.31 m  \u00b7  forecast closer 4.5%",
+      "line2": "Both within 15 m 95.5%  \u00b7  changed n=1  \u00b7  changed RF/zero MAE 26.08/28.74 m",
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "rank": 1,
+      "section_id": 7,
+      "line1": "Valid 8/16  \u00b7  forecast MAE 36.01 m  \u00b7  zero MAE 35.45 m  \u00b7  forecast closer 37.5%",
+      "line2": "Both within 15 m 50.0%  \u00b7  changed n=4  \u00b7  changed RF/zero MAE 66.44/70.90 m",
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "rank": 2,
+      "section_id": 3,
+      "line1": "Valid 20/22  \u00b7  forecast MAE 15.51 m  \u00b7  zero MAE 11.22 m  \u00b7  forecast closer 15.0%",
+      "line2": "Both within 15 m 65.0%  \u00b7  changed n=5  \u00b7  changed RF/zero MAE 41.13/42.12 m",
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "rank": 3,
+      "section_id": 4,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 5.35 m  \u00b7  zero MAE 3.52 m  \u00b7  forecast closer 4.5%",
+      "line2": "Both within 15 m 90.9%  \u00b7  changed n=2  \u00b7  changed RF/zero MAE 35.87/32.14 m",
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "rank": 4,
+      "section_id": 5,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 10.11 m  \u00b7  zero MAE 6.56 m  \u00b7  forecast closer 22.7%",
+      "line2": "Both within 15 m 72.7%  \u00b7  changed n=5  \u00b7  changed RF/zero MAE 20.80/26.14 m",
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "rank": 5,
+      "section_id": 2,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 8.69 m  \u00b7  zero MAE 3.47 m  \u00b7  forecast closer 9.1%",
+      "line2": "Both within 15 m 77.3%  \u00b7  changed n=3  \u00b7  changed RF/zero MAE 24.77/25.41 m",
+      "pass": true
+    },
+    {
+      "year": 2025,
+      "rank": 6,
+      "section_id": 6,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 5.66 m  \u00b7  zero MAE 2.76 m  \u00b7  forecast closer 4.5%",
+      "line2": "Both within 15 m 90.9%  \u00b7  changed n=2  \u00b7  changed RF/zero MAE 26.96/30.38 m",
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "rank": 1,
+      "section_id": 3,
+      "line1": "Valid 20/22  \u00b7  forecast MAE 19.34 m  \u00b7  zero MAE 16.75 m  \u00b7  forecast closer 25.0%",
+      "line2": "Both within 15 m 50.0%  \u00b7  changed n=8  \u00b7  changed RF/zero MAE 35.83/38.63 m",
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "rank": 2,
+      "section_id": 6,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 7.48 m  \u00b7  zero MAE 3.28 m  \u00b7  forecast closer 4.5%",
+      "line2": "Both within 15 m 90.9%  \u00b7  changed n=2  \u00b7  changed RF/zero MAE 33.82/36.05 m",
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "rank": 3,
+      "section_id": 1,
+      "line1": "Valid 18/24  \u00b7  forecast MAE 8.78 m  \u00b7  zero MAE 7.01 m  \u00b7  forecast closer 16.7%",
+      "line2": "Both within 15 m 77.8%  \u00b7  changed n=4  \u00b7  changed RF/zero MAE 24.17/31.56 m",
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "rank": 4,
+      "section_id": 2,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 10.16 m  \u00b7  zero MAE 4.75 m  \u00b7  forecast closer 13.6%",
+      "line2": "Both within 15 m 72.7%  \u00b7  changed n=3  \u00b7  changed RF/zero MAE 26.91/33.25 m",
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "rank": 5,
+      "section_id": 7,
+      "line1": "Valid 4/16  \u00b7  forecast MAE 14.29 m  \u00b7  zero MAE 8.80 m  \u00b7  forecast closer 25.0%",
+      "line2": "Both within 15 m 75.0%  \u00b7  changed n=1  \u00b7  changed RF/zero MAE 26.95/35.21 m",
+      "pass": true
+    },
+    {
+      "year": 2026,
+      "rank": 6,
+      "section_id": 5,
+      "line1": "Valid 22/22  \u00b7  forecast MAE 10.51 m  \u00b7  zero MAE 5.23 m  \u00b7  forecast closer 18.2%",
+      "line2": "Both within 15 m 59.1%  \u00b7  changed n=4  \u00b7  changed RF/zero MAE 15.60/25.33 m",
+      "pass": true
+    }
+  ],
+  "closer_source": "evaluation/predictions.csv; metrics.json has no closer field",
+  "changed_places_rule": "six existing 4 km sections per year with largest maximum |observed displacement| among valid pairs",
+  "pass": true
+}

@@ -1,0 +1,90 @@
+{
+  "reach_point": [
+    23.24884,
+    90.168
+  ],
+  "padma_point": [
+    23.475,
+    90.125
+  ],
+  "flow_period": [
+    "1997-01-01",
+    "2026-10-20"
+  ],
+  "rain_period": [
+    "1989-01-01",
+    "2026-10-20"
+  ],
+  "flow": {
+    "local": {
+      "requested_point": [
+        23.24884,
+        90.168
+      ],
+      "returned_grid_point": [
+        23.225006,
+        90.17502
+      ],
+      "units": {
+        "time": "iso8601",
+        "river_discharge": "m\u00b3/s"
+      },
+      "source": "Open-Meteo Flood API (GloFAS river discharge)",
+      "url": "https://flood-api.open-meteo.com/v1/flood?latitude=23.24884&longitude=90.168&daily=river_discharge&start_date=1997-01-01&end_date=2026-10-20&timezone=UTC"
+    },
+    "padma": {
+      "requested_point": [
+        23.475,
+        90.125
+      ],
+      "returned_grid_point": [
+        23.475006,
+        90.125
+      ],
+      "units": {
+        "time": "iso8601",
+        "river_discharge": "m\u00b3/s"
+      },
+      "source": "Open-Meteo Flood API (GloFAS river discharge)",
+      "url": "https://flood-api.open-meteo.com/v1/flood?latitude=23.475&longitude=90.125&daily=river_discharge&start_date=1997-01-01&end_date=2026-10-20&timezone=UTC"
+    }
+  },
+  "rain": {
+    "reach": {
+      "requested_point": [
+        23.24884,
+        90.168
+      ],
+      "returned_grid_point": [
+        23.233742,
+        90.18868
+      ],
+      "units": {
+        "time": "iso8601",
+        "precipitation_sum": "mm",
+        "et0_fao_evapotranspiration": "mm",
+        "soil_moisture_0_to_7cm_mean": "m\u00b3/m\u00b3"
+      },
+      "source": "Open-Meteo Archive API (ERA5-Land)",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=23.24884&longitude=90.168&start_date=1989-01-01&end_date=2026-10-20&daily=precipitation_sum%2Cet0_fao_evapotranspiration%2Csoil_moisture_0_to_7cm_mean&timezone=UTC"
+    },
+    "padma": {
+      "requested_point": [
+        23.475,
+        90.125
+      ],
+      "returned_grid_point": [
+        23.44464,
+        90.094635
+      ],
+      "units": {
+        "time": "iso8601",
+        "precipitation_sum": "mm",
+        "et0_fao_evapotranspiration": "mm",
+        "soil_moisture_0_to_7cm_mean": "m\u00b3/m\u00b3"
+      },
+      "source": "Open-Meteo Archive API (ERA5-Land)",
+      "url": "https://archive-api.open-meteo.com/v1/archive?latitude=23.475&longitude=90.125&start_date=1989-01-01&end_date=2026-10-20&daily=precipitation_sum%2Cet0_fao_evapotranspiration%2Csoil_moisture_0_to_7cm_mean&timezone=UTC"
+    }
+  }
+}

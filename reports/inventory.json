@@ -1,0 +1,1841 @@
+{
+  "source_dir": "/media/saad/HDD/rivererosionaccretion/landsat",
+  "discovered_at_utc": "2026-10-20T16:39:25.350421+00:00",
+  "file_count": 37,
+  "years": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "missing_years": [
+    1997
+  ],
+  "duplicate_year_entries": {},
+  "duplicate_pixel_content_groups": [],
+  "naming_issues": [],
+  "grid_variants_historical": [
+    {
+      "crs": "EPSG:32646",
+      "transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "width": 355,
+      "height": 478,
+      "count": 34
+    }
+  ],
+  "test_year_lock": {
+    "years": [
+      2024,
+      2025,
+      2026
+    ],
+    "policy": "Only filename, size and byte hash inspected before freeze. No metadata or pixel content opened."
+  },
+  "temporal_ambiguity": "Filenames contain only a year. The export configuration describes a January 1-March 25 dry-season composite, but individual scene dates are not stored. Labels use 25 March as the nominal end date and elapsed time is calculated from those nominal dates.",
+  "files": [
+    {
+      "filename": "MNDWI_Mask_1989.tif",
+      "year_from_filename": 1989,
+      "size_bytes": 14192,
+      "sha256_file": "ab670508a011799ef833304d07e23306ce37008813cac8094873e20ab50704ea",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 152467,
+        "255": 17223
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.10588018319859835,
+      "pixel_sha256": "7152e6c7b1e81b5c21138c6d58837eb1354c8c34fe72c9aeb64d63d1ef555ca9",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1990.tif",
+      "year_from_filename": 1990,
+      "size_bytes": 14252,
+      "sha256_file": "4bb6105b10ee7c4febc69e43723cc1a55e6b93a824041ad8f9af9528c9a608b4",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 153618,
+        "255": 16072
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.098804291027572,
+      "pixel_sha256": "920a4dd9ba5a204570c48fae13a4654092df137227c147a69afef77905cb4477",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1991.tif",
+      "year_from_filename": 1991,
+      "size_bytes": 12995,
+      "sha256_file": "35d19bc12ec62285a3ac2ef43a6e85f63d1ef73879f0637df40fcf00138e1b7f",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 156955,
+        "255": 12735
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.07828973657516983,
+      "pixel_sha256": "20410965c056b883e89eb4f888231f3132434cb3c6e3452e910992371c8b572b",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1992.tif",
+      "year_from_filename": 1992,
+      "size_bytes": 14040,
+      "sha256_file": "7f3b6ee52add7f971576b3e9a1a1e1eb05fbde89314cd90c2389424a7b612945",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 153465,
+        "255": 16225
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.09974487443518888,
+      "pixel_sha256": "84e5eb9b0d6f8ed192330128f3f42d91aafeeac3e06eb742920a425c1e046238",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1993.tif",
+      "year_from_filename": 1993,
+      "size_bytes": 12982,
+      "sha256_file": "c7ca43e95d3c87d56f348e52b0809ff7c3bc0f790b0af1339c6249fcc96173f7",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 156356,
+        "255": 13334
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.08197215135400977,
+      "pixel_sha256": "17a8ddb53a8cd21c4fceb3e831da6bbbb743ea7d23a3d83259140bc4877e3b60",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1994.tif",
+      "year_from_filename": 1994,
+      "size_bytes": 11515,
+      "sha256_file": "f3f35c3f6e644a8232deca9112a8a2f834ee98d62e8988ee8feac0be86b61368",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 158632,
+        "255": 11058
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.06798020471521225,
+      "pixel_sha256": "0dad6e25548fe89d49a00a22964801b59647e4616302ad66c9102468f5f51387",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1995.tif",
+      "year_from_filename": 1995,
+      "size_bytes": 10646,
+      "sha256_file": "ede4a674339570007abc332237278fab54cdb08266bfb1aa2d535d13d7ce7eb9",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 160077,
+        "255": 9613
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.05909691697660837,
+      "pixel_sha256": "85a558df577e751f5fce2316cd73b691b1cc66d44333fd383a3d4fd7c574fb2e",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1996.tif",
+      "year_from_filename": 1996,
+      "size_bytes": 13330,
+      "sha256_file": "db80e2c45cf5c212ff93c1597376a1aee40c8fc67a75e3c340bcd764ba1cebff",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 154800,
+        "255": 14890
+      },
+      "valid_values": {
+        "0": 7027,
+        "255": 162663
+      },
+      "valid_fraction": 0.9585891920561023,
+      "water_fraction_of_valid": 0.09153894862384193,
+      "pixel_sha256": "6ea417a9870f12a16ee446229b3e470d91fdf2739550a23498e35ff77dcbd079",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1998.tif",
+      "year_from_filename": 1998,
+      "size_bytes": 11076,
+      "sha256_file": "19dcf3005441116d40369dc1bda33fd0c6a36392feb566dde8162790fcf9ef35",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 158526,
+        "255": 11164
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.06863185073617557,
+      "pixel_sha256": "15d3348992d3ddca2ccd131c5b13153b01bd81a4cf2c637c0b34f05a10fe36da",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_1999.tif",
+      "year_from_filename": 1999,
+      "size_bytes": 11977,
+      "sha256_file": "5b44951140f582cdb1c1f36a07b33d051966ddacd274d886a541117fa68ac8ff",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 157407,
+        "255": 12283
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.07551101958011865,
+      "pixel_sha256": "b34da3bdd456446e4f00800500c0e0c963bc75812fb162bbab1cfdf89d03c5ba",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2000.tif",
+      "year_from_filename": 2000,
+      "size_bytes": 15226,
+      "sha256_file": "6c178009a602c3c6d3ec0b7624e353ff521f97b2d0d1d19a2c68b25d52584704",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 152170,
+        "255": 17520
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.10770602157808994,
+      "pixel_sha256": "e4e3eaba583f43f555dfd31ab67afc42bcfc52629d54cfdde08f85863a3dc76f",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2001.tif",
+      "year_from_filename": 2001,
+      "size_bytes": 17067,
+      "sha256_file": "56ddf00119af6203a073b24ffc0b832aad80ffe580e373753016b3882a820047",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 146092,
+        "255": 23598
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.1450711585159684,
+      "pixel_sha256": "5611c31ccaf9cb42658c8bb58782e083d5704db07cb2c5700922c51135631037",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2002.tif",
+      "year_from_filename": 2002,
+      "size_bytes": 13875,
+      "sha256_file": "04d2be19fb70efe657f2cb386c456a89a03d5183c7221d5a3998810b5f8bc355",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 155475,
+        "255": 14215
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.08738819045277103,
+      "pixel_sha256": "c09dd233deace85483ccbc238568a145aa211c7684dff255d98ca93924761d43",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2003.tif",
+      "year_from_filename": 2003,
+      "size_bytes": 11789,
+      "sha256_file": "923e59e8c2c1326ed23b8c5f3e4642db86b8a696a5f23a5232dc38a7a504eb4b",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 157752,
+        "255": 11938
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.07339009621000216,
+      "pixel_sha256": "85a06093feedf099c7772a8bca51e2d9a62a04673c17c3b7ec3181c4e9ddcecc",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2004.tif",
+      "year_from_filename": 2004,
+      "size_bytes": 16459,
+      "sha256_file": "0c91ee1403dcd49b10c206b1df7dedf51ae0ef1a3b76d6a4c72260a753c23403",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 148242,
+        "255": 21448
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.13185380997756124,
+      "pixel_sha256": "1a3677f76a12ce2fd628efcf6f7b13b2db3d09b7115719ce6322d7b06d0baa7c",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2005.tif",
+      "year_from_filename": 2005,
+      "size_bytes": 10977,
+      "sha256_file": "96fb037accdf55b3040bf0fe2ecbc34f687a24b71608a7ae57eeaf3a37ad8c5d",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 158769,
+        "255": 10921
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.067137982971137,
+      "pixel_sha256": "c3cbe1d1dd5ee9aec9f290751da7014a05463ffcbace0d00357357399ece88f0",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2006.tif",
+      "year_from_filename": 2006,
+      "size_bytes": 13200,
+      "sha256_file": "9d77774c082fa6b3b8f8c181ad63b525a00678dab9128785e645951d1f6cf0a9",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 156087,
+        "255": 13603
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.0836258568223035,
+      "pixel_sha256": "659a9d613b9b93f49ad699895ed52e210dd7a2c715f862eaba3113be3e59ca7d",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2007.tif",
+      "year_from_filename": 2007,
+      "size_bytes": 12813,
+      "sha256_file": "c08fb7f620ef3f35887ac1c0bcdd47d40d8214d4304718ad320c1e8fbed43a45",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 157877,
+        "255": 11813
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.07262164571358314,
+      "pixel_sha256": "e60a55f11fdf4b60f455c17ec8e464c60ae312fd356ee8e79fcd05bb42780cd0",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2008.tif",
+      "year_from_filename": 2008,
+      "size_bytes": 15364,
+      "sha256_file": "fea6fbea4ddb9371a7a66dab6f901ad1f24c8725342fa3100e18a813bd8f808a",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 151047,
+        "255": 18643
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.11460978083791842,
+      "pixel_sha256": "0589699f672e5cbc7290b147fc26a0295c8f233280bcdce3bd131c58c3ed2424",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2009.tif",
+      "year_from_filename": 2009,
+      "size_bytes": 11655,
+      "sha256_file": "92d56f86a53455f69ec35f2b939dcbb777b1216a7dea77cc871c5da8d4594d92",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 158632,
+        "255": 11058
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.06798020471521225,
+      "pixel_sha256": "071d86b747da406bc747b46c1ecbd5aa6aae092fd9e2ba3cecbcd211cdda5ee8",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2010.tif",
+      "year_from_filename": 2010,
+      "size_bytes": 15993,
+      "sha256_file": "91084e366f2e655dac968eaeea086a1a9577ab1ae684060e5894b2d3b65a8e14",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 146282,
+        "255": 23408
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.1439031137614115,
+      "pixel_sha256": "0c8fd909182b7ba75459e64b7112fe56ee6132d210580aa7ac1d2ece66a8c8a1",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2011.tif",
+      "year_from_filename": 2011,
+      "size_bytes": 14324,
+      "sha256_file": "00e09011d6208844dfb81f586c9893cb9183657c988f32a72172f47f179cb440",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 154018,
+        "255": 15672
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.09634524943903114,
+      "pixel_sha256": "3e726f632c4019fdb6240f7c4d05d99630f6d5049caa009a84eb7244ea4568be",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2012.tif",
+      "year_from_filename": 2012,
+      "size_bytes": 15389,
+      "sha256_file": "ab3aab39d0a5c83bfa16e74b7a71849df56c67ce08e673245fe1525eb6bc0847",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 150637,
+        "255": 19053
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.1171302984661728,
+      "pixel_sha256": "359866dde5b54ca6e9751f6ce1d734dae9bc82950497406f9d147a045bd1927b",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2013.tif",
+      "year_from_filename": 2013,
+      "size_bytes": 12939,
+      "sha256_file": "cc321b55f84de97f7b4e4a7be97fb51084a8b1543953fadcf91f327e6283bdb6",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 157509,
+        "255": 12181
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.07488396397504073,
+      "pixel_sha256": "82c55f17124f2e307ea5620e952400de058cd928bab540c13a94c1184422f18e",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2014.tif",
+      "year_from_filename": 2014,
+      "size_bytes": 12640,
+      "sha256_file": "d2e3c004c3043fc88602129d3e917cbac95df9c4c6930fbeb729bd06fddeefa0",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 158772,
+        "255": 10918
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.06711954015922295,
+      "pixel_sha256": "8228f9574e6e580fdf78b3bfd6b8fecc0a1021172ce0a45a8a8c15fb867ab0b9",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2015.tif",
+      "year_from_filename": 2015,
+      "size_bytes": 12629,
+      "sha256_file": "50b7a557b044227d0b9379322581ea262503c03010d796e60918a471d40d5822",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 159278,
+        "255": 10412
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.06400885254971875,
+      "pixel_sha256": "3ee5c00ca1e0067e5a77017c3c63ca7bea78b306adacb4dbc9f657ebed9a7047",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2016.tif",
+      "year_from_filename": 2016,
+      "size_bytes": 11160,
+      "sha256_file": "be43df4cab479b9a37492155f6b4305717b49268fdfd01b3d8dae0a99bec468e",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 160936,
+        "255": 8754
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.05381612516521685,
+      "pixel_sha256": "d29aacdfca5e09a58d8d1a58b6b01b1c5c05997819cdae4e61884edf95e10cf3",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2017.tif",
+      "year_from_filename": 2017,
+      "size_bytes": 11862,
+      "sha256_file": "2b8c1a68abe061974a2b881e7bc4b09705e7fca8807ecedea6ed3985b0f6c902",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 160858,
+        "255": 8832
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.05429563827498233,
+      "pixel_sha256": "6192d23977883fe53633bb0f343154b325fd857d032b375974e62a73ba9c236f",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2018.tif",
+      "year_from_filename": 2018,
+      "size_bytes": 11635,
+      "sha256_file": "a678b02f88c0dc75c1a51e6733b79227e29f00a5ad18d0ecedbbd59d29e7e7cb",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 160532,
+        "255": 9158
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.05629975716964313,
+      "pixel_sha256": "0e09b37b5150aa5831586765119baff2a5e568dac17cd47009077bedb73d429a",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2019.tif",
+      "year_from_filename": 2019,
+      "size_bytes": 11557,
+      "sha256_file": "4a792245f9d2b0a202526133be4f8fe49998c6beac7e0589313141011993d9f6",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 160571,
+        "255": 9119
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.056060000614760394,
+      "pixel_sha256": "f531843760052c9358ac6b1748a8c7c71538fe98fe1ba4b0a95abd34d49091de",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2020.tif",
+      "year_from_filename": 2020,
+      "size_bytes": 11918,
+      "sha256_file": "263836cfbf7e3d33f477f328f0a5fa04b561b5e7f6aac05e3abf5210a789fe9a",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 159177,
+        "255": 10513
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.06462976055082531,
+      "pixel_sha256": "1fd7b8c3c175d65c6f96a9c7a072deb757e525945880e06dbf2422569709921d",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2021.tif",
+      "year_from_filename": 2021,
+      "size_bytes": 11404,
+      "sha256_file": "426c30949fec0526c5a4896b3b678a13c43227802b02948376592893b41b255e",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 161100,
+        "255": 8590
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.0528079181139151,
+      "pixel_sha256": "df63382178386a854f36e78ae4cc3e16f4c0821f97cb3e0f559e3ba0f76cd51d",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2022.tif",
+      "year_from_filename": 2022,
+      "size_bytes": 11753,
+      "sha256_file": "e3154f7a6cde3a700a8d7dda1b1712ddf6c3fd6d9461b823e69727a85d46798e",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 160197,
+        "255": 9493
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.05835920450004611,
+      "pixel_sha256": "5fdd84b7d75d6d140b6e77064ca78182cd42b8089b61e2f7044ec315729dfed9",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2023.tif",
+      "year_from_filename": 2023,
+      "size_bytes": 10623,
+      "sha256_file": "9270acfb75d114507e11bb62c8ef5f6e80dc34846ef438fe20131e0f5ed90f90",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename plus raster metadata",
+      "pixel_contents_inspected": true,
+      "width": 355,
+      "height": 478,
+      "band_count": 2,
+      "dtype": "uint8",
+      "crs": "EPSG:32646",
+      "affine_transform": [
+        30.0,
+        0.0,
+        209970.0,
+        0.0,
+        -30.0,
+        2575320.0
+      ],
+      "pixel_size": [
+        30.0,
+        30.0
+      ],
+      "extent": [
+        209970.0,
+        2560980.0,
+        220620.0,
+        2575320.0
+      ],
+      "nodata": null,
+      "band_descriptions": [
+        "water",
+        "valid"
+      ],
+      "water_values": {
+        "0": 162247,
+        "255": 7443
+      },
+      "valid_values": {
+        "0": 7025,
+        "255": 162665
+      },
+      "valid_fraction": 0.958600978254464,
+      "water_fraction_of_valid": 0.04575661635877417,
+      "pixel_sha256": "c8c3b1f632b7ba118a4ff9e0d342beb7015a5330fde275475496f405f4e0e76e",
+      "tags": {
+        "AREA_OR_POINT": "Area"
+      }
+    },
+    {
+      "filename": "MNDWI_Mask_2024.tif",
+      "year_from_filename": 2024,
+      "size_bytes": 10666,
+      "sha256_file": "5b18dacc3c9c4e81198f820aae895c574f27754dfd665d841127aac332da3a55",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename and file bytes only",
+      "pixel_contents_inspected": false,
+      "test_lock": "2024-2026 pixel contents not opened before forecast freeze"
+    },
+    {
+      "filename": "MNDWI_Mask_2025.tif",
+      "year_from_filename": 2025,
+      "size_bytes": 10450,
+      "sha256_file": "651b8cfa704da726aab5c04463a8539b96c824e332c4334ab3213fd544bcc0df",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename and file bytes only",
+      "pixel_contents_inspected": false,
+      "test_lock": "2024-2026 pixel contents not opened before forecast freeze"
+    },
+    {
+      "filename": "MNDWI_Mask_2026.tif",
+      "year_from_filename": 2026,
+      "size_bytes": 11580,
+      "sha256_file": "5199b4613e9f8e2f7ec22e305dcea78099f03d6ddc12c7b25476aea477e8549b",
+      "temporal_precision": "year only in filename; dry-season January 1-March 25 composite",
+      "metadata_source": "filename and file bytes only",
+      "pixel_contents_inspected": false,
+      "test_lock": "2024-2026 pixel contents not opened before forecast freeze"
+    }
+  ]
+}

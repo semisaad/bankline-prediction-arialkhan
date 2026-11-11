@@ -1,0 +1,385 @@
+{
+  "columns": [
+    {
+      "name": "sample_id",
+      "dtype": "str",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "forecast_year",
+      "dtype": "int64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "target_year",
+      "dtype": "int64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "origin_year",
+      "dtype": "int64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "horizon_years",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "elapsed_years",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "transect_id",
+      "dtype": "int64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "side",
+      "dtype": "str",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "reach",
+      "dtype": "str",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "along_m",
+      "dtype": "float64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "origin_bank_x",
+      "dtype": "float64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 12324
+    },
+    {
+      "name": "origin_bank_y",
+      "dtype": "float64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 12324
+    },
+    {
+      "name": "normal_x",
+      "dtype": "float64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "normal_y",
+      "dtype": "float64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "outward_sign",
+      "dtype": "float64",
+      "role": "identifier_or_evaluation_only",
+      "non_null": 13950
+    },
+    {
+      "name": "target_displacement_m",
+      "dtype": "float64",
+      "role": "label_or_quality",
+      "non_null": 12183
+    },
+    {
+      "name": "target_rate_m_per_yr",
+      "dtype": "float64",
+      "role": "label_or_quality",
+      "non_null": 12183
+    },
+    {
+      "name": "target_bank_x",
+      "dtype": "float64",
+      "role": "label_or_quality",
+      "non_null": 12642
+    },
+    {
+      "name": "target_bank_y",
+      "dtype": "float64",
+      "role": "label_or_quality",
+      "non_null": 12642
+    },
+    {
+      "name": "label_quality",
+      "dtype": "str",
+      "role": "label_or_quality",
+      "non_null": 13950
+    },
+    {
+      "name": "usable_for_training",
+      "dtype": "bool",
+      "role": "label_or_quality",
+      "non_null": 13950
+    },
+    {
+      "name": "last_rate_m_per_yr",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11896
+    },
+    {
+      "name": "last2_mean_rate_m_per_yr",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11377
+    },
+    {
+      "name": "last3_mean_rate_m_per_yr",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 10921
+    },
+    {
+      "name": "acceleration_m_per_yr2",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11377
+    },
+    {
+      "name": "last_displacement_m",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11896
+    },
+    {
+      "name": "last_interval_years",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11896
+    },
+    {
+      "name": "last_interval_good",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11896
+    },
+    {
+      "name": "width_m",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11614
+    },
+    {
+      "name": "width_change_last_m",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 11103
+    },
+    {
+      "name": "abs_curvature_1_m",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 12324
+    },
+    {
+      "name": "sinuosity",
+      "dtype": "float64",
+      "role": "feature",
+      "non_null": 12282
+    },
+    {
+      "name": "is_left_bank",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "feature_cutoff_year",
+      "dtype": "int64",
+      "role": "metadata",
+      "non_null": 13950
+    },
+    {
+      "name": "last_rate_missing",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "last2_missing",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "last3_missing",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "width_missing",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "curvature_missing",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    },
+    {
+      "name": "sinuosity_missing",
+      "dtype": "int64",
+      "role": "feature",
+      "non_null": 13950
+    }
+  ],
+  "forecast_columns": [
+    {
+      "name": "sample_id",
+      "dtype": "str"
+    },
+    {
+      "name": "forecast_year",
+      "dtype": "int64"
+    },
+    {
+      "name": "target_year",
+      "dtype": "int64"
+    },
+    {
+      "name": "origin_year",
+      "dtype": "int64"
+    },
+    {
+      "name": "horizon_years",
+      "dtype": "int64"
+    },
+    {
+      "name": "elapsed_years",
+      "dtype": "float64"
+    },
+    {
+      "name": "transect_id",
+      "dtype": "int64"
+    },
+    {
+      "name": "side",
+      "dtype": "str"
+    },
+    {
+      "name": "reach",
+      "dtype": "str"
+    },
+    {
+      "name": "along_m",
+      "dtype": "float64"
+    },
+    {
+      "name": "origin_bank_x",
+      "dtype": "float64"
+    },
+    {
+      "name": "origin_bank_y",
+      "dtype": "float64"
+    },
+    {
+      "name": "normal_x",
+      "dtype": "float64"
+    },
+    {
+      "name": "normal_y",
+      "dtype": "float64"
+    },
+    {
+      "name": "outward_sign",
+      "dtype": "float64"
+    },
+    {
+      "name": "last_rate_m_per_yr",
+      "dtype": "float64"
+    },
+    {
+      "name": "last2_mean_rate_m_per_yr",
+      "dtype": "float64"
+    },
+    {
+      "name": "last3_mean_rate_m_per_yr",
+      "dtype": "float64"
+    },
+    {
+      "name": "acceleration_m_per_yr2",
+      "dtype": "float64"
+    },
+    {
+      "name": "last_displacement_m",
+      "dtype": "float64"
+    },
+    {
+      "name": "last_interval_years",
+      "dtype": "float64"
+    },
+    {
+      "name": "last_interval_good",
+      "dtype": "int64"
+    },
+    {
+      "name": "width_m",
+      "dtype": "float64"
+    },
+    {
+      "name": "width_change_last_m",
+      "dtype": "float64"
+    },
+    {
+      "name": "abs_curvature_1_m",
+      "dtype": "float64"
+    },
+    {
+      "name": "sinuosity",
+      "dtype": "float64"
+    },
+    {
+      "name": "is_left_bank",
+      "dtype": "int64"
+    },
+    {
+      "name": "last_rate_missing",
+      "dtype": "int64"
+    },
+    {
+      "name": "last2_missing",
+      "dtype": "int64"
+    },
+    {
+      "name": "last3_missing",
+      "dtype": "int64"
+    },
+    {
+      "name": "width_missing",
+      "dtype": "int64"
+    },
+    {
+      "name": "curvature_missing",
+      "dtype": "int64"
+    },
+    {
+      "name": "sinuosity_missing",
+      "dtype": "int64"
+    },
+    {
+      "name": "feature_cutoff_year",
+      "dtype": "int64"
+    }
+  ],
+  "n_rows": 13950,
+  "n_forecast_rows": 450,
+  "usable_rows": 8425
+}

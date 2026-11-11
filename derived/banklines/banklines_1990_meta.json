@@ -1,0 +1,13 @@
+{
+  "year": 1990,
+  "polygon": {
+    "polygon_valid_raw": true,
+    "polygon_empty": false,
+    "repair_applied": false,
+    "repair_reason": null,
+    "area_m2_raw": 7091100.0
+  },
+  "boundary_lines": 24,
+  "boundary_length_m": 86880.0,
+  "area_m2": 7091100.0
+}

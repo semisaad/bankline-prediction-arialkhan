@@ -1,0 +1,728 @@
+{
+  "years": [
+    1989,
+    2026
+  ],
+  "latest_year": 2026,
+  "starting_year": 2023,
+  "method": {
+    "corridor_buffer_m": 400,
+    "band_width_m": 30,
+    "stretch_transects": 3,
+    "block_years": 3,
+    "bootstrap_replicates": 1000,
+    "bootstrap_seed": 42,
+    "confidence": 0.9,
+    "skip_years": [
+      1997
+    ],
+    "recent_years": 10,
+    "thresholds_m": {
+      "strong_lower": 150,
+      "moderate_lower": 30,
+      "land_gained_upper": -30
+    },
+    "transect_half_m": 400.00000000010493
+  },
+  "total_stretches": 50,
+  "counts": {
+    "strong": 0,
+    "moderate": 0,
+    "land_gained": 11,
+    "no_clear": 39
+  },
+  "tier_order": [
+    "strong",
+    "moderate",
+    "land_gained",
+    "no_clear"
+  ],
+  "tier_labels": {
+    "strong": "Strong past movement (potential erosion zone)",
+    "moderate": "Moderate past movement",
+    "land_gained": "Land gained",
+    "no_clear": "No clear movement"
+  },
+  "tier_colors": {
+    "strong": {
+      "fill": "#a61b1b",
+      "fill_opacity": 0.65,
+      "outline": "#6f0f0f"
+    },
+    "moderate": {
+      "fill": "#c98512",
+      "fill_opacity": 0.5,
+      "outline": "#7d5208"
+    },
+    "land_gained": {
+      "fill": "#2478bf",
+      "fill_opacity": 0.5,
+      "outline": "#154f80"
+    },
+    "no_clear": {
+      "fill": "#c9ced2",
+      "fill_opacity": 0.25,
+      "outline": "#7b848a"
+    }
+  },
+  "outline_styles": {
+    "strong": "solid",
+    "moderate": "dashed",
+    "land_gained": "dot",
+    "no_clear": "hairline"
+  },
+  "clear_layer_label": "Clear movement",
+  "relative_available": false,
+  "relative_layer": {
+    "label": "Most movement among stretches here",
+    "note": "relative ranking, not proven to continue",
+    "share": 0.2,
+    "min_spearman": 0.3
+  },
+  "diagnostics": {
+    "transect_half_m": {
+      "n": 75,
+      "min": 399.9999999991017,
+      "q1": 399.99999999988154,
+      "median": 400.00000000010493,
+      "q3": 400.0000000003015,
+      "max": 400.00000000067655
+    },
+    "net_m": {
+      "min": -347.8944062286681,
+      "q1": -144.5318030016432,
+      "median": 0.0,
+      "q3": 30.15638055253182,
+      "max": 158.5621724628572
+    },
+    "interval_width_m": {
+      "n": 46,
+      "min": 0.0,
+      "q1": 83.07800806667953,
+      "median": 135.25226627417624,
+      "q3": 210.35757214515215,
+      "max": 534.7425354838928
+    },
+    "tier_counts": {
+      "strong": 0,
+      "moderate": 0,
+      "land_gained": 11,
+      "no_clear": 39
+    },
+    "total_stretches": 50,
+    "land_gained": [
+      {
+        "id": "L13-15",
+        "net_m": -175.002494102829,
+        "opposite_net_m": 63.87365723806314,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "L25-27",
+        "net_m": -315.23865501221144,
+        "opposite_net_m": 77.9546009911203,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "L37-39",
+        "net_m": -242.57875423818157,
+        "opposite_net_m": 0.0,
+        "opposite_outward": false,
+        "both_inward": false
+      },
+      {
+        "id": "L46-48",
+        "net_m": -224.14427008230365,
+        "opposite_net_m": 0.0,
+        "opposite_outward": false,
+        "both_inward": false
+      },
+      {
+        "id": "L58-60",
+        "net_m": -228.37908362421484,
+        "opposite_net_m": 0.5299900323506905,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "L61-63",
+        "net_m": -217.61523338532274,
+        "opposite_net_m": 79.04826853740362,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "L70-72",
+        "net_m": -208.56487318098166,
+        "opposite_net_m": 61.112838638889045,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "R7-9",
+        "net_m": -146.33121012941066,
+        "opposite_net_m": 48.35950142734278,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "R49-51",
+        "net_m": -347.8944062286681,
+        "opposite_net_m": 158.5621724628572,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "R52-54",
+        "net_m": -116.52534482378695,
+        "opposite_net_m": 46.40694447354711,
+        "opposite_outward": true,
+        "both_inward": false
+      },
+      {
+        "id": "R55-57",
+        "net_m": -183.5046727012782,
+        "opposite_net_m": 34.03434298043203,
+        "opposite_outward": true,
+        "both_inward": false
+      }
+    ],
+    "land_gained_opposite_outward": 9,
+    "land_gained_both_inward": 0,
+    "median_width_by_year": {
+      "1989": 338.7506201271223,
+      "1990": 339.30352603379004,
+      "1991": 335.01901437501414,
+      "1992": 346.9748858476915,
+      "1993": 347.930915206063,
+      "1994": 350.7924102169071,
+      "1995": 314.4909269093444,
+      "1996": 341.9919843996606,
+      "1998": 344.8239794128163,
+      "1999": 340.0660611593686,
+      "2000": 312.2773972629297,
+      "2001": 331.62191203415,
+      "2002": 300.68798071415347,
+      "2003": 302.24337970189373,
+      "2004": 309.73213202162214,
+      "2005": 296.2755679454734,
+      "2006": 286.59101095040444,
+      "2007": 268.4807484418153,
+      "2008": 272.9575041056265,
+      "2009": 270.6156377456606,
+      "2010": 254.49973764918573,
+      "2011": 256.5919791074476,
+      "2012": 263.69914127426307,
+      "2013": 240.8923261059976,
+      "2014": 237.88190890425227,
+      "2015": 215.24066064248228,
+      "2016": 216.6270905060896,
+      "2017": 205.2188800105661,
+      "2018": 202.8768666639214,
+      "2019": 200.6711033861763,
+      "2020": 202.63096806100657,
+      "2021": 198.9876720572937,
+      "2022": 206.17350065391685,
+      "2023": 206.0073478958009,
+      "2024": 197.72150891600455,
+      "2025": 197.72150891600455,
+      "2026": 197.72150891600455
+    },
+    "period_rank": {
+      "n": 39,
+      "spearman": 0.1462602258304132,
+      "p": 0.3742888541801105
+    },
+    "thresholds_m": {
+      "strong_lower": 150,
+      "moderate_lower": 30,
+      "land_gained_upper": -30
+    }
+  },
+  "bounds": [
+    90.16394257543922,
+    23.130565172342898,
+    90.27306612742701,
+    23.265176626961278
+  ],
+  "jumps": [
+    {
+      "id": "middle",
+      "center": [
+        23.187382055767927,
+        90.22210570543213
+      ]
+    },
+    {
+      "id": "north",
+      "center": [
+        23.23308745710336,
+        90.20162103390406
+      ]
+    },
+    {
+      "id": "south",
+      "center": [
+        23.17005950141712,
+        90.24367046136099
+      ]
+    }
+  ],
+  "basemap": {
+    "satellite_url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+    "satellite_attribution": "Tiles \u00a9 Esri \u2014 Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
+    "street_url": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "street_attribution": "\u00a9 OpenStreetMap contributors",
+    "fallback_overlay": "basemap/sentinel2_overlay.png",
+    "fallback_meta": "basemap/basemap.json",
+    "fallback_message": "Satellite photo needs internet. Measured layers still work."
+  },
+  "map": {
+    "max_native_zoom": 18,
+    "max_zoom": 19,
+    "zoom_snap": 0.25,
+    "fallback_tile_error_limit": 3
+  },
+  "years_available": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "observed_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "features_with_geometry": 49,
+  "undefined_intervals": 4,
+  "sample": {
+    "id": "L-4-6",
+    "side": "L",
+    "transect_ids": [
+      4,
+      5,
+      6
+    ],
+    "years": [
+      1989,
+      2026
+    ],
+    "observations": [
+      {
+        "year": 1998,
+        "transect_id": 4,
+        "outward_m": 45.16731114487361
+      },
+      {
+        "year": 1999,
+        "transect_id": 4,
+        "outward_m": 75.27885190812518
+      },
+      {
+        "year": 2000,
+        "transect_id": 4,
+        "outward_m": 75.27885190812518
+      },
+      {
+        "year": 2001,
+        "transect_id": 4,
+        "outward_m": 75.27885190812518
+      },
+      {
+        "year": 2002,
+        "transect_id": 4,
+        "outward_m": 75.27885190812518
+      },
+      {
+        "year": 2002,
+        "transect_id": 5,
+        "outward_m": 15.17418763776851
+      },
+      {
+        "year": 2003,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2003,
+        "transect_id": 5,
+        "outward_m": 45.52256291330114
+      },
+      {
+        "year": 2004,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2004,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2005,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2005,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2005,
+        "transect_id": 6,
+        "outward_m": 15.339580015073484
+      },
+      {
+        "year": 2006,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2006,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2006,
+        "transect_id": 6,
+        "outward_m": 15.339580015073484
+      },
+      {
+        "year": 2007,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2007,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2007,
+        "transect_id": 6,
+        "outward_m": 46.01874004521436
+      },
+      {
+        "year": 2008,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2008,
+        "transect_id": 5,
+        "outward_m": 136.5676887399078
+      },
+      {
+        "year": 2008,
+        "transect_id": 6,
+        "outward_m": 76.69790007535524
+      },
+      {
+        "year": 2009,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2009,
+        "transect_id": 5,
+        "outward_m": 113.3934394736238
+      },
+      {
+        "year": 2009,
+        "transect_id": 6,
+        "outward_m": 76.69790007535524
+      },
+      {
+        "year": 2010,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2010,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2010,
+        "transect_id": 6,
+        "outward_m": 76.69790007535524
+      },
+      {
+        "year": 2011,
+        "transect_id": 5,
+        "outward_m": 113.3934394736238
+      },
+      {
+        "year": 2011,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2012,
+        "transect_id": 4,
+        "outward_m": 135.50193343462334
+      },
+      {
+        "year": 2012,
+        "transect_id": 5,
+        "outward_m": 113.3934394736238
+      },
+      {
+        "year": 2012,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2013,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2013,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2013,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2014,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2014,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2014,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2015,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2015,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2015,
+        "transect_id": 6,
+        "outward_m": 76.69790007535524
+      },
+      {
+        "year": 2016,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2016,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2016,
+        "transect_id": 6,
+        "outward_m": 76.69790007535524
+      },
+      {
+        "year": 2017,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2017,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2017,
+        "transect_id": 6,
+        "outward_m": 76.69790007535524
+      },
+      {
+        "year": 2018,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2018,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2018,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2019,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2019,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2019,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2020,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2020,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2020,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2021,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2021,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2021,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2022,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2022,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2022,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2023,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2023,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2023,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2024,
+        "transect_id": 4,
+        "outward_m": 105.39039267137426
+      },
+      {
+        "year": 2024,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2024,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2025,
+        "transect_id": 4,
+        "outward_m": 75.27885190812518
+      },
+      {
+        "year": 2025,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2025,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      },
+      {
+        "year": 2026,
+        "transect_id": 4,
+        "outward_m": 75.27885190812518
+      },
+      {
+        "year": 2026,
+        "transect_id": 5,
+        "outward_m": 106.2193134643708
+      },
+      {
+        "year": 2026,
+        "transect_id": 6,
+        "outward_m": 107.3770601054961
+      }
+    ],
+    "net_m": 0.0,
+    "lower_m": 0.0,
+    "upper_m": 45.217521,
+    "tier": "no_clear"
+  }
+}

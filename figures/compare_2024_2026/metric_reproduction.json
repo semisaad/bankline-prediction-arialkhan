@@ -1,0 +1,136 @@
+{
+  "pass": true,
+  "tolerance_m": 0.01,
+  "checks": [
+    {
+      "check": "n_good_pairs",
+      "expected": 398.0,
+      "computed": 398.0,
+      "abs_diff": 0.0,
+      "tolerance": 0.0,
+      "pass": true
+    },
+    {
+      "check": "n_pairs",
+      "expected": 450.0,
+      "computed": 450.0,
+      "abs_diff": 0.0,
+      "tolerance": 0.0,
+      "pass": true
+    },
+    {
+      "check": "overall_random_forest_mae_m",
+      "expected": 9.148572143199129,
+      "computed": 9.148572143199129,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "overall_zero_mae_m",
+      "expected": 5.8176936623045306,
+      "computed": 5.8176936623045306,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "random_forest_mae_2024",
+      "expected": 6.606315916911563,
+      "computed": 6.606315916911564,
+      "abs_diff": 8.881784197001252e-16,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "zero_mae_2024",
+      "expected": 3.8789566461495957,
+      "computed": 3.8789566461495957,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "random_forest_within_15_2024",
+      "expected": 0.8731343283582089,
+      "computed": 0.8731343283582089,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "zero_within_15_2024",
+      "expected": 0.8805970149253731,
+      "computed": 0.8805970149253731,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "random_forest_mae_2025",
+      "expected": 10.74553809885555,
+      "computed": 10.74553809885555,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "zero_mae_2025",
+      "expected": 7.294484952085983,
+      "computed": 7.294484952085983,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "random_forest_within_15_2025",
+      "expected": 0.7686567164179104,
+      "computed": 0.7686567164179104,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "zero_within_15_2025",
+      "expected": 0.8134328358208955,
+      "computed": 0.8134328358208955,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "random_forest_mae_2026",
+      "expected": 10.122948268311232,
+      "computed": 10.122948268311232,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "zero_mae_2026",
+      "expected": 6.293853103335657,
+      "computed": 6.293853103335657,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "random_forest_within_15_2026",
+      "expected": 0.7692307692307693,
+      "computed": 0.7692307692307693,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    },
+    {
+      "check": "zero_within_15_2026",
+      "expected": 0.823076923076923,
+      "computed": 0.823076923076923,
+      "abs_diff": 0.0,
+      "tolerance": 0.01,
+      "pass": true
+    }
+  ],
+  "metrics_file_sha256": "efb7ca2056c6e21b0adfef3dcfc5a0dcb2ad3b964d6be291dfd7620e90004ba7",
+  "predictions_file_sha256": "3694051cccc08f98fd2f6421d7cff86412e58bbd17c7d5d49bd9b86dc2207aa4"
+}

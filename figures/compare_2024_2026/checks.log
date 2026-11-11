@@ -1,0 +1,27 @@
+[PASS] inputs_present: 28 required inputs present; manifest written before drawing
+[PASS] frozen_inputs: 9 frozen/source hashes match frozen manifest
+[PASS] mask_grid: EPSG:32646, 30 m, shape [478, 355], no rotation
+[PASS] metric_reproduction: 16 metric checks within 0.01 m; n_good=398
+[PASS] overview_text: 3 overview text boxes use metrics.json MAEs/n; closer/farther/ties from predictions.csv
+[PASS] changed_places: 3 years x 6 unique sections selected by maximum absolute observed displacement
+[PASS] closer_groups: 398 valid pairs partitioned into closer/farther/tie groups
+[NOTE] connector_visibility: all 398 valid connectors drawn; true-scale overview 3.39 m/px; subpixel true/5x: 182/58
+[PASS] figure_text_audit: 3 overview boxes and 18 changed-place tiles audited
+[PASS] boundary_display: displayed mask boundary max 0.00 m; observed points max 2.04e-09 m; source chord max 88.97 m is not drawn
+[PASS] image_dimensions: 36 PNGs; minimum long side 2400 px; error-profile minimum width 2400 px
+[PASS] frozen_unchanged: 21 frozen/model/metrics files unchanged
+[PASS] api_health: HTTP 200; status=ok; frozen=True
+[NOTE] spatial_holdout: 0/5 blocks model beats zero; post hoc, low power, no bootstrap
+[NOTE] source_chord_note: supplied observed bankline chords reach 88.97 m from boundary; display uses unsimplified mask boundary
+[EXPECTED-FAIL] input_missing: FileNotFoundError: /media/saad/HDD/rivererosionaccretion/figures/compare_2024_2026/__definitely_missing__.tif
+[EXPECTED-FAIL] frozen_hash: RuntimeError: Frozen input hash mismatch: d2c14782a764f64b3f905e923c27d1a80a3d2177b3d7bd94e8467b8c91a0f224 != 0000000000000000000000000000000000000000000000000000000000000000
+[EXPECTED-FAIL] metric_plus_0.02: RuntimeError: Metric reproduction failed: 9.168572143199128 vs 9.148572143199129
+[EXPECTED-FAIL] good_n_397: RuntimeError: n_good_pairs mismatch: 397 != 398
+[EXPECTED-FAIL] boundary_shift_31m: RuntimeError: Boundary check failed: 31.000 m > 30.0 m
+[EXPECTED-FAIL] crs_4326: RuntimeError: CRS mismatch: EPSG:4326
+[EXPECTED-FAIL] image_100x100: RuntimeError: Image dimensions fail: 100x100
+[EXPECTED-FAIL] holdout_leak: RuntimeError: Held-out transects in training rows: [1]
+[EXPECTED-FAIL] overview_mae_plus_0.02: RuntimeError: Overview metric mismatch: 6.626315916911563 vs 6.606315916911563
+[EXPECTED-FAIL] changed_places_duplicate: RuntimeError: Changed places selection has duplicate sections
+[EXPECTED-FAIL] closer_group_mismatch: RuntimeError: Closer group counts do not sum to n_valid
+[EXPECTED-FAIL] connector_count_397: RuntimeError: Connector count mismatch: 397 != 398

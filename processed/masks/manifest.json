@@ -1,0 +1,882 @@
+{
+  "created_utc": "2026-10-20T16:39:44.021283+00:00",
+  "canonical_grid": {
+    "crs": "EPSG:32646",
+    "resolution_m": 30.0,
+    "transform": [
+      30.0,
+      0.0,
+      209970.0,
+      0.0,
+      -30.0,
+      2575320.0
+    ],
+    "width": 355,
+    "height": 478,
+    "resampling": "nearest"
+  },
+  "mask_encoding": {
+    "water_band": 1,
+    "valid_band": 2,
+    "water_value": 255,
+    "valid_value": 255,
+    "nodata_value": 255,
+    "water_class": 255,
+    "land_class": 0,
+    "valid_class": 255,
+    "invalid_class": 0,
+    "polarity_evidence": "GeoTIFF band descriptions are water and valid; the 255 class describes 4-10 percent of the valid footprint in the elongated river network, while 0 is the surrounding land. Verified against the dry-season MNDWI export metadata on 2026-10-20."
+  },
+  "files": [
+    {
+      "year": 1989,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1989.tif",
+      "input_sha256": "ab670508a011799ef833304d07e23306ce37008813cac8094873e20ab50704ea",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1989.tif",
+      "output_sha256": "8f3c76090726ac6d24949036f582b8c26091fc9ca4cadfe0d6b36bf1fb8321f3",
+      "water_pixels": 17223,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.10588018319859835,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1990,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1990.tif",
+      "input_sha256": "4bb6105b10ee7c4febc69e43723cc1a55e6b93a824041ad8f9af9528c9a608b4",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1990.tif",
+      "output_sha256": "b85a1a5e4d3863027506aaf2aa20bcad41cff27beb89820c66eb47dcd6bca5c4",
+      "water_pixels": 16072,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.098804291027572,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1991,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1991.tif",
+      "input_sha256": "35d19bc12ec62285a3ac2ef43a6e85f63d1ef73879f0637df40fcf00138e1b7f",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1991.tif",
+      "output_sha256": "4a836ef973bdf5338e78d28ae99bc2895a9d8ebe9f0c211239bfee8773eba622",
+      "water_pixels": 12735,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.07828973657516983,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1992,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1992.tif",
+      "input_sha256": "7f3b6ee52add7f971576b3e9a1a1e1eb05fbde89314cd90c2389424a7b612945",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1992.tif",
+      "output_sha256": "489875fc1a93c957edaece6c043ce2454f8b52309c247776b289439682bd88e2",
+      "water_pixels": 16225,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.09974487443518888,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1993,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1993.tif",
+      "input_sha256": "c7ca43e95d3c87d56f348e52b0809ff7c3bc0f790b0af1339c6249fcc96173f7",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1993.tif",
+      "output_sha256": "90973d7a1d3d344e159f84be2a47fe700c5208b7f1da7d75aa93eff8fa1c5721",
+      "water_pixels": 13334,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.08197215135400977,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1994,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1994.tif",
+      "input_sha256": "f3f35c3f6e644a8232deca9112a8a2f834ee98d62e8988ee8feac0be86b61368",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1994.tif",
+      "output_sha256": "a4d556ec85ada8aa1c41042b16e015a321c671a108b3b5df8e865ce378feb799",
+      "water_pixels": 11058,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.06798020471521225,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1995,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1995.tif",
+      "input_sha256": "ede4a674339570007abc332237278fab54cdb08266bfb1aa2d535d13d7ce7eb9",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1995.tif",
+      "output_sha256": "d9247375b901b17df031e62159041fc34a647f9d11344235a9c386f010995ef8",
+      "water_pixels": 9613,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.05909691697660837,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1996,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1996.tif",
+      "input_sha256": "db80e2c45cf5c212ff93c1597376a1aee40c8fc67a75e3c340bcd764ba1cebff",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1996.tif",
+      "output_sha256": "810bbb5392f75dea8529c84b33829342ef53ed78781ed7d2b850e8486045adaf",
+      "water_pixels": 14890,
+      "valid_pixels": 162663,
+      "water_fraction_of_valid": 0.09153894862384193,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1998,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1998.tif",
+      "input_sha256": "19dcf3005441116d40369dc1bda33fd0c6a36392feb566dde8162790fcf9ef35",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1998.tif",
+      "output_sha256": "fe9a552f186cdd8b066df89efb47e9f66301154764732ccfaa7f4163e9847ceb",
+      "water_pixels": 11164,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.06863185073617557,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 1999,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_1999.tif",
+      "input_sha256": "5b44951140f582cdb1c1f36a07b33d051966ddacd274d886a541117fa68ac8ff",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_1999.tif",
+      "output_sha256": "e15b2d76180c9f4fd733777fd46ab99a0d030bf99cafda27d55fabd1c9d505ce",
+      "water_pixels": 12283,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.07551101958011865,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2000,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2000.tif",
+      "input_sha256": "6c178009a602c3c6d3ec0b7624e353ff521f97b2d0d1d19a2c68b25d52584704",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2000.tif",
+      "output_sha256": "950019b0e3d21e97860261e21c734bd5be12c75d22c03fb7ff697712fc5c2776",
+      "water_pixels": 17520,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.10770602157808994,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2001,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2001.tif",
+      "input_sha256": "56ddf00119af6203a073b24ffc0b832aad80ffe580e373753016b3882a820047",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2001.tif",
+      "output_sha256": "fefee70bdb1a3894c4964e982aba8276864188e676b0b6d63ab9192fe47bfd24",
+      "water_pixels": 23598,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.1450711585159684,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2002,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2002.tif",
+      "input_sha256": "04d2be19fb70efe657f2cb386c456a89a03d5183c7221d5a3998810b5f8bc355",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2002.tif",
+      "output_sha256": "16a2308c70dbcc6de97b29d1e909841119cf94626db6c50452f7069a5d9799e7",
+      "water_pixels": 14215,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.08738819045277103,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2003,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2003.tif",
+      "input_sha256": "923e59e8c2c1326ed23b8c5f3e4642db86b8a696a5f23a5232dc38a7a504eb4b",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2003.tif",
+      "output_sha256": "d9561da4f5f8efe2a1852e97ab6c1792827fffebafff2bd6553e980734e4678c",
+      "water_pixels": 11938,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.07339009621000216,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2004,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2004.tif",
+      "input_sha256": "0c91ee1403dcd49b10c206b1df7dedf51ae0ef1a3b76d6a4c72260a753c23403",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2004.tif",
+      "output_sha256": "19249886f56b63bf7f754554f708f19279ac060d2e30dc032f06670dc1173da1",
+      "water_pixels": 21448,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.13185380997756124,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2005,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2005.tif",
+      "input_sha256": "96fb037accdf55b3040bf0fe2ecbc34f687a24b71608a7ae57eeaf3a37ad8c5d",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2005.tif",
+      "output_sha256": "e4f0e067c99899bf6de507a09b732d6cad6d152a944b6654e0b2237bc2a80c0f",
+      "water_pixels": 10921,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.067137982971137,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2006,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2006.tif",
+      "input_sha256": "9d77774c082fa6b3b8f8c181ad63b525a00678dab9128785e645951d1f6cf0a9",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2006.tif",
+      "output_sha256": "7fd9c4fe795e364aa91bdfd86b8b429a3eafe519f9d05a89b2435eac7969a6dc",
+      "water_pixels": 13603,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.0836258568223035,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2007,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2007.tif",
+      "input_sha256": "c08fb7f620ef3f35887ac1c0bcdd47d40d8214d4304718ad320c1e8fbed43a45",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2007.tif",
+      "output_sha256": "3e5ae92745ea52a8d2f40f4db1d22d59cd91290d37ff0259531c9e02fcefa613",
+      "water_pixels": 11813,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.07262164571358314,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2008,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2008.tif",
+      "input_sha256": "fea6fbea4ddb9371a7a66dab6f901ad1f24c8725342fa3100e18a813bd8f808a",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2008.tif",
+      "output_sha256": "64846a6a1d400a1fd97e005be1456309c815caa71695a79b1b7bf4dc8b6a4854",
+      "water_pixels": 18643,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.11460978083791842,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2009,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2009.tif",
+      "input_sha256": "92d56f86a53455f69ec35f2b939dcbb777b1216a7dea77cc871c5da8d4594d92",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2009.tif",
+      "output_sha256": "2d1f16f5c802be5dffb8e51f60fcd7bac99a6cd0267b174ba0e6a2425bfd7314",
+      "water_pixels": 11058,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.06798020471521225,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2010,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2010.tif",
+      "input_sha256": "91084e366f2e655dac968eaeea086a1a9577ab1ae684060e5894b2d3b65a8e14",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2010.tif",
+      "output_sha256": "49d42a58ef24e24a643ba4ad04475373787d745708497f01cac69dbd2673371c",
+      "water_pixels": 23408,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.1439031137614115,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2011,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2011.tif",
+      "input_sha256": "00e09011d6208844dfb81f586c9893cb9183657c988f32a72172f47f179cb440",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2011.tif",
+      "output_sha256": "1c5d2d37b1ea7546363ac24eb68f4e811c4898dd51d54955794e65718c5818e7",
+      "water_pixels": 15672,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.09634524943903114,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2012,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2012.tif",
+      "input_sha256": "ab3aab39d0a5c83bfa16e74b7a71849df56c67ce08e673245fe1525eb6bc0847",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2012.tif",
+      "output_sha256": "a0c9dbc77abc20255c11efe89117d0b8f3fec613b8998da93d7840550a5672fb",
+      "water_pixels": 19053,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.1171302984661728,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2013,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2013.tif",
+      "input_sha256": "cc321b55f84de97f7b4e4a7be97fb51084a8b1543953fadcf91f327e6283bdb6",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2013.tif",
+      "output_sha256": "e31af089b16f598bb3987cd441fd71f8c31df23f16d5f852a6e3e00459876371",
+      "water_pixels": 12181,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.07488396397504073,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2014,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2014.tif",
+      "input_sha256": "d2e3c004c3043fc88602129d3e917cbac95df9c4c6930fbeb729bd06fddeefa0",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2014.tif",
+      "output_sha256": "933e7aa4e226de918066b3963ee7634486ee6f5692dc9de65a4d825b2ed47c84",
+      "water_pixels": 10918,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.06711954015922295,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2015,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2015.tif",
+      "input_sha256": "50b7a557b044227d0b9379322581ea262503c03010d796e60918a471d40d5822",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2015.tif",
+      "output_sha256": "c2481d57c151fbf4fe47879c09727072898265d293f37f04fca9d211402f64cf",
+      "water_pixels": 10412,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.06400885254971875,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2016,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2016.tif",
+      "input_sha256": "be43df4cab479b9a37492155f6b4305717b49268fdfd01b3d8dae0a99bec468e",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2016.tif",
+      "output_sha256": "cc94e0711656419d2bde3ffd6b7b3f9bd8d70405e58972d23ea492a3974e420d",
+      "water_pixels": 8754,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.05381612516521685,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2017,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2017.tif",
+      "input_sha256": "2b8c1a68abe061974a2b881e7bc4b09705e7fca8807ecedea6ed3985b0f6c902",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2017.tif",
+      "output_sha256": "d1b66abbfbd6c1a8cc38b77aa1c39f2770a8015b69ff57b50e968464cfe7c4a2",
+      "water_pixels": 8832,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.05429563827498233,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2018,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2018.tif",
+      "input_sha256": "a678b02f88c0dc75c1a51e6733b79227e29f00a5ad18d0ecedbbd59d29e7e7cb",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2018.tif",
+      "output_sha256": "82bf5ab0a1f0da2bb0ab7c04cb5268830274f8513802ade8d62a72f7a3dbea93",
+      "water_pixels": 9158,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.05629975716964313,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2019,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2019.tif",
+      "input_sha256": "4a792245f9d2b0a202526133be4f8fe49998c6beac7e0589313141011993d9f6",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2019.tif",
+      "output_sha256": "bdcdcd06902baccb082ca38691ad266147676260ccc08147cb10386e7f3298a5",
+      "water_pixels": 9119,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.056060000614760394,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2020,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2020.tif",
+      "input_sha256": "263836cfbf7e3d33f477f328f0a5fa04b561b5e7f6aac05e3abf5210a789fe9a",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2020.tif",
+      "output_sha256": "006805e6a0c43581c36071672744ef0a893cb31cbd01e6ce1df4932822d9d5c2",
+      "water_pixels": 10513,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.06462976055082531,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2021,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2021.tif",
+      "input_sha256": "426c30949fec0526c5a4896b3b678a13c43227802b02948376592893b41b255e",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2021.tif",
+      "output_sha256": "8e5ade35e3217a86c1c2bfa3993ace2c38b3f095f7f9bcfddb8908b1e73ab1a7",
+      "water_pixels": 8590,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.0528079181139151,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2022,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2022.tif",
+      "input_sha256": "e3154f7a6cde3a700a8d7dda1b1712ddf6c3fd6d9461b823e69727a85d46798e",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2022.tif",
+      "output_sha256": "0b9f33e2f239ce0d3393c0568c931721b2c102f1b4f3587789ca6293652a07f2",
+      "water_pixels": 9493,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.05835920450004611,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    },
+    {
+      "year": 2023,
+      "input": "/media/saad/HDD/rivererosionaccretion/landsat/MNDWI_Mask_2023.tif",
+      "input_sha256": "9270acfb75d114507e11bb62c8ef5f6e80dc34846ef438fe20131e0f5ed90f90",
+      "output": "/media/saad/HDD/rivererosionaccretion/processed/masks/water_2023.tif",
+      "output_sha256": "edbb3add42010ab333a8e0bab8fb627f54ae719b93afcc134c25985b11e5ec33",
+      "water_pixels": 7443,
+      "valid_pixels": 162665,
+      "water_fraction_of_valid": 0.04575661635877417,
+      "aligned_without_reprojection": true,
+      "input_descriptions": [
+        "water",
+        "valid"
+      ],
+      "input_values": {
+        "water": [
+          0,
+          255
+        ],
+        "valid": [
+          0,
+          255
+        ]
+      }
+    }
+  ]
+}

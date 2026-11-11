@@ -1,0 +1,89 @@
+{
+  "frozen": true,
+  "frozen_utc": "2026-10-21T06:11:23.104436+00:00",
+  "origin_year": 2024,
+  "forecast_years": [
+    2025,
+    2026
+  ],
+  "training_cutoff_year": 2024,
+  "selected_model": "zero",
+  "selected_label": "Zero change",
+  "forecast_supported": false,
+  "second_look": true,
+  "test_years_seen_before_experiment": [
+    2025,
+    2026
+  ],
+  "features": [
+    "last_rate_m_per_yr",
+    "last2_mean_rate_m_per_yr",
+    "last3_mean_rate_m_per_yr",
+    "acceleration_m_per_yr2",
+    "last_displacement_m",
+    "last_interval_years",
+    "last_interval_good",
+    "width_m",
+    "width_change_last_m",
+    "abs_curvature_1_m",
+    "sinuosity",
+    "is_left_bank",
+    "horizon_years",
+    "elapsed_years",
+    "last_rate_missing",
+    "last2_missing",
+    "last3_missing",
+    "width_missing",
+    "curvature_missing",
+    "sinuosity_missing"
+  ],
+  "files": [
+    {
+      "name": "forecast_features_2024.csv",
+      "sha256": "31734b1e21c7a0c604ec3e4112b36d168ea486f0396c42efa38f711111e67da9",
+      "size": 86422
+    },
+    {
+      "name": "model.joblib",
+      "sha256": "ef8b2d0ec2cc9a586733223dae1cedaf57492fb5146dc1f6e8d6b2bee46ee9a6",
+      "size": 475
+    },
+    {
+      "name": "model_metadata.json",
+      "sha256": "b674db63bdc07b699d2df064b6ef645a5ea77c44936e0fe64a5fb8a15cd212b5",
+      "size": 59275
+    },
+    {
+      "name": "predictions_2025.csv",
+      "sha256": "b8a5ad4e303e413e635f45272d3bbb373719ab31519ea71b03e0353aea4cbeda",
+      "size": 24116
+    },
+    {
+      "name": "predictions_2026.csv",
+      "sha256": "cc754cee3249a7ee1563787fe442bcf080752f7c1c3c3f758b9e04ee4595476f",
+      "size": 24116
+    },
+    {
+      "name": "summary.json",
+      "sha256": "13182a301751dbd66079e29e38dd4b02c6f904f9c003c705b4ed30418b15c8aa",
+      "size": 2442
+    },
+    {
+      "name": "tuning_candidates.jsonl",
+      "sha256": "a2781e244982655c579893a77a7df46594fef79cad67826d35736b7dadff5c0c",
+      "size": 360701
+    }
+  ],
+  "inputs": {
+    "prereg_sha256": "6fb1ed8c204504c6c0882c7a5b9248a75c79b12b6a5091a94e32a9ab23509c54",
+    "dataset_sha256": "9c86cd397ce4fbefdcfa915f75ad794e68fb54b776c5898e458e052e90889a63",
+    "forecast_features_sha256": "31734b1e21c7a0c604ec3e4112b36d168ea486f0396c42efa38f711111e67da9",
+    "v1_forecast_ready": "d113c99da9fed2270dd2dd4892c6812d5aa5b907f0f4b5e4ff42274886f72f98",
+    "v1_metrics_sha256": "efb7ca2056c6e21b0adfef3dcfc5a0dcb2ad3b964d6be291dfd7620e90004ba7",
+    "v1_model_sha256": "84714efae3ee38a6d89277799fad5f87c5bb31e6e884d8124462dafb97eceaad",
+    "code": {
+      "origin2024.py": "fa38af8edf0a7f8c9efa8612f7aa58bcf2b4c952e9d96d60f1568974b24fec21"
+    }
+  },
+  "note": "Second look: 2024 is a training year and 2025-2026 were already seen in the v1 test. Predictions are conditional on the observed 2024 banks and fixed transects. forecast_supported remains false."
+}

@@ -1,0 +1,34 @@
+{
+  "max_target_year": 2023,
+  "max_target_year_at_most_2023": true,
+  "min_origin_year": 1989,
+  "max_origin_year": 2022,
+  "all_targets_after_origin": true,
+  "all_feature_cutoffs_at_origin": true,
+  "no_test_years_in_training": true,
+  "no_forecast_years_in_training": true,
+  "duplicate_sample_ids": 0,
+  "duplicate_transect_side_origin_horizon": 0,
+  "segment_id_in_features": false,
+  "transect_id_in_features": false,
+  "coordinate_in_features": false,
+  "target_columns_in_features": false,
+  "forecast_rows_have_no_labels": true,
+  "forecast_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "forecast_origin_year": [
+    2023
+  ],
+  "forecast_feature_cutoffs": [
+    2023
+  ],
+  "forecast_contains_test_years_only": true,
+  "next_observation_year_not_used_before_origin": true,
+  "feature_dictionary_has_availability": true,
+  "all_horizons_positive": true,
+  "no_rows_from_2024_plus": true,
+  "all_checks_pass": true
+}

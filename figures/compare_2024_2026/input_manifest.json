@@ -1,0 +1,182 @@
+{
+  "created_utc": "2026-10-23T05:39:34.182926+00:00",
+  "study_bounds_wgs84": {
+    "west": 90.16809,
+    "south": 23.13432,
+    "east": 90.26902,
+    "north": 23.26149
+  },
+  "study_bounds_epsg32646": {
+    "left": 209987.3025650977,
+    "bottom": 2561009.1052658334,
+    "right": 220593.71368081204,
+    "top": 2575296.4901779527
+  },
+  "crs": "EPSG:32646",
+  "files": {
+    "frozen_manifest": {
+      "path": "forecasts/frozen/manifest.json",
+      "sha256": "d113c99da9fed2270dd2dd4892c6812d5aa5b907f0f4b5e4ff42274886f72f98",
+      "bytes": 4245
+    },
+    "frozen_ready": {
+      "path": "forecasts/frozen/READY",
+      "sha256": "1e3cd8351cd952282864e268d1ea0582b988ef728a3bb3cdc829976201a11954",
+      "bytes": 65
+    },
+    "metrics": {
+      "path": "evaluation/metrics.json",
+      "sha256": "efb7ca2056c6e21b0adfef3dcfc5a0dcb2ad3b964d6be291dfd7620e90004ba7",
+      "bytes": 37661
+    },
+    "predictions": {
+      "path": "evaluation/predictions.csv",
+      "sha256": "3694051cccc08f98fd2f6421d7cff86412e58bbd17c7d5d49bd9b86dc2207aa4",
+      "bytes": 221639
+    },
+    "bank_migration_dataset": {
+      "path": "datasets/bank_migration_dataset.csv",
+      "sha256": "ab2ce7a529a0d237ad34bf01523051a638e059dc58408565c0d8eef83380f060",
+      "bytes": 4874703
+    },
+    "forecast_features_2023": {
+      "path": "datasets/forecast_features_2023.csv",
+      "sha256": "ffa6e5e3de2779f20a68359e83661143809dc4a91a20ebce9e91ffb6ab5ee568",
+      "bytes": 129298
+    },
+    "transects_geojson": {
+      "path": "derived/transects.geojson",
+      "sha256": "47ea4b9640c6f6b4a717f0a1cb9799e7fce7048ebdcaff371199f811631b9fb1",
+      "bytes": 31869
+    },
+    "transects_csv": {
+      "path": "derived/transects.csv",
+      "sha256": "2d798b1fb75aa890b741857a0f207fd2679fb1502e6d8ef082ba642ef9c45c2b",
+      "bytes": 16481
+    },
+    "water_mask_2023": {
+      "path": "processed/river/river_2023.tif",
+      "sha256": "e5730fd8c6bcb1b4821c5b709bf07f9847d92b55434963072e66d6c44b077bdd",
+      "bytes": 5419
+    },
+    "observed_banklines_2023": {
+      "path": "forecasts/frozen/observed_banklines_2023.geojson",
+      "sha256": "0716004b53afa68fc753707ecf5f2bb9c9a10c8921d731dbda56b1085e6da5ee",
+      "bytes": 21039
+    },
+    "forecast_banklines_2024": {
+      "path": "forecasts/frozen/banklines_2024.geojson",
+      "sha256": "d2c14782a764f64b3f905e923c27d1a80a3d2177b3d7bd94e8467b8c91a0f224",
+      "bytes": 21063
+    },
+    "forecast_bank_points_2024": {
+      "path": "forecasts/frozen/bank_points_2024.geojson",
+      "sha256": "8691c0ca60f5ce09565666b819c539704dae12a41230501031efc9190bd609b4",
+      "bytes": 55567
+    },
+    "observed_banklines_2024": {
+      "path": "evaluation/observed_banklines_2024.geojson",
+      "sha256": "668b7510dfe1084b119bd9d869de61a70f9db1ded0b8435e74b9426f23e62bf0",
+      "bytes": 10243
+    },
+    "observed_bank_points_2024": {
+      "path": "evaluation/observed_bank_points_2024.geojson",
+      "sha256": "b68cb083157bc916e7931629783788af49060d0988bf614d292d9ad7888806c4",
+      "bytes": 40768
+    },
+    "observed_bank_positions_2024": {
+      "path": "evaluation/observed_bank_positions_2024.csv",
+      "sha256": "1c36fa950f643b5b8decdde1a736560ada200876e6592587a3f60b05777af4d6",
+      "bytes": 36165
+    },
+    "water_mask_2024": {
+      "path": "evaluation/masks/river_2024.tif",
+      "sha256": "5244ddb8133aaadfbc05fdfb0405fd9e0dfac6585a9c664613f96d7afab542f9",
+      "bytes": 5418
+    },
+    "forecast_banklines_2025": {
+      "path": "forecasts/frozen/banklines_2025.geojson",
+      "sha256": "b532aa51a7c84b42baf860b8dc55a925e2ba3db0de0546be06351dc08d9904ff",
+      "bytes": 21086
+    },
+    "forecast_bank_points_2025": {
+      "path": "forecasts/frozen/bank_points_2025.geojson",
+      "sha256": "e72d3641c7b2ed612c5a7796490f1aaef3363effc73bf72601d3c23c05201d3d",
+      "bytes": 55577
+    },
+    "observed_banklines_2025": {
+      "path": "evaluation/observed_banklines_2025.geojson",
+      "sha256": "3279283a732bba47af620eb1c2fdc630a06aad3aba7ea64a1fbb85da67b243f5",
+      "bytes": 10251
+    },
+    "observed_bank_points_2025": {
+      "path": "evaluation/observed_bank_points_2025.geojson",
+      "sha256": "4dda613a164d43a261d1a85bd33d2ac6e865493db9a462797fb8202057eb1c4a",
+      "bytes": 40776
+    },
+    "observed_bank_positions_2025": {
+      "path": "evaluation/observed_bank_positions_2025.csv",
+      "sha256": "b50477a772bab1c671a4c695bae0c726cfb5d9ec1d2387caee7653d5234d9d67",
+      "bytes": 36151
+    },
+    "water_mask_2025": {
+      "path": "evaluation/masks/river_2025.tif",
+      "sha256": "7a3aa5de2b21b1a38d8f790a3d6da24c4a61fcbdfe1a44b13910c8241a49bf22",
+      "bytes": 5418
+    },
+    "forecast_banklines_2026": {
+      "path": "forecasts/frozen/banklines_2026.geojson",
+      "sha256": "d9516788c7d4cabc0f6c290ab1ae3f5a47bd718709473d49f49c2fa21b61b9ed",
+      "bytes": 21047
+    },
+    "forecast_bank_points_2026": {
+      "path": "forecasts/frozen/bank_points_2026.geojson",
+      "sha256": "dc6544b8f3ef99741d54cd7076fa98028ea7e7a00ad0e49f5a85349d39f99178",
+      "bytes": 55534
+    },
+    "observed_banklines_2026": {
+      "path": "evaluation/observed_banklines_2026.geojson",
+      "sha256": "4f2bf664d445a8bda3f584c527ab1fe2b1ab43c4feb12c064335dcf1931f3609",
+      "bytes": 10236
+    },
+    "observed_bank_points_2026": {
+      "path": "evaluation/observed_bank_points_2026.geojson",
+      "sha256": "462f61d8268c5d6751f4755008b11f31061656084904b6fd93f1426329a972a1",
+      "bytes": 40761
+    },
+    "observed_bank_positions_2026": {
+      "path": "evaluation/observed_bank_positions_2026.csv",
+      "sha256": "c0771f0ff53330a8532eca0770c2e086a77d288a2135c5bf22a29a7d9ad9b626",
+      "bytes": 36230
+    },
+    "water_mask_2026": {
+      "path": "evaluation/masks/river_2026.tif",
+      "sha256": "2f3efca5e38365e3e82efc60d8cf12f8235cf8fe068f6bb9a44d2576d2cc0f3b",
+      "bytes": 5429
+    },
+    "raw_water_mask_2023": {
+      "path": "landsat/MNDWI_Mask_2023.tif",
+      "sha256": "9270acfb75d114507e11bb62c8ef5f6e80dc34846ef438fe20131e0f5ed90f90",
+      "bytes": 10623,
+      "used": false
+    },
+    "raw_water_mask_2024": {
+      "path": "landsat/MNDWI_Mask_2024.tif",
+      "sha256": "5b18dacc3c9c4e81198f820aae895c574f27754dfd665d841127aac332da3a55",
+      "bytes": 10666,
+      "used": false
+    },
+    "raw_water_mask_2025": {
+      "path": "landsat/MNDWI_Mask_2025.tif",
+      "sha256": "651b8cfa704da726aab5c04463a8539b96c824e332c4334ab3213fd544bcc0df",
+      "bytes": 10450,
+      "used": false
+    },
+    "raw_water_mask_2026": {
+      "path": "landsat/MNDWI_Mask_2026.tif",
+      "sha256": "5199b4613e9f8e2f7ec22e305dcea78099f03d6ddc12c7b25476aea477e8549b",
+      "bytes": 11580,
+      "used": false
+    }
+  }
+}

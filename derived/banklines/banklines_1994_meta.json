@@ -1,0 +1,14 @@
+{
+  "year": 1994,
+  "polygon": {
+    "polygon_valid_raw": false,
+    "polygon_empty": false,
+    "repair_applied": true,
+    "repair_reason": "polygon was invalid; buffer(0) applied and recorded",
+    "area_m2_raw": 6960600.0,
+    "area_m2_repaired": 6960600.0
+  },
+  "boundary_lines": 11,
+  "boundary_length_m": 73800.0,
+  "area_m2": 6960600.0
+}

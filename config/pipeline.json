@@ -1,0 +1,152 @@
+{
+  "project": "rivererosionaccretion",
+  "version": "1.0.0",
+  "source_dir": "landsat",
+  "test_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "training_cutoff_year": 2023,
+  "training_cutoff_date": "2023-03-25",
+  "nominal_observation_end": "03-25",
+  "observation_window": "January 1 to March 25 (dry-season composite); exact acquisition dates are not stored in the GeoTIFFs",
+  "canonical_grid": {
+    "crs": "EPSG:32646",
+    "resolution_m": 30.0,
+    "transform": [
+      30.0,
+      0.0,
+      209970.0,
+      0.0,
+      -30.0,
+      2575320.0
+    ],
+    "width": 355,
+    "height": 478,
+    "resampling": "nearest"
+  },
+  "mask_encoding": {
+    "water_band": 1,
+    "valid_band": 2,
+    "water_value": 255,
+    "valid_value": 255,
+    "nodata_value": 255,
+    "water_class": 255,
+    "land_class": 0,
+    "valid_class": 255,
+    "invalid_class": 0,
+    "polarity_evidence": "GeoTIFF band descriptions are water and valid; the 255 class describes 4-10 percent of the valid footprint in the elongated river network, while 0 is the surrounding land. Verified against the dry-season MNDWI export metadata on 2026-10-20."
+  },
+  "river_extraction": {
+    "connectivity": 8,
+    "occurrence_min_fraction": 0.2,
+    "core_min_component_px": 1000,
+    "anchor_min_overlap_px": 20,
+    "component_overlap_min_px": 20,
+    "component_overlap_fraction_min": 0.1,
+    "near_gap_px": 2,
+    "near_min_area_px": 20,
+    "near_min_elongation": 2.5,
+    "area_jump_flag_fraction": 0.3,
+    "min_selected_fraction_of_median": 0.45,
+    "max_selected_fraction_of_median": 1.6,
+    "largest_component_fallback": true
+  },
+  "transects": {
+    "reference_year": 2023,
+    "spacing_px": 12,
+    "half_length_m": 400.0,
+    "min_width_m": 60.0,
+    "border_transects": 2,
+    "max_crossings_warn": 2
+  },
+  "labels": {
+    "positive_sign": "erosion (bank moves outward, away from channel, into land)",
+    "negative_sign": "accretion (bank moves inward, toward channel)",
+    "low_movement_tolerance_m": 15.0,
+    "max_plausible_abs_displacement_m": 150.0,
+    "change_min_patch_px": 2,
+    "max_interval_years": 5
+  },
+  "dataset": {
+    "horizons": [
+      1,
+      2,
+      3
+    ],
+    "final_origin_year": 2023,
+    "validation_origins": [
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016,
+      2017,
+      2018,
+      2019,
+      2020
+    ],
+    "reach_count": 3,
+    "random_seed": 42
+  },
+  "modeling": {
+    "candidates": [
+      "zero",
+      "median",
+      "persistence",
+      "trend",
+      "ridge",
+      "random_forest",
+      "hist_gradient_boosting"
+    ],
+    "ridge_alphas": [
+      1.0,
+      10.0,
+      100.0
+    ],
+    "rf_n_estimators": [
+      300
+    ],
+    "rf_max_depth": [
+      4,
+      8,
+      null
+    ],
+    "rf_min_samples_leaf": [
+      5,
+      10
+    ],
+    "hgb_max_iter": [
+      200
+    ],
+    "hgb_max_depth": [
+      2,
+      3
+    ],
+    "hgb_learning_rate": [
+      0.05,
+      0.1
+    ]
+  },
+  "api": {
+    "default_year": 2024,
+    "allowed_years": [
+      2024,
+      2025,
+      2026
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "year": 2022,
+  "polygon": {
+    "polygon_valid_raw": false,
+    "polygon_empty": false,
+    "repair_applied": true,
+    "repair_reason": "polygon was invalid; buffer(0) applied and recorded",
+    "area_m2_raw": 5656500.0,
+    "area_m2_repaired": 5656500.0
+  },
+  "boundary_lines": 9,
+  "boundary_length_m": 77880.0,
+  "area_m2": 5656500.0
+}

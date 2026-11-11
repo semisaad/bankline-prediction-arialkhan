@@ -1,0 +1,251 @@
+{
+  "status": "frozen",
+  "created_utc": "2026-10-20T17:25:02.392467+00:00",
+  "origin_year": 2023,
+  "forecast_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "training_cutoff_year": 2023,
+  "model": "random_forest",
+  "model_label": "Random forest",
+  "features": [
+    "last_rate_m_per_yr",
+    "last2_mean_rate_m_per_yr",
+    "last3_mean_rate_m_per_yr",
+    "acceleration_m_per_yr2",
+    "last_displacement_m",
+    "last_interval_years",
+    "last_interval_good",
+    "width_m",
+    "width_change_last_m",
+    "abs_curvature_1_m",
+    "sinuosity",
+    "is_left_bank",
+    "horizon_years",
+    "elapsed_years",
+    "last_rate_missing",
+    "last2_missing",
+    "last3_missing",
+    "width_missing",
+    "curvature_missing",
+    "sinuosity_missing"
+  ],
+  "low_movement_tolerance_m": 15.0,
+  "implausible_threshold_m": 150.0,
+  "n_transects": 75,
+  "n_segments_per_year": 150,
+  "by_year": {
+    "2024": {
+      "year": 2024,
+      "origin_year": 2023,
+      "horizon_years": 1,
+      "n": 150,
+      "counts": {
+        "erosion": 2,
+        "accretion": 2,
+        "low_movement": 146
+      },
+      "quality_counts": {
+        "forecast": 138,
+        "flagged_origin": 12
+      },
+      "mean_m": 1.225,
+      "median_m": 0.817,
+      "min_m": -75.414,
+      "max_m": 34.05,
+      "mean_abs_m": 4.169,
+      "mean_ensemble_std_m": 10.554,
+      "low_movement_tolerance_m": 15.0,
+      "implausible_threshold_m": 150.0,
+      "by_reach": {
+        "middle": {
+          "n": 50,
+          "mean_m": 0.492,
+          "erosion": 0,
+          "accretion": 0,
+          "low_movement": 50
+        },
+        "north": {
+          "n": 50,
+          "mean_m": 2.014,
+          "erosion": 0,
+          "accretion": 0,
+          "low_movement": 50
+        },
+        "south": {
+          "n": 50,
+          "mean_m": 1.168,
+          "erosion": 2,
+          "accretion": 2,
+          "low_movement": 46
+        }
+      },
+      "banklines": {
+        "left": {
+          "n_points": 75,
+          "length_m": 25454.04,
+          "is_simple": true
+        },
+        "right": {
+          "n_points": 75,
+          "length_m": 25104.6,
+          "is_simple": true
+        },
+        "corridor": {
+          "raw_valid": true,
+          "repair_applied": false,
+          "area_m2": 5439059.17
+        }
+      },
+      "files": {
+        "segments_geojson": "segments_2024.geojson",
+        "segments_csv": "segments_2024.csv",
+        "banklines_geojson": "banklines_2024.geojson",
+        "bank_points_geojson": "bank_points_2024.geojson"
+      }
+    },
+    "2025": {
+      "year": 2025,
+      "origin_year": 2023,
+      "horizon_years": 2,
+      "n": 150,
+      "counts": {
+        "erosion": 8,
+        "accretion": 3,
+        "low_movement": 139
+      },
+      "quality_counts": {
+        "forecast": 138,
+        "flagged_origin": 12
+      },
+      "mean_m": 0.753,
+      "median_m": 0.264,
+      "min_m": -38.574,
+      "max_m": 28.888,
+      "mean_abs_m": 5.658,
+      "mean_ensemble_std_m": 13.66,
+      "low_movement_tolerance_m": 15.0,
+      "implausible_threshold_m": 150.0,
+      "by_reach": {
+        "middle": {
+          "n": 50,
+          "mean_m": -0.51,
+          "erosion": 0,
+          "accretion": 0,
+          "low_movement": 50
+        },
+        "north": {
+          "n": 50,
+          "mean_m": 1.819,
+          "erosion": 5,
+          "accretion": 1,
+          "low_movement": 44
+        },
+        "south": {
+          "n": 50,
+          "mean_m": 0.95,
+          "erosion": 3,
+          "accretion": 2,
+          "low_movement": 45
+        }
+      },
+      "banklines": {
+        "left": {
+          "n_points": 75,
+          "length_m": 25466.1,
+          "is_simple": true
+        },
+        "right": {
+          "n_points": 75,
+          "length_m": 25135.66,
+          "is_simple": true
+        },
+        "corridor": {
+          "raw_valid": true,
+          "repair_applied": false,
+          "area_m2": 5418783.6
+        }
+      },
+      "files": {
+        "segments_geojson": "segments_2025.geojson",
+        "segments_csv": "segments_2025.csv",
+        "banklines_geojson": "banklines_2025.geojson",
+        "bank_points_geojson": "bank_points_2025.geojson"
+      }
+    },
+    "2026": {
+      "year": 2026,
+      "origin_year": 2023,
+      "horizon_years": 3,
+      "n": 150,
+      "counts": {
+        "erosion": 9,
+        "accretion": 11,
+        "low_movement": 130
+      },
+      "quality_counts": {
+        "forecast": 138,
+        "flagged_origin": 12
+      },
+      "mean_m": 0.071,
+      "median_m": 1.153,
+      "min_m": -64.619,
+      "max_m": 30.723,
+      "mean_abs_m": 7.412,
+      "mean_ensemble_std_m": 16.33,
+      "low_movement_tolerance_m": 15.0,
+      "implausible_threshold_m": 150.0,
+      "by_reach": {
+        "middle": {
+          "n": 50,
+          "mean_m": -1.628,
+          "erosion": 1,
+          "accretion": 3,
+          "low_movement": 46
+        },
+        "north": {
+          "n": 50,
+          "mean_m": 1.62,
+          "erosion": 4,
+          "accretion": 4,
+          "low_movement": 42
+        },
+        "south": {
+          "n": 50,
+          "mean_m": 0.221,
+          "erosion": 4,
+          "accretion": 4,
+          "low_movement": 42
+        }
+      },
+      "banklines": {
+        "left": {
+          "n_points": 75,
+          "length_m": 25447.95,
+          "is_simple": true
+        },
+        "right": {
+          "n_points": 75,
+          "length_m": 25150.87,
+          "is_simple": true
+        },
+        "corridor": {
+          "raw_valid": true,
+          "repair_applied": false,
+          "area_m2": 5389659.91
+        }
+      },
+      "files": {
+        "segments_geojson": "segments_2026.geojson",
+        "segments_csv": "segments_2026.csv",
+        "banklines_geojson": "banklines_2026.geojson",
+        "bank_points_geojson": "bank_points_2026.geojson"
+      }
+    }
+  },
+  "observed_banklines": "observed_banklines_2023.geojson",
+  "note": "Forecasts are conditional on the observed 2023 bank positions and fixed 2023 transects. They are not a full hydrodynamic or sediment-transport simulation. Positive displacement is outward bank movement (erosion); negative is inward (accretion). Low movement is within the 15 m tolerance, half a 30 m pixel.",
+  "frozen_utc": "2026-10-20T17:25:02.397418+00:00"
+}

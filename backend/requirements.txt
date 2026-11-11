@@ -1,0 +1,5 @@
+Django>=6.0,<7.0
+djangorestframework>=3.16,<4.0
+django-cors-headers>=4.7,<5.0
+
+shapely>=2.0,<3.0

@@ -1,0 +1,74 @@
+{
+  "created_utc": "2026-10-21T06:03:58.822604+00:00",
+  "origin_year": 2024,
+  "training_cutoff_year": 2024,
+  "forecast_years": [
+    2025,
+    2026
+  ],
+  "training_inputs": [
+    "/media/saad/HDD/rivererosionaccretion/derived/measurements/bank_positions.csv",
+    "/media/saad/HDD/rivererosionaccretion/evaluation/observed_bank_positions_2024.csv"
+  ],
+  "training_2024_observations_already_seen": true,
+  "n_rows": 9750,
+  "n_usable": 6053,
+  "n_target_2024_rows": 300,
+  "n_forecast_rows": 300,
+  "features": [
+    "last_rate_m_per_yr",
+    "last2_mean_rate_m_per_yr",
+    "last3_mean_rate_m_per_yr",
+    "acceleration_m_per_yr2",
+    "last_displacement_m",
+    "last_interval_years",
+    "last_interval_good",
+    "width_m",
+    "width_change_last_m",
+    "abs_curvature_1_m",
+    "sinuosity",
+    "is_left_bank",
+    "horizon_years",
+    "elapsed_years",
+    "last_rate_missing",
+    "last2_missing",
+    "last3_missing",
+    "width_missing",
+    "curvature_missing",
+    "sinuosity_missing"
+  ],
+  "identifiers": [
+    "sample_id",
+    "forecast_year",
+    "target_year",
+    "origin_year",
+    "horizon_years",
+    "elapsed_years",
+    "transect_id",
+    "side",
+    "reach",
+    "along_m",
+    "origin_bank_x",
+    "origin_bank_y",
+    "normal_x",
+    "normal_y",
+    "outward_sign"
+  ],
+  "labels": [
+    "target_displacement_m",
+    "target_rate_m_per_yr",
+    "target_bank_x",
+    "target_bank_y",
+    "label_quality",
+    "usable_for_training"
+  ],
+  "historical_rows_compared_to_v1": 9450,
+  "historical_v1_mismatches": {},
+  "v1_immutable_hashes": {
+    "frozen_ready": "d113c99da9fed2270dd2dd4892c6812d5aa5b907f0f4b5e4ff42274886f72f98",
+    "metrics_sha256": "efb7ca2056c6e21b0adfef3dcfc5a0dcb2ad3b964d6be291dfd7620e90004ba7",
+    "model_sha256": "84714efae3ee38a6d89277799fad5f87c5bb31e6e884d8124462dafb97eceaad",
+    "dataset_sha256": "ab2ce7a529a0d237ad34bf01523051a638e059dc58408565c0d8eef83380f060",
+    "forecast_features_sha256": "ffa6e5e3de2779f20a68359e83661143809dc4a91a20ebce9e91ffb6ab5ee568"
+  }
+}

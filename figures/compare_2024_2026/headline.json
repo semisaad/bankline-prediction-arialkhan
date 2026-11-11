@@ -1,0 +1,38 @@
+{
+  "n_good_pairs": 398,
+  "n_flagged_or_invalid": 52,
+  "model_mae_m": 9.148572143199129,
+  "zero_mae_m": 5.8176936623045306,
+  "model_closer_share": 0.10804020100502512,
+  "zero_closer_share": 0.8919597989949749,
+  "tie_share": 0.0,
+  "both_within_15_share": 0.7939698492462312,
+  "by_year": {
+    "2024": {
+      "n": 134,
+      "model_mae_m": 6.606315916911564,
+      "zero_mae_m": 3.8789566461495957,
+      "model_closer_share": 0.06716417910447761,
+      "both_within_15_share": 0.8731343283582089
+    },
+    "2025": {
+      "n": 134,
+      "model_mae_m": 10.74553809885555,
+      "zero_mae_m": 7.294484952085983,
+      "model_closer_share": 0.12686567164179105,
+      "both_within_15_share": 0.7611940298507462
+    },
+    "2026": {
+      "n": 130,
+      "model_mae_m": 10.122948268311232,
+      "zero_mae_m": 6.293853103335657,
+      "model_closer_share": 0.13076923076923078,
+      "both_within_15_share": 0.7461538461538462
+    }
+  },
+  "definitions": {
+    "model_closer": "strictly smaller absolute error than zero change; exact ties reported separately",
+    "both_within_15": "both forecast and zero errors <= 15 m; connector drawn grey",
+    "connector_colors": "grey if both <= 15 m; green if model strictly closer; red if zero strictly closer; exact ties grey"
+  }
+}

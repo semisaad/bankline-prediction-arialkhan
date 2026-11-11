@@ -1,0 +1,6 @@
+
+> river-bank-forecast-ui@1.0.0 test
+> node tests/smoke.mjs
+
+ui-v2 proof ok
+screenshots: /media/saad/HDD/rivererosionaccretion/demo/ui-v2

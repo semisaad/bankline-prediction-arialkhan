@@ -1,0 +1,70 @@
+{
+  "created_utc": "2026-10-20T17:14:49.100144+00:00",
+  "years": [
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "intervals": 33,
+  "change_rows": 33,
+  "bank_interval_rows": 4950,
+  "bank_quality_counts": {
+    "good": 3163,
+    "flagged": 1013,
+    "invalid": 646,
+    "implausible": 128
+  },
+  "usable_bank_intervals": 3163,
+  "good_interval_class_counts": {
+    "low_movement": 2235,
+    "erosion": 443,
+    "accretion": 485
+  },
+  "sign_counts_all_valid": {
+    "erosion_positive": 954,
+    "accretion_negative": 902,
+    "exact_zero": 2448
+  },
+  "elapsed_days_range": [
+    365,
+    730
+  ],
+  "change_area_summary_m2": {
+    "erosion_total_raw": 21741300.0,
+    "accretion_total_raw": 24249600.0,
+    "erosion_total_filtered": 19164600.0,
+    "accretion_total_filtered": 22196700.0
+  },
+  "note": "Land-to-water and water-to-land pixel transitions are potential erosion and accretion signals. They can be caused by water stage, seasonal wetness or classification error. They are not proof of sediment erosion or deposition."
+}

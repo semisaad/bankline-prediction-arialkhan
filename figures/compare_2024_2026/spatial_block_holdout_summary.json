@@ -1,0 +1,14 @@
+{
+  "n_blocks": 5,
+  "n_blocks_model_beats_zero": 0,
+  "pooled_model_mae_m": 10.44873184001271,
+  "pooled_zero_mae_m": 5.8176936623045306,
+  "post_hoc": true,
+  "already_scored_years": [
+    2024,
+    2025,
+    2026
+  ],
+  "very_low_power": true,
+  "no_bootstrap_interval": true
+}

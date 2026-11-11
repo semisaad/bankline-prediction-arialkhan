@@ -1,0 +1,2556 @@
+{
+ "type": "FeatureCollection",
+ "name": "observed_bank_points_2025",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.16802150353077,
+     23.248974980325364
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 1,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1678665355676,
+     23.24810040863584
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 1,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.171012122617,
+     23.248758145440302
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 2,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17074464753858,
+     23.246857962419867
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 2,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1744768931152,
+     23.2485497887593
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 3,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1742764289219,
+     23.246921580630662
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 3,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17784168657272,
+     23.248339556929658
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 4,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.17772418971265,
+     23.24671284158715
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 4,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18132885911746,
+     23.24840221723688
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 5,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1810553233732,
+     23.24650193131881
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 5,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18467528537153,
+     23.247920739214248
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 6,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.184276327434,
+     23.246018205647854
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 6,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18793147834934,
+     23.24716680240184
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 7,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.18744434692871,
+     23.24553346247617
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 7,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19112029776723,
+     23.246140819970524
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 8,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19049982437171,
+     23.244755173458284
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 8,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19413273497665,
+     23.244840846174792
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 9,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19345271524301,
+     23.243672864888552
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 9,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.1969892266475,
+     23.242996484607172
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 10,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19608855397033,
+     23.24189732007807
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 10,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2008135099218,
+     23.241984441297188
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 11,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.19866491413808,
+     23.24004791727406
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 11,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20176031432976,
+     23.238738430766453
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 12,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20060800020043,
+     23.237793323636172
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 12,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20357244466172,
+     23.236146220421467
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 13,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2021306389948,
+     23.23503305925053
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 13,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20596265997298,
+     23.233930464214627
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 14,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2043933848873,
+     23.232568413479566
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 14,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20835420359691,
+     23.23164704190342
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 15,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20718285164159,
+     23.230451866394517
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 15,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21102344484764,
+     23.22970779470359
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 16,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20979397640369,
+     23.2283320941918
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 16,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21373745897245,
+     23.227860550916834
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 17,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21250797505826,
+     23.226484870335348
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 17,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21638406352166,
+     23.225916221994385
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 18,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21495137731456,
+     23.2243628988068
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 18,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21906649279458,
+     23.223718379044588
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 19,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21750428034935,
+     23.222241069020015
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 19,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22175123035662,
+     23.2214047890535
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 20,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2199771591393,
+     23.22011865136503
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 20,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22356699538533,
+     23.21860597972709
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 21,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22182576903892,
+     23.21780401783779
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 21,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22509471662717,
+     23.215565192545977
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 22,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22333984390622,
+     23.21542426137663
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 22,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2248705631414,
+     23.21223652450781
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 23,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22295618094338,
+     23.212860405705626
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 23,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22257956763188,
+     23.20969076386997
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 24,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22109266833408,
+     23.210760625682447
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 24,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21993402399397,
+     23.2076622489542
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 25,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21857261574311,
+     23.208992036641778
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 25,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21738509729695,
+     23.205895364094086
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 26,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21571010705597,
+     23.20704593320891
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 26,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21538172874435,
+     23.203617625664435
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 27,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21331289357984,
+     23.204498541546226
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 27,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21544008333817,
+     23.200802770200443
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 28,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21367406727443,
+     23.20120927578827
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 28,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21520907250839,
+     23.197815762941296
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 29,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21285867658037,
+     23.19815335142159
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 29,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21468860830504,
+     23.19466176654122
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 30,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21203957417885,
+     23.195277744195593
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 30,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21387154275911,
+     23.191686594276327
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 31,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2115142421121,
+     23.192362136278366
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 31,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21276018496226,
+     23.188779777287664
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 32,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21010540351415,
+     23.1896781001172
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 32,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2116453121641,
+     23.186044432498097
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 33,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20869876805469,
+     23.18689044962276
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 33,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21081854532612,
+     23.1835416928956
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 34,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20759152587627,
+     23.18379240179348
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 34,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20969990865113,
+     23.180991207507578
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 35,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20766054596376,
+     23.180469149344344
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 35,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21077176724688,
+     23.17852712254997
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 36,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.20947764511979,
+     23.17758809427248
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 36,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21358035954415,
+     23.17747212533507
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 37,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2124418762207,
+     23.175578202690993
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 37,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21631002235237,
+     23.176459010156098
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 38,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21570251213241,
+     23.17428205994342
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 38,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21940000500392,
+     23.175972097235814
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 39,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.21928606328567,
+     23.173803878094578
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 39,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22272943974826,
+     23.175760124565393
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 40,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22299446199025,
+     23.17441092088705
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 40,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22570771390858,
+     23.176624995855647
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 41,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22616906527297,
+     23.175550022969304
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 41,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22840714472898,
+     23.178026455851416
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 42,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.22921687822372,
+     23.176957609375545
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 42,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23080809648587,
+     23.180009028203735
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 43,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23200166537887,
+     23.178939473310308
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 43,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23280973449906,
+     23.1823695243719
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 44,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23429450376126,
+     23.181382597355622
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 44,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23440333831205,
+     23.18490141938104
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 45,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23569950267901,
+     23.184274583921507
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 45,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23563485573288,
+     23.1876308469459
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 46,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23740244378146,
+     23.186924128062042
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 46,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23674443611962,
+     23.19043608030428
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 47,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2385157755997,
+     23.189761145516364
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 47,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2375620667147,
+     23.193408793800696
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 48,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23992575081422,
+     23.192418733857295
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 48,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23883430768674,
+     23.1963519540385
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 49,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.241147412754,
+     23.19503866317858
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 49,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24079933039413,
+     23.199365011910636
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 50,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24274724816075,
+     23.19723295488011
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 50,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24405601049737,
+     23.20104680561469
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 51,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24446548974856,
+     23.19915853011648
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 51,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24767691626866,
+     23.200297899617848
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 52,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24725277027427,
+     23.19947813538312
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 52,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2503577342361,
+     23.197943347942253
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 53,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2489089139444,
+     23.197170178940883
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 53,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25101411778952,
+     23.194496475590817
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 54,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24984188678818,
+     23.194522804704633
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 54,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25020086502614,
+     23.191294705877766
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 55,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24901926880915,
+     23.191779941108372
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 55,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24761094592587,
+     23.189032748972263
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 56,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24671877654013,
+     23.189688739796484
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 56,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24531503738515,
+     23.186721103949587
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 57,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24382718380508,
+     23.18804539918161
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 57,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24301787159817,
+     23.18447456005373
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 58,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24132233475753,
+     23.185564474857635
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 58,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24101510379803,
+     23.18215844864172
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 59,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2398324107267,
+     23.18269990513736
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 59,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24048965373579,
+     23.179218367267044
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 60,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23901536664427,
+     23.179698002256107
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 60,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23996323030912,
+     23.176326493657008
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 61,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23760958379678,
+     23.176842360104818
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 61,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23914350673955,
+     23.173456100825987
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 62,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23679120890604,
+     23.17390873190327
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 62,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23832396162236,
+     23.170578407234608
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 63,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23626985174839,
+     23.170774582261835
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 63,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23809319601045,
+     23.16755328959312
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 64,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23633665796251,
+     23.16752245536686
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 64,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23844805714354,
+     23.164532407822584
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 65,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23669543159892,
+     23.164312943293933
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 65,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23909293221315,
+     23.161648578756555
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 66,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23705357522027,
+     23.16113286668768
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 66,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24002874996911,
+     23.158855756245092
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 67,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2382842837647,
+     23.158241962834097
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 67,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24154589203705,
+     23.156273067299693
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 68,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.23980435407908,
+     23.15551761101807
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 68,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24335204775062,
+     23.153873843597204
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 69,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24103500912534,
+     23.152623344777968
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 69,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24429073672215,
+     23.150932965789433
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 70,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24284415664482,
+     23.15007566237492
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 70,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24754409094355,
+     23.149354880623743
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 71,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.2447284444027,
+     23.14744420341865
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 71,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25080201025658,
+     23.147549614241285
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 72,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24675340454561,
+     23.145060765152287
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 72,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25261603109932,
+     23.144750543378876
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 73,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.24855765415667,
+     23.142742087909486
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 73,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25181544510288,
+     23.140934186106602
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 74,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25021035923588,
+     23.14022891319968
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 74,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25304727180317,
+     23.13796188340336
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 75,
+    "side": "L",
+    "valid_bank": true,
+    "flags": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     90.25071831391843,
+     23.137303143895334
+    ]
+   },
+   "properties": {
+    "year": 2025,
+    "transect_id": 75,
+    "side": "R",
+    "valid_bank": true,
+    "flags": ""
+   }
+  }
+ ]
+}

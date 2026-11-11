@@ -1,0 +1,43 @@
+{
+  "checks": {
+    "forecast_banklines_2024": {
+      "sha256": "d2c14782a764f64b3f905e923c27d1a80a3d2177b3d7bd94e8467b8c91a0f224",
+      "matches_frozen_manifest": true
+    },
+    "forecast_banklines_2025": {
+      "sha256": "b532aa51a7c84b42baf860b8dc55a925e2ba3db0de0546be06351dc08d9904ff",
+      "matches_frozen_manifest": true
+    },
+    "forecast_banklines_2026": {
+      "sha256": "d9516788c7d4cabc0f6c290ab1ae3f5a47bd718709473d49f49c2fa21b61b9ed",
+      "matches_frozen_manifest": true
+    },
+    "forecast_bank_points_2024": {
+      "sha256": "8691c0ca60f5ce09565666b819c539704dae12a41230501031efc9190bd609b4",
+      "matches_frozen_manifest": true
+    },
+    "forecast_bank_points_2025": {
+      "sha256": "e72d3641c7b2ed612c5a7796490f1aaef3363effc73bf72601d3c23c05201d3d",
+      "matches_frozen_manifest": true
+    },
+    "forecast_bank_points_2026": {
+      "sha256": "dc6544b8f3ef99741d54cd7076fa98028ea7e7a00ad0e49f5a85349d39f99178",
+      "matches_frozen_manifest": true
+    },
+    "observed_banklines_2023": {
+      "sha256": "0716004b53afa68fc753707ecf5f2bb9c9a10c8921d731dbda56b1085e6da5ee",
+      "matches_frozen_manifest": true
+    },
+    "bank_migration_dataset": {
+      "sha256": "ab2ce7a529a0d237ad34bf01523051a638e059dc58408565c0d8eef83380f060",
+      "matches_frozen_manifest": true
+    },
+    "forecast_features_2023": {
+      "sha256": "ffa6e5e3de2779f20a68359e83661143809dc4a91a20ebce9e91ffb6ab5ee568",
+      "matches_frozen_manifest": true
+    }
+  },
+  "frozen_manifest_sha256": "d113c99da9fed2270dd2dd4892c6812d5aa5b907f0f4b5e4ff42274886f72f98",
+  "frozen_ready_sha256": "1e3cd8351cd952282864e268d1ea0582b988ef728a3bb3cdc829976201a11954",
+  "pass": true
+}

@@ -1,0 +1,41 @@
+{
+  "overview_map_width_px": 3126.828589988783,
+  "overview_m_per_px": 3.3920666932856713,
+  "connector_linewidth_pt": 2.0,
+  "connector_linewidth_px_at_200dpi": 5.555555555555555,
+  "drawn_all_valid_connectors": true,
+  "note": "Connectors are drawn for every valid pair; short vectors can still be subpixel in the true-scale overview, which is why the separate 5x panel exists.",
+  "years": [
+    {
+      "year": 2024,
+      "n_connectors": 134,
+      "m_per_overview_px": 3.3920666932856713,
+      "n_shorter_than_1px_true": 80,
+      "n_shorter_than_1px_5x": 26,
+      "min_m": 0.014976548217497802,
+      "median_m": 2.6648425429755616,
+      "max_m": 52.08249015570599
+    },
+    {
+      "year": 2025,
+      "n_connectors": 134,
+      "m_per_overview_px": 3.3920666932856713,
+      "n_shorter_than_1px_true": 59,
+      "n_shorter_than_1px_5x": 21,
+      "min_m": 0.0038025899665927614,
+      "median_m": 4.564747819841624,
+      "max_m": 126.9622473100929
+    },
+    {
+      "year": 2026,
+      "n_connectors": 130,
+      "m_per_overview_px": 3.3920666932856713,
+      "n_shorter_than_1px_true": 43,
+      "n_shorter_than_1px_5x": 11,
+      "min_m": 0.03910633281914328,
+      "median_m": 6.25323483574995,
+      "max_m": 65.79480212349932
+    }
+  ],
+  "pass": true
+}

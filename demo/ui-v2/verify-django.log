@@ -1,0 +1,16 @@
+Creating test database for alias 'default'...
+..Service Unavailable: /api/forecast/summary/
+Service Unavailable: /api/forecast/maps/
+Service Unavailable: /api/forecast/metrics/
+..Bad Request: /api/forecast/maps/
+Bad Request: /api/forecast/maps/
+Bad Request: /api/forecast/maps/
+.Bad Request: /api/forecast/maps/
+........
+----------------------------------------------------------------------
+Ran 13 tests in 4.623s
+
+OK
+Destroying test database for alias 'default'...
+Found 13 test(s).
+System check identified no issues (0 silenced).

@@ -1,0 +1,143 @@
+{
+  "positive_sign": "erosion (outward bank movement, away from channel)",
+  "negative_sign": "accretion (inward bank movement, toward channel)",
+  "low_movement_tolerance_m": 15.0,
+  "features": {
+    "last_rate_m_per_yr": {
+      "unit": "m/yr",
+      "derivation": "annualised signed displacement of the most recent valid interval ending at or before the origin",
+      "availability": "origin",
+      "missing": "NaN plus missing indicator"
+    },
+    "last2_mean_rate_m_per_yr": {
+      "unit": "m/yr",
+      "derivation": "mean of the last two valid interval rates ending at or before the origin",
+      "availability": "origin",
+      "missing": "NaN plus missing indicator"
+    },
+    "last3_mean_rate_m_per_yr": {
+      "unit": "m/yr",
+      "derivation": "mean of the last three valid interval rates ending at or before the origin",
+      "availability": "origin",
+      "missing": "NaN plus missing indicator"
+    },
+    "acceleration_m_per_yr2": {
+      "unit": "m/yr\u00b2",
+      "derivation": "last rate minus the immediately previous rate",
+      "availability": "origin",
+      "missing": "NaN"
+    },
+    "last_displacement_m": {
+      "unit": "m",
+      "derivation": "signed displacement of the most recent valid interval",
+      "availability": "origin",
+      "missing": "NaN"
+    },
+    "last_interval_years": {
+      "unit": "years",
+      "derivation": "elapsed years of the most recent valid interval",
+      "availability": "origin",
+      "missing": "NaN"
+    },
+    "last_interval_good": {
+      "unit": "0/1",
+      "derivation": "quality flag of the most recent interval",
+      "availability": "origin",
+      "missing": "NaN"
+    },
+    "width_m": {
+      "unit": "m",
+      "derivation": "distance between the two outer bank intersections at the origin",
+      "availability": "origin",
+      "missing": "NaN plus indicator"
+    },
+    "width_change_last_m": {
+      "unit": "m",
+      "derivation": "width at the end minus width at the start of the most recent interval",
+      "availability": "origin",
+      "missing": "NaN"
+    },
+    "abs_curvature_1_m": {
+      "unit": "1/m",
+      "derivation": "absolute local bankline curvature fitted over \u00b1120 m at the origin",
+      "availability": "origin",
+      "missing": "NaN plus indicator"
+    },
+    "sinuosity": {
+      "unit": "ratio",
+      "derivation": "origin-year bank path length divided by straight-line distance over a five-transect window",
+      "availability": "origin",
+      "missing": "NaN plus indicator"
+    },
+    "is_left_bank": {
+      "unit": "0/1",
+      "derivation": "1 for the left bank when facing downstream",
+      "availability": "origin",
+      "missing": "never"
+    },
+    "horizon_years": {
+      "unit": "years",
+      "derivation": "target calendar year minus origin calendar year",
+      "availability": "forecast design",
+      "missing": "never"
+    },
+    "elapsed_years": {
+      "unit": "years",
+      "derivation": "actual days between nominal 25 March dates divided by 365.25",
+      "availability": "forecast design",
+      "missing": "never"
+    },
+    "last_rate_missing": {
+      "unit": "0/1",
+      "derivation": "missing indicator for last_rate",
+      "availability": "origin",
+      "missing": "never"
+    },
+    "last2_missing": {
+      "unit": "0/1",
+      "derivation": "missing indicator for last2_mean",
+      "availability": "origin",
+      "missing": "never"
+    },
+    "last3_missing": {
+      "unit": "0/1",
+      "derivation": "missing indicator for last3_mean",
+      "availability": "origin",
+      "missing": "never"
+    },
+    "width_missing": {
+      "unit": "0/1",
+      "derivation": "missing indicator for width",
+      "availability": "origin",
+      "missing": "never"
+    },
+    "curvature_missing": {
+      "unit": "0/1",
+      "derivation": "missing indicator for curvature",
+      "availability": "origin",
+      "missing": "never"
+    },
+    "sinuosity_missing": {
+      "unit": "0/1",
+      "derivation": "missing indicator for sinuosity",
+      "availability": "origin",
+      "missing": "never"
+    }
+  },
+  "excluded_on_purpose": [
+    "transect_id and sample_id (stable identifiers, not predictors)",
+    "reach, along_m and coordinates (spatial identifiers; used only for reporting/evaluation)",
+    "any target-year bank position, area, rainfall, discharge or test-period observation",
+    "segment_id"
+  ],
+  "target": {
+    "name": "target_displacement_m",
+    "unit": "m",
+    "definition": "signed bank displacement from origin to target; positive = erosion",
+    "label_quality": "good only for training"
+  },
+  "low_movement": {
+    "tolerance_m": 15.0,
+    "rationale": "half of the 30 m Landsat pixel; near the minimum detectable bank change"
+  }
+}

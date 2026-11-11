@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-25T10:34:49.248Z",
+  "ui_url": "http://localhost:5173",
+  "api_status": "ok",
+  "frozen": true,
+  "counts": {
+    "strong": 0,
+    "moderate": 0,
+    "land_gained": 11,
+    "no_clear": 39
+  },
+  "features_with_geometry": 49,
+  "undefined_intervals": 4,
+  "relative_available": false,
+  "satellite_requests": 56,
+  "screenshots": [
+    "desktop-observed.png",
+    "desktop-past.png",
+    "desktop-reliability.png",
+    "desktop-risk.png",
+    "desktop-tested.png",
+    "mobile-past.png",
+    "mobile-risk.png",
+    "mobile-tested.png",
+    "tablet-offline.png",
+    "tablet-past.png",
+    "tablet-risk.png"
+  ]
+}

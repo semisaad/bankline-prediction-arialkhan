@@ -1,0 +1,67 @@
+{
+  "boundary_tolerance_m": 30.0,
+  "displayed_line": "unsimplified selected-river mask boundary, all components and holes",
+  "source_polyline_note": "The supplied observed_banklines are 75-vertex chords; their vertices are on the boundary, but straight chords cut bends and can exceed 30 m when sampled densely. The displayed solid line is the mask boundary, not those chords.",
+  "years": [
+    {
+      "year": 2024,
+      "observed_points_max_m": 1.9208528101444244e-09,
+      "observed_points_above_30m": 0,
+      "displayed_boundary_max_m": 0.0,
+      "source": [
+        {
+          "side": "L",
+          "source_vertices_max_m": 1.862645149230957e-09,
+          "source_dense_5m_max_m": 88.71160828560824
+        },
+        {
+          "side": "R",
+          "source_vertices_max_m": 1.9208528101444244e-09,
+          "source_dense_5m_max_m": 81.51336747733876
+        }
+      ],
+      "source_chord_exceeds_30m": true
+    },
+    {
+      "year": 2025,
+      "observed_points_max_m": 2.0372681319713593e-09,
+      "observed_points_above_30m": 0,
+      "displayed_boundary_max_m": 0.0,
+      "source": [
+        {
+          "side": "L",
+          "source_vertices_max_m": 1.862645149230957e-09,
+          "source_dense_5m_max_m": 88.97195998432078
+        },
+        {
+          "side": "R",
+          "source_vertices_max_m": 2.0372681319713593e-09,
+          "source_dense_5m_max_m": 75.20578855500207
+        }
+      ],
+      "source_chord_exceeds_30m": true
+    },
+    {
+      "year": 2026,
+      "observed_points_max_m": 1.9208528101444244e-09,
+      "observed_points_above_30m": 0,
+      "displayed_boundary_max_m": 0.0,
+      "source": [
+        {
+          "side": "L",
+          "source_vertices_max_m": 1.8044374883174898e-09,
+          "source_dense_5m_max_m": 88.70260486418118
+        },
+        {
+          "side": "R",
+          "source_vertices_max_m": 1.9208528101444244e-09,
+          "source_dense_5m_max_m": 75.20578855500207
+        }
+      ],
+      "source_chord_exceeds_30m": true
+    }
+  ],
+  "observed_points_pass": true,
+  "displayed_boundary_pass": true,
+  "pass": true
+}
